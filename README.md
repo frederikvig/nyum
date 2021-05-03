@@ -60,6 +60,10 @@ Run `bash build.sh`.
 
 ![](_assets/readme-images/4-build.gif)
 
+#### Windows
+
+If you have GIT installed you can right-click the folder and choose Git Bash Here. Then execute the command: `bash build.sh`.
+
 
 ### Formatting
 

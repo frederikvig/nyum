@@ -52,8 +52,11 @@ $CLEAN && exit
 status "Copying assets..."
 x cp -r _assets/ _site/assets/
 
+status "Copying images..."
+x cp -r _recipes/images/ _site/images/
+
 status "Copying static files..."
-for FILE in _recipes/*; do
+for FILE in _recipes/*.md; do
     [[ "$FILE" == *.md ]] && continue
     x cp "$FILE" _site/
 done
