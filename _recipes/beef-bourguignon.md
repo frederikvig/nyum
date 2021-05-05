@@ -1,6 +1,5 @@
 ---
 title: Beef Bourguignon
-category: Dinner
 description: Julia Child’s Beef Bourguignon (Bœuf Bourgignon in French) is a world wide loved classic for a reason. This is one recipe where you want to take your time cooking it, drinking a glass of wine or two while preparing it, and show it a lot of love. Every step is worth it.
 image: images/beef-bourguignon.jpg
 size: 6 servings

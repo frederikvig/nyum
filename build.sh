@@ -55,12 +55,6 @@ x cp -r _assets/ _site/assets/
 status "Copying images..."
 x cp -r _recipes/images/ _site/images/
 
-status "Copying static files..."
-for FILE in _recipes/*.md; do
-    [[ "$FILE" == *.md ]] && continue
-    x cp "$FILE" _site/
-done
-
 status "Building recipe pages..."
 for FILE in _recipes/*.md; do
     # set basename to enable linking to github in the footer

@@ -1,7 +1,6 @@
 ---
 title: Nachos
 original_title: Epic Beef Nachos Supreme
-category: Appetizer
 description: You need to make this epic beef nachos supreme at your next game day. Seasoned ground beef, refried beans, cheese, tomatoes and green onions make such a great flavor combination.
 image: images/baked-chicken-breast.jpg
 size: 10-12 servings

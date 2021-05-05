@@ -1,7 +1,6 @@
 ---
 title: Nachos
 original_title: Easy Chicken Fajitas
-category: Dinner
 description: Easy Chicken Fajitas are one of our all-time favorite dinners. Tender juicy chicken breasts, fresh crisp peppers, and sweet onions tossed in an easy homemade seasoning and piled high in tortillas.
 image: images/fajitas.jpg
 size: 4 servings

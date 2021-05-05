@@ -1,7 +1,6 @@
 ---
 title: French Fries
 original_title: Baked French Fries
-category: Dinner
 description:  You can make crispy Baked French Fries in the oven!
 image: images/french-fries.jpg
 size: 4 servings

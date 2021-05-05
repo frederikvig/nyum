@@ -1,6 +1,5 @@
 ---
 title: Baked Chicken Breast
-category: Dinner
 description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
 image: images/baked-chicken-breast.jpg
 size: 6 servings

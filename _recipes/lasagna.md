@@ -1,7 +1,6 @@
 ---
 title: Lasagna
 original_title: World's Best Lasagna
-category: Dinner
 description: World's Best Lasagna. It takes a little work, but it is worth it.
 image: images/lasagna.jpg
 size: 12 servings

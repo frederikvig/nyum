@@ -1,7 +1,6 @@
 ---
 title: Pork Chopes
 original_title: The Best Juicy Skillet Pork Chops
-category: Dinner
 description: Say goodbye to dry and flavorless pork chops. With a few simple tricks, you can make juicy and tender pork chops with very little fuss. I love how juicy these are!
 image: images/pork-chopes.jpg
 size: 4 servings
