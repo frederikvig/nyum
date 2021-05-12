@@ -20,20 +20,19 @@ favorite: ✓
 
 ---
 
-** Taco seasoning**
-* `2 teaspoons` chili powder
-* `2 teaspoons` cumin
-* `1 teaspoon` garlic powder
-* `½ teaspoon` paprika
-* `¼ teaspoon` oregano
-* `1 teaspoon` salt
-* `1 teaspoon` black pepper
+* `2 tsp` chili powder
+* `2 tsp` cumin
+* `1 tsp` garlic powder
+* `½ tsp` paprika
+* `¼ tsp` oregano
+* `1 tsp` salt
+* `1 tsp` black pepper
 
-> Return the beef to the pan, and sprinkle on the taco seasoning (can be replaced with store bought taco seasoning). 
+> Return the beef to the pan, and sprinkle on the taco seasoning (see ingredient list, can be replaced with store bought taco seasoning). 
 
 ---
 
-> Stir in 3/4 cup water, bring it to a simmer, reduce heat and simmer until the liquid mostly evaporates, about 5 minutes.
+> Stir in ¾ cup water, bring it to a simmer, reduce heat and simmer until the liquid mostly evaporates, about 5 minutes.
 
 ---
 

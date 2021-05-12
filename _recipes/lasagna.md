@@ -13,17 +13,17 @@ favorite: ✓
 * `¾ pound` lean ground beef
 * `½ cup` minced onion
 * `2` cloves garlic, crushed
-* `1 (28 ounce) can` crushed tomatoes
-* `2 (6 ounce) cans` tomato paste
-* `2 (6.5 ounce) cans` canned tomato sauce
+* `1 (28 oz)` can crushed tomatoes
+* `2 (6 oz)` cans tomato paste
+* `2 (6½ oz)` cans canned tomato sauce
 * `½ cup` water
-* `2 tablespoons` white sugar
-* `1½ teaspoons` dried basil leaves
-* `½ teaspoon` fennel seeds
-* `1 teaspoon` Italian seasoning
-* `1½ teaspoons` salt, divided, or to taste
-* `¼ teaspoon` ground black pepper
-* `4 tablespoons` chopped fresh parsley
+* `2 tbsp` white sugar
+* `1½ tsp` dried basil leaves
+* `½ tsp` fennel seeds
+* `1 tsp` Italian seasoning
+* `1½ tsp` salt, divided, or to taste
+* `¼ tsp` ground black pepper
+* `4 tbsp` chopped fresh parsley
 * `12` lasagna noodles
 * `16 ounces` ricotta cheese
 * `1` egg

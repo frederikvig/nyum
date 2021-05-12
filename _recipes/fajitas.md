@@ -1,5 +1,5 @@
 ---
-title: Nachos
+title: Fajitas
 original_title: Easy Chicken Fajitas
 description: Easy Chicken Fajitas are one of our all-time favorite dinners. Tender juicy chicken breasts, fresh crisp peppers, and sweet onions tossed in an easy homemade seasoning and piled high in tortillas.
 image: images/fajitas.jpg
@@ -18,12 +18,12 @@ favorite: ✓
 
 * `3` chicken breasts
 * `1` lime
-* `3 tablespoons` olive oil, divided
-* `1 teaspoon` chili powder
-* `½ teaspoon` smoked paprika
-* `½ teaspoon` onion powder
-* `½ teaspoon` fresh black pepper
-* `½ teaspoon` cumin (optional)
+* `3 tbsp` olive oil, divided
+* `1 tsp` chili powder
+* `½ tsp` smoked paprika
+* `½ tsp` onion powder
+* `½ tsp` fresh black pepper
+* `½ tsp` cumin (optional)
 * salt to taste
 
 > In a separate bowl, combine 1 tablespoon olive oil, juice of ½ lime, chili powder, paprika, onion powder, pepper, cumin and salt. Cut chicken into strips and toss with the spice mixture.

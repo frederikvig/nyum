@@ -12,7 +12,6 @@ favorite: ✓
 
 ---
 
-**Dry Rub**
 * `1 tbsp` smoked paprika or regular paprika
 * `1 tbsp` Italian seasoning
 * `1 tsp` onion powder

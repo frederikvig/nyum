@@ -7,18 +7,20 @@ size: 8 servings
 time: 20 minutes
 source: https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/
 favorite: ✓
+sweet: ✓
+vegan: ✓
 ---
 
 * `1½ cups` all-purpose flour
-* `3½ teaspoons` baking powder
-* `1 teaspoon` salt
-* `1 tablespoon` white sugar
+* `3½ tsp` baking powder
+* `1 tsp` salt
+* `1 tbsp` white sugar
 * `1½ cups` milk (sometimes more, look at tickness and how it forms when in pan)
 * `1` egg
-* `3 tablespoons` butter, melted
+* `3 tbsp` butter, melted
 
 > In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.
 
 ---
 
-> Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot. 
+> Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately ¼ cup for each pancake. Brown on both sides and serve hot. 

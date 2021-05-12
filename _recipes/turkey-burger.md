@@ -15,8 +15,8 @@ favorite: ✓
 * `2` egg whites, lightly beaten
 * `¼ cup` chopped fresh parsley
 * `1` clove garlic, peeled and minced
-* `1 teaspoon` salt
-* `¼ teaspoon` ground black pepper
+* `1 tsp` salt
+* `¼ tsp` ground black pepper
 
 > In a large bowl, mix ground turkey, seasoned bread crumbs, onion, egg whites, parsley, garlic, salt, and pepper. Form into 12 patties.
 

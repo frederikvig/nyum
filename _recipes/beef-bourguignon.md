@@ -8,24 +8,24 @@ source: https://cafedelites.com/beef-bourguignon/
 favorite: ✓
 ---
 
-* `1 tablespoon` extra-virgin olive oil
-* `6 ounces (170g)` bacon, roughly chopped
-* `3 pounds (1½ kg)` beef brisket, trimmed of fat (chuck steak or stewing beef) cut into 2-inch chunks
+* `1 tbsp` extra-virgin olive oil
+* `6 ounces` bacon, roughly chopped
+* `3 pounds` beef brisket, trimmed of fat (chuck steak or stewing beef) cut into 2-inch chunks
 * `1` large carrot sliced ½-inch thick
 * `1` large white onion, diced
 * `6` cloves garlic, minced (divided)
 * `1` pinch coarse salt and freshly ground pepper
-* `2 tablespoons` flour
+* `2 tbsp` flour
 * `12` small pearl onions (optional)
 * `3 cups` red wine like Merlot, Pinot Noir, or a Chianti -- for a milder sauce, use only 2 cups of wine
 * `2-3 cups` beef stock (if using 2 cups of wine, use 3 cups beef stock)
-* `2 tablespoons` tomato paste
+* `2 tbsp` tomato paste
 * `1` beef bullion cube, crushed
-* `1 teaspoon` fresh thyme, finely chopped
-* `2 tablespoons` fresh parsley, finely chopped (divided)
+* `1 tsp` fresh thyme, finely chopped
+* `2 tbsp` fresh parsley, finely chopped (divided)
 * `2` bay leaves
 * `1 pound` fresh small white or brown mushrooms, quartered
-* `2 tablespoons` butter
+* `2 tbsp` butter
 
 > In a large dutch oven or heavy based pot, sauté the bacon over medium heat in 1 tablespoon of oil for about 3 minutes, until crisp and browned. Transfer with a slotted spoon to a large dish and set aside.
 

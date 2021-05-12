@@ -6,6 +6,7 @@ size: 4 servings
 time: 1 hour
 source: https://www.gimmesomeoven.com/baked-potato/
 favorite: ✓
+vegan: ✓
 ---
 
 > **Heat the oven.** Heat oven to 450°F.  Line a large baking sheet with foil (or parchment), and if you happen to own a wire cooling rack, place it on top of the baking sheet.
@@ -22,7 +23,7 @@ favorite: ✓
 
 ---
 
-* `1–2 teaspoons` melted butter (or olive oil)
+* `1–2 tsp` melted butter (or olive oil)
 * pinch of coarse Kosher salt
 * pinch of freshly-cracked black pepper
 

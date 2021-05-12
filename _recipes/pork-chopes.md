@@ -11,18 +11,18 @@ favorite: ✓
 
 * `4` pork chops, about 1-inch thick and `6 to 7 ounces` each
 * Salt, to taste
-* `1 tablespoon` all-purpose flour
-* `1 teaspoon` chili powder, see our homemade chili powder recipe
-* `1 teaspoon` garlic powder
-* `1 teaspoon` onion powder
-* `½ teaspoon` smoked paprika
-* `½ teaspoon` ground black pepper
-* `1 tablespoon` olive oil
+* `1 tbsp` all-purpose flour
+* `1 tsp` chili powder, see our homemade chili powder recipe
+* `1 tsp` garlic powder
+* `1 tsp` onion powder
+* `½ tsp` smoked paprika
+* `½ tsp` ground black pepper
+* `1 tbsp` olive oil
 * `1 cup` low-sodium chicken stock, see our homemade chicken stock recipe
-* `1 tablespoon` apple cider vinegar
-* `2 teaspoons` honey or brown sugar
-* `1 tablespoon` butter
-* `2 tablespoons` chopped fresh parsley, optional
+* `1 tbsp` apple cider vinegar
+* `2 tsp` honey or brown sugar
+* `1 tbsp` butter
+* `2 tbsp` chopped fresh parsley, optional
 
 > Take the pork chops out of the refrigerator and season on both sides with salt and pepper — we use just less than 1/4 teaspoon of fine salt per pork chop. Set the chops aside to rest for 30 minutes.
 
@@ -43,7 +43,5 @@ favorite: ✓
 > Transfer pork chops to a plate then cover loosely with aluminum foil. Let the pork rest for 5 minutes.
 
 ---
-
-** Making Pan Sauce**
 
 > While the pork rests, make the pan sauce. Increase the heat to medium-high then add the chicken stock, vinegar, and honey. Use a wooden spoon to scrape the bottom of the pan so that any stuck bits of pork come up. Bring to a simmer and cook until reduced by half. Taste then adjust the seasoning with salt, more vinegar or honey. Slide the skillet off of the heat and when the sauce is no longer simmering, swirl in the butter. Slide the pork chops back into the pan and spoon some of the sauce on top. Alternatively, slice the chops then place back into the pan. Scatter fresh parsley over the pork then serve.

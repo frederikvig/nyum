@@ -6,15 +6,16 @@ image: images/french-fries.jpg
 size: 4 servings
 time: 45 minutes
 source: https://www.wellplated.com/baked-fries/
+vegan: ✓
 ---
 
-* `3 tablespoons` extra-virgin olive oil divided
+* `3 tbsp` extra-virgin olive oil divided
 * `1½ pounds` golden yellow potatoes Yukon Gold or similar, about 4
-* `1 teaspoon` kosher salt plus additional to taste
-* `1 teaspoon` garlic powder
-* `½ teaspoon` dill weed
-* `¼ teaspoon` onion powder
-* `¼ teaspoon` ground black pepper
+* `1 tsp` kosher salt plus additional to taste
+* `1 tsp` garlic powder
+* `½ tsp` dill weed
+* `¼ tsp` onion powder
+* `¼ tsp` ground black pepper
 * Toppings (optional) fresh parsley, chives, freshly grated Parmesan cheese
 
 > Place a rack in the lower third of your oven and preheat to 450 degrees F. Drizzle a large rimmed baking sheet with 1½ tablespoons olive oil, brushing it as needed so that it nicely coats the pan.

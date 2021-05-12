@@ -1,5 +1,5 @@
 # Text shown on the index page.
-index_title: I Can't Believe It's Not a Cookbook!
+index_title: 
 index_description:
   
 
@@ -23,7 +23,7 @@ strings:
   sour_label: Sour
   bitter_label: Bitter
   umami_label: Umami
-  footer_text: Enjoy!
+  footer_text: 
   updated_on: Updated on
   edit: Edit
 
