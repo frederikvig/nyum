@@ -13,7 +13,7 @@ vegan: ✓
 * `6` large russet or gold potatoes (about 3 ½ pounds total), scrubbed
 * `½ cup` milk
 * Kosher salt
-* `½ pound (2 sticks)` salted butter
+* `½ pound (2 sticks)` salted and unsalted (50/50) butter
 * `1 tsp` freshly ground black pepper
 
 > Peel the potatoes, leaving a little skin on each one for texture, if desired (I like to leave about 5 stripes of skin on each potato). Cut the potatoes into 1 ½-inch chunks.

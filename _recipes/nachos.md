@@ -2,7 +2,7 @@
 title: Nachos
 original_title: Epic Beef Nachos Supreme
 description: You need to make this epic beef nachos supreme at your next game day. Seasoned ground beef, refried beans, cheese, tomatoes and green onions make such a great flavor combination.
-image: images/baked-chicken-breast.jpg
+image: images/nachos.jpg
 size: 10-12 servings
 time: 30 minutes
 source: https://www.apinchofhealthy.com/epic-beef-nachos-supreme-better-taco-bell/
