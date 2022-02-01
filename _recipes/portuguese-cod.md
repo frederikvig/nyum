@@ -20,7 +20,7 @@ time: 40 minutes
 
 ---
 
-> Toss the potatoes with 1 tablespoon of oil on a large baking sheet. Season them well with saly and pepper (dried herbs are good too). Arrange the potatoes in a single layer, cut-side down, and bake for 20 to 25 minutes, or until they begin to brown. Make sure to toss potatoes once halfway through baking time.
+> Toss the potatoes with 1 tablespoon of oil on a large baking sheet. Season them well with salt and pepper (dried herbs are good too). Arrange the potatoes in a single layer, cut-side down, and bake for 20 to 25 minutes, or until they begin to brown. Make sure to toss potatoes once halfway through baking time.
 
 ---
 
@@ -28,9 +28,9 @@ time: 40 minutes
 
 ---
 
-> Remove the pan from the oven, add the tomatoe and olives to the potatoes, and stir. Slide all of the vegetables to one side of the pan and place the fillets in a single layer next to the vegetables. Bake for 8 to 12 minutes, or until cod is tender and flaky and the potatoes are browned and cooked through.
+> Remove the pan from the oven, add the tomatoes and olives to the potatoes, and stir. Slide all of the vegetables to one side of the pan and place the fillets in a single layer next to the vegetables. Bake for 8 to 12 minutes, or until cod is tender and flaky and the potatoes are browned and cooked through.
 
 ---
 
-> Drizzle the lemon juice over the fish and the vegetables. Pour just drizzle of olive oil on top of the fillets. 
+> Drizzle the lemon juice over the fish and the vegetables. Pour just a drizzle of olive oil on top of the fillets. 
 

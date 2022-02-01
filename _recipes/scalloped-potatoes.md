@@ -6,6 +6,7 @@ size: 6-8 servings
 time: 1 hour
 source: https://www.today.com/recipes/joanna-gaines-scalloped-potatoes-recipe-t127553
 favorite: ✓
+vegan: ✓
 ---
 
 * `6 tbsp` unsalted butter, plus softened butter for the baking dish
@@ -25,6 +26,7 @@ favorite: ✓
 ---
 
 > Bring a large pot of generously salted water to a rolling boil. Add the potatoes and simmer until just tender but not falling apart, about 8 minutes. Drain thoroughly and set aside.
+
 ---
 
 > In a medium saucepan, melt the 6 tablespoons butter over medium heat. Add onions if used and sauté for 4-6 minutes. Add the garlic and sauté over medium-low heat until softened and fragrant, about 30 seconds. Increase the heat to medium, whisk in the flour, and cook, stirring constantly, for 2 to 3 minutes, until lightly browned and fragrant.
