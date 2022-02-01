@@ -34,6 +34,7 @@ vegan: ✓
 ---
 
 > Whisking constantly, slowly pour in the cream and milk and continue whisking until the sauce is smooth. Add the Gruyère, 1/4 teaspoon salt and the pepper and cook, whisking gently, until the cheese is melted.
+
 ---
 
 > Arrange the potatoes in the prepared baking dish and pour the sauce over them. Bake until warmed all the way through and lightly browned on top, 25 to 30 minutes. Top with the chives and serve.
