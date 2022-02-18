@@ -7,6 +7,7 @@ size: 4 servings
 time: 30 minutes
 source: https://cooking.nytimes.com/recipes/1022152-kimchi-and-potato-hash-with-eggs?action=click&module=RecipeBox&pgType=recipebox-page&region=all&rank=20
 favorite: ✓
+vegan: ✓
 ---
 
 * `5 tblsp` extra-virgin olive oil
@@ -17,6 +18,7 @@ favorite: ✓
 * `4` large eggs
 * Mayonnaise, for garnish
 * `1` scallion, finely chopped
+* Sausages cut into pieces (optional)
 
 > Start by putting the cut potatoes in hot water for 10 minutes to soften them.
 
@@ -30,7 +32,7 @@ favorite: ✓
 
 ---
 
-> Remove the lid, stir the potatoes, then make 4 divots without reaching the bottom of the pan. Drizzle a little of the remaining oil into each divot and crack an egg into each. Cover and cook for 4 to 5 minutes or until eggs are just set.
+> Remove the lid, stir the potatoes, then make 4 divots without reaching the bottom of the pan. Drizzle a little of the remaining oil into each divot and crack an egg into each. Cover and cook for 4 to 5 minutes or until eggs are just set. If adding sausages use separate pan, start with sausages and then eggs after. Transfer to skillet.
 
 ---
 
