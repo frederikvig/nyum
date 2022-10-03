@@ -18,7 +18,7 @@ favorite: ✓
 * freshly ground black pepper to taste
 * pinch of nutmeg (optional)
 * `1½ cups` milk (ideally whole or at least 2%)
-* `26 oz` diced canned tomatoes, consider adding an extra can (14-15 oz)
+* `26 oz` diced canned tomatoes
 * `2 cups` dry white wine
 
 > Set a large, heavy, oven safe pot over medium heat and add the oil. When the oil gets hot, add the onions, carrots, celery, and salt to the pot and stir to combine. Cook the veggies stirring occasionally until the onions are translucent and golden, 10 to 15 minutes.
@@ -29,4 +29,4 @@ favorite: ✓
 
 ---
 
-> Preheat your oven to 300F (150C) - lower at 275F will help keep it more saucy. Add the tomatoes, wine, and a bay leaf.  Bring to a simmer and put in the middle of a preheated oven uncovered for 3 hours. Stir well, taste and correct for salt.
+> Preheat your oven to 300F (150C). Add the tomatoes, wine, and a bay leaf.  Bring to a simmer and put in the middle of a preheated oven uncovered for 3 hours. Stir well, taste and correct for salt.

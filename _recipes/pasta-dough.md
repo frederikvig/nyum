@@ -1,10 +1,10 @@
 ---
 title: Pasta dough
-description: Meat Sauce for Tagliatelle, Lasagne, and other Pasta
+description: Egg Pasta dough for different types of pasta including lasagne
 size: 4 servings
 time: 1 hour
 source: https://www.youtube.com/watch?v=m_fu5RaXMVk&ab_channel=HelenRennie
-favorite: ✓
+vegan: ✓
 ---
 
 * `300 gram` flour (antimo caputo pasta 00 flour)
