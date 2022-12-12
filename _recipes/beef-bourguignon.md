@@ -11,7 +11,7 @@ favorite: ✓
 * `1 tbsp` extra-virgin olive oil
 * `6 ounces` bacon, roughly chopped
 * `3 pounds` beef brisket, trimmed of fat (chuck steak or stewing beef) cut into 2-inch chunks
-* `1` large carrot sliced ½-inch thick
+* `2-3` large carrot sliced ½-inch thick
 * `1` large white onion, diced
 * `6` cloves garlic, minced (divided)
 * `1` pinch coarse salt and freshly ground pepper
@@ -24,7 +24,7 @@ favorite: ✓
 * `1 tsp` fresh thyme, finely chopped
 * `2 tbsp` fresh parsley, finely chopped (divided)
 * `2` bay leaves
-* `1 pound` fresh small white or brown mushrooms, quartered
+* `12 ounces` fresh small white or brown mushrooms, quartered
 * `2 tbsp` butter
 
 > In a large dutch oven or heavy based pot, sauté the bacon over medium heat in 1 tablespoon of oil for about 3 minutes, until crisp and browned. Transfer with a slotted spoon to a large dish and set aside.
@@ -47,8 +47,8 @@ favorite: ✓
 
 ---
 
-> Add browned mushrooms to the pot, let simmer for an additional 3 to 5 minutes, stirring occasionally, to combine.
+> Add browned mushrooms to the pot, let simmer for an additional 3 to 5 minutes, stirring occasionally, to combine. Salt and pepper to taste.
 
 ---
 
-> Garnish with parsley and serve with mashed potatoes, rice or noodles.
+> Garnish with parsley and serve with mashed potatoes, rice or egg noodles.
