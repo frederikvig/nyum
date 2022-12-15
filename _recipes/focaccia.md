@@ -1,14 +1,12 @@
 ---
 title: Focaccia
-description: 
+description: Focaccia with rosemary and other toppings like olives
 image: images/focaccia.jpg
 size: 12 servings
 time: 3 hours
 source: Magnolia Table volume 2
 favorite: ✓
 ---
-
-dough
 
 * `1¾ cups` warm water (95 to 110 F)
 * `¼-ounce` pack of active dry yeast
