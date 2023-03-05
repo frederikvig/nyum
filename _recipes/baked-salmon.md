@@ -6,7 +6,7 @@ size: 4 servings
 time: 25 minutes
 source: https://www.lecremedelacrumb.com/best-easy-healthy-baked-salmon/
 favorite: ✓
-vegabn: ✓
+vegan: ✓
 ---
 
 > Heat the oven to 425 F degrees.
