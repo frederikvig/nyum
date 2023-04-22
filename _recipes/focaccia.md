@@ -6,6 +6,7 @@ size: 12 servings
 time: 3 hours
 source: Magnolia Table volume 2
 favorite: ✓
+vegan: ✓
 ---
 
 * `1¾ cups` warm water (95 to 110 F)
@@ -15,12 +16,6 @@ favorite: ✓
 * `1 tblsp` kosher salt
 * `½ cups` plus `2 tblsp` olive oil
 * Cooking spray
-
-topping
-
-* `3 tblsp` olive oil
-* `1 tblsp` coarse sea salt
-* `1 tblsp` fresh rosemary
 
 ---
 
@@ -40,7 +35,7 @@ topping
 
 ---
 
-> Punch down the dough to release the air. Place it on the prepared pan and press it out with lightly oiled hands to fill the pan, pushing your fingers into the dough to create small divots in it.
+> Punch down the dough to release the air. Place it on the prepared pan and press it out with lightly oiled hands to fill the pan, pushing your fingers into the dough to create small divots in it. Add some sliced olives, dried tomatoes or anything else you'd like ot add.
 
 ---
 
@@ -51,6 +46,10 @@ topping
 > Meanwhile, preheat the oven to 425 F.
 
 ---
+
+* `3 tblsp` olive oil
+* `1 tblsp` coarse sea salt
+* `1 tblsp` fresh rosemary
 
 > To make the topping: Drizzle the top of the dough with 2 tablespoons of the olive oil, the sea salt, and rosemary.
 
