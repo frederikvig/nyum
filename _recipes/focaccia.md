@@ -35,7 +35,7 @@ vegan: ✓
 
 ---
 
-> Punch down the dough to release the air. Place it on the prepared pan and press it out with lightly oiled hands to fill the pan, pushing your fingers into the dough to create small divots in it. Add some sliced olives, dried tomatoes or anything else you'd like ot add.
+> Punch down the dough to release the air. Place it on the prepared pan and press it out with lightly oiled hands to fill the pan, pushing your fingers into the dough to create small divots in it. Add some sliced olives, dried tomatoes or anything else you'd like to add.
 
 ---
 
