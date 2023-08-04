@@ -48,7 +48,7 @@ vegan: ✓
 ---
 
 * `3 tblsp` olive oil
-* `1 tblsp` coarse sea salt
+* `2 tsp` coarse sea salt
 * `1 tblsp` fresh rosemary
 
 > To make the topping: Drizzle the top of the dough with 2 tablespoons of the olive oil, the sea salt, and rosemary.
