@@ -17,7 +17,7 @@ favorite: ✓
 * `2 (6 oz)` cans tomato paste
 * `2 (6½ oz)` cans canned tomato sauce
 * `½ cup` water
-* `2 tbsp` white sugar
+* `1½ tbsp` white sugar
 * `1½ tsp` dried basil leaves
 * `½ tsp` fennel seeds
 * `1 tsp` Italian seasoning
