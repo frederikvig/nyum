@@ -12,7 +12,7 @@ vegan: ✓
 
 * `1 cup` warm water (110 degrees F/45 degrees C)
 * `2 tblsp` white sugar
-* `2 ¼ tsp` (1 package - 0.25 ounce) bread machine yeast 
+* `2¼ tsp` (1 package - 0.25 ounce) bread machine yeast 
 * `¼ cup` vegetable oil
 * `3 cups` bread flour
 * `1 tsp` salt
