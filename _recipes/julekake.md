@@ -36,7 +36,7 @@ vegan: ✓
 
 ---
 
-> Cut into 2 and shape into a round bread Put on a baking sheet.
+> Cut into 2 (or 3, 4 for smaller breads) and shape into a round bread Put on a baking sheet.
 
 ---
 
@@ -47,7 +47,7 @@ vegan: ✓
 
 ---
 
-> Put oven on 200 celsius (400 fahrenheit) and bake for 40 minutes.
+> Put oven on 200 celsius (400 fahrenheit) and bake for 35 minutes.
 
 ---
 
