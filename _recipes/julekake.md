@@ -36,20 +36,19 @@ vegan: ✓
 
 ---
 
-> Cut into 24-32 or so shapes and roll in your hands each one until their nice and round. Put on a baking sheet.
+> Cut into 2 and shape into a round bread Put on a baking sheet.
 
 ---
 
 > Cover and let rise for another 1 hour, until double in size.
+---
+
+> Brush with beaten egg.
 
 ---
 
-> Put oven on 225 celsius (425 fahrenheit) and bake for 12 minutes.
+> Put oven on 200 celsius (400 fahrenheit) and bake for 40 minutes.
 
 ---
 
-> Cool them slightly and enjoy!
-
----
-
-> You can freeze them down once their cool and reheat at 175 celsius (350 fahrenheit) for 3-4 minutes.
+> Let them cool and enjoy!
