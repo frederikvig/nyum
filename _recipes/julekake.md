@@ -1,5 +1,6 @@
 ---
 title: Julekake
+description: Norwegian Julekake/Julebrød
 image: images/julekake.webp
 size: 12 servings
 time: 3 hours
@@ -41,6 +42,7 @@ vegan: ✓
 ---
 
 > Cover and let rise for another 1 hour, until double in size.
+
 ---
 
 > Brush with beaten egg.

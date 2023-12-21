@@ -1,5 +1,6 @@
 ---
-title: Boller 
+title: Boller
+description: Norwegian Boller with raisins or chocolate 
 image: images/boller.jpg
 size: 24 servings
 time: 3 hours
@@ -41,6 +42,7 @@ vegan: ✓
 ---
 
 > Cover and let rise for another 1 hour, until double in size.
+
 ---
 
 > Brush with beaten egg.
