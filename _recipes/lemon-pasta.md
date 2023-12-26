@@ -15,9 +15,9 @@ vegan: ✓
 * `½ tsp` crushed red pepper flakes, more to your liking
 * Zest of 2 lemons
 * Juice of 1 lemon
-* `½` cup` fresh parsley, chopped
+* `½` cup fresh parsley, chopped
 * kosher salt and freshly ground black pepper to taste
-* ¼ cup` Parmesan cheese to finish, more to your liking, optional
+* `¼ cup` Parmesan cheese to finish, more to your liking, optional
 
 > Bring a pot of water to a boil and salt the water well. Cook the spaghetti according to package instructions to al dente (about 10 minutes). Reserve 1 cup of the pasta cooking water before draining.
 
