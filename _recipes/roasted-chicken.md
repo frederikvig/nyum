@@ -1,7 +1,7 @@
 ---
 title: Roasted chicken
 description: Perfect roasted chicken.
-image: images/roasted-chicken.jpg
+image: images/roasted-chicken.jpeg
 size: 6 servings
 time: 2 hours 30 minutes
 source: https://www.foodnetwork.com/recipes/ina-garten/perfect-roast-chicken-recipe-1940592
