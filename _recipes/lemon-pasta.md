@@ -23,7 +23,7 @@ vegan: ✓
 
 ---
 
-> When the pasta is nearly done (about 5 minutes into cooking it), heat the olive oil in a large skillet over medium heat. Add the minced garlic and crushed red pepper flakes, and cook, stirring until fragrant, about 30 seconds. Add the lemon juice and about ¼ cup of the pasta cooking water for now.
+> When the pasta is nearly done (about 7 minutes into cooking it), heat the olive oil in a large skillet over medium heat. Add the minced garlic and crushed red pepper flakes, and cook, stirring until fragrant, about 30 seconds. Add the lemon juice and about ¼ cup of the pasta cooking water for now.
 
 ---
 
