@@ -10,9 +10,9 @@ favorite: ✓
 
 * `3 lbs` chicken thigh fillets , boneless and skinless
 * `10` garlic cloves, crushed
-* `½` soy sauce
+* `½ cup` soy sauce
 * `2 cups` water
-* `¼` rice vinegar
+* `¼ cup` rice vinegar
 * `4` bay leaves
 * `2 tbsp` brown sugar
 * salt, to taste
