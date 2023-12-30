@@ -27,7 +27,7 @@ favorite: ✓
 
 ---
 
-> Place a medium pan on medium heat and add oil, once the oil is hot put the marinated chicken and brown.
+> Place a large pan on medium heat and add oil, once the oil is hot put the marinated chicken and brown.
 
 ---
 
