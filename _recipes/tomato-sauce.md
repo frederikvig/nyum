@@ -16,7 +16,7 @@ vegan: ✓
 * Spaghetti pasta, Potato Gnochi or similar (cooked to al dente)
 * Freshly grated parmigiano-reggiano cheese for the table
 
-> Combine the tomatoes, their juices, the butter and the onion halves in a saucepan. Add a tablespoon of salt.
+> Combine the tomatoes, their juices, the butter and the onion halves in a saucepan. Add 2 teaspoons of salt.
 
 ---
 
