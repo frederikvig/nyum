@@ -9,24 +9,24 @@ favorite: ✓
 ---
 * `2 lb` ground beef
 * `2 tbsp` olive oil
-* `1 medium` yellow onion diced
+* `1 large` yellow onion diced
 * `6` garlic cloves finely chopped
-* `½` bell pepper diced
-* `1 tbsp` ground cumin
-* `3 small` potatoes peeled and cut in small pieces
-* `¾ cup` dry white wine
-* `½ cup` whole green olives stuffed w/ pimentos
+* `1` bell pepper diced
+* `1½ tbsp` ground cumin
+* `3 medium` potatoes peeled and cut into small pieces
+* `1½ cup` dry white wine
+* `1 cup` whole green olives stuffed w/ pimentos
 * `½ cup` raisins
 * `¼ cup` capers drained
-* `16 oz` of tomato sauce 2x 8 oz cans
+* `30 oz` of tomato sauce 2x 15 oz cans
 * `1` lemon
 * Salt and pepper to taste
 
-> In a medium-size frying pan, brown the ground beef with a dash of cumin and pepper, drain off any excess grease, and set aside. Put the potato pieces in hot (from tap) water, set aside.
+> In a medium-size frying pan, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. Put the potato pieces in hot water and set aside.
 
 ---
 
-> In a large frying pan, heat 2 tbs of olive oil over med-low heat and cook the diced onion until soft.
+> In a large frying pan, heat 2 tbsp of olive oil over medium-low heat and cook the diced onion until soft, about 4-5 minutes.
 
 ---
 
@@ -50,7 +50,7 @@ favorite: ✓
 
 ---
 
-> Cook for 5 more minutes and then add the olives and capers.
+> Cook for 10 more minutes and then add the olives and capers.
 
 ---
 
@@ -58,4 +58,4 @@ favorite: ✓
 
 ---
 
-> Serve with rice, fried ripe plantains and a small salad.
+> Serve with rice, fried ripe plantains and a salad.
