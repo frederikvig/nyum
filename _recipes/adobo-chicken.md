@@ -23,7 +23,7 @@ favorite: ✓
 
 ---
 
-> Combine the garlic and soy sauce and marinade the chicken for 30 minutes.
+> Combine the garlic and soy sauce and marinade the chicken for at least 30 minutes in the fridge.
 
 ---
 
