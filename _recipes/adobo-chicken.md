@@ -16,7 +16,7 @@ favorite: ✓
 * `4` bay leaves
 * `2 tbsp` brown sugar
 * salt, to taste
-* `2 tbsp` whole black pepper
+* `1 tbsp` whole black pepper
 * `3` green onions/scallions , sliced (garnish)
 
 > Salt the chicken the day before and leave in fridge in a plastic bag or container.
