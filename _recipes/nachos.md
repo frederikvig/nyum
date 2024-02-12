@@ -42,7 +42,7 @@ favorite: ✓
 
 ---
 
-* `1 can` refried beans
+* `15 ounces` [refried beans](refried-beans.html)
 
 > Spoon on refried beans, half on each pan. These are thick, but I just add spoon fulls all over the chips. (The spoon fulls will spread with the heat of the oven.)
 
