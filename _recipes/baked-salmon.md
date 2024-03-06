@@ -30,4 +30,4 @@ vegan: ✓
 
 ---
 
-> Bake for 12 minutes until salmon is opaque and flaky when pulled apart with a fork.
+> Bake for 12 minutes until salmon is opaque and flaky when pulled apart with a fork. Tip: 350 F for 18-20 minutes, lower and longer makes it softer inside while still nice a crispy texture outside.

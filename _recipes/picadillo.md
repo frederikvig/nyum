@@ -14,19 +14,19 @@ favorite: ✓
 * `1` bell pepper diced
 * `1½ tbsp` ground cumin
 * `3 medium` potatoes peeled and cut into small pieces
-* `1½ cup` dry white wine
-* `1 cup` whole green olives stuffed w/ pimentos
+* `1½-2 cups` dry white wine
+* `1-2 cups` whole green olives stuffed w/ pimentos
 * `½ cup` raisins
 * `¼ cup` capers drained
 * `30 oz` of tomato sauce 2x 15 oz cans
 * `1` lemon
 * Salt and pepper to taste
 
-> In a medium-size frying pan, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. Put the potato pieces in hot water and set aside.
+> Put the potato pieces in hot water and set aside. In a large frying pan, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. 
 
 ---
 
-> In a large frying pan, heat 2 tbsp of olive oil over medium-low heat and cook the diced onion until soft, about 4-5 minutes.
+> Add 2 tbsp of olive oil over medium-low heat and cook the diced onion until soft, about 4-5 minutes.
 
 ---
 
@@ -54,7 +54,7 @@ favorite: ✓
 
 ---
 
-> Continue cooking over medium heat, stirring occasionally, until the potatoes are ready. If the sauce thickens too much, you can add some more wine or a little bit of water. Taste and adjust any seasonings: salt, pepper, cumin or additional olives/capers.
+> Continue cooking over medium heat, stirring occasionally, until the potatoes are ready. If the sauce thickens too much, you can add some more wine or a little bit of water. Add the lemon juice. Taste and adjust any seasonings: salt, pepper, cumin or additional olives/capers.
 
 ---
 
