@@ -21,7 +21,7 @@ vegan: ✓
 * `150 g` raisins or chocolate bits
 * `1` egg for brushing
 
-> Place everything except the butter, second egg and raisins/chocolate in the kitchen machine with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
+> Place everything except the butter, second egg and raisins/chocolate in a kitchen mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
 
 ---
 
@@ -33,7 +33,7 @@ vegan: ✓
 
 ---
 
-> Set aside and cover with some plastic and a kitchen towel for 1 hour or more to rise until double in size.
+> Set aside and cover with some plastic and a kitchen towel for 2 hours or more to rise until double in size.
 
 ---
 
@@ -49,7 +49,7 @@ vegan: ✓
 
 ---
 
-> Put oven on 225 celsius (425 fahrenheit) and bake for 12 minutes.
+> Put oven on 225 celsius (425 fahrenheit) and bake for 11-12 minutes.
 
 ---
 

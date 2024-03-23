@@ -13,8 +13,8 @@ vegan: ✓
 * `¼-ounce` pack of active dry yeast
 * `3 tsp` sugar
 * `5 cups` bread flour
-* `1 tblsp` kosher salt
-* `½ cups` plus `2 tblsp` olive oil
+* `1 tbsp` kosher salt
+* `½ cups` plus `2 tbsp` olive oil
 * Cooking spray
 
 ---
@@ -31,7 +31,7 @@ vegan: ✓
 
 ---
 
-> Drizzle the remaining 2 tablespoons olive oil onto a rimmed 17 x 13-inch sheet pan.
+> Drizzle the remaining 2 tablespoons olive oil onto a rimmed 17 x 13-inch sheet pan. Can also be split between two pans instead (note that baking time will be reduced).
 
 ---
 
@@ -47,15 +47,15 @@ vegan: ✓
 
 ---
 
-* `3 tblsp` olive oil
-* `2 tsp` coarse sea salt
-* `1 tblsp` fresh rosemary
+* `3 tbsp` olive oil
+* `1½ tsp` coarse sea salt
+* `1 tbsp` fresh rosemary
 
 > To make the topping: Drizzle the top of the dough with 2 tablespoons of the olive oil, the sea salt, and rosemary.
 
 ---
 
-> Transfer the pan to the oven and bake until the top of the focaccia is golden brown, 20 to 25 minutes. Remove from the oven and drizzle with the remaining 1 tablespoon of olive oil. Let cool for 5 to 10 minutes before cutting into 12 pieces.
+> Transfer the pan to the oven and bake until the top of the focaccia is golden brown, about 25 minutes. Remove from the oven and drizzle with the remaining 1 tablespoon of olive oil. Let cool for 5 to 10 minutes before cutting into 12 pieces.
 
 ---
 
