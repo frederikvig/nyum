@@ -21,7 +21,7 @@ vegan: ✓
 * `150 g` raisins or chocolate bits
 * `1` egg for brushing
 
-> Place everything except the butter, second egg and raisins/chocolate in a kitchen mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
+> Place everything except the butter, second egg and raisins/chocolate in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
 
 ---
 
