@@ -8,8 +8,8 @@ vegan: ✓
 ---
 
 * `2¼ tsp` active dry yeast (one 1¼ ounce pack)
-* `420 gram` all-purpose flour
-* `330 gram` flour (antimo caputo pasta 00 flour)
+* `440 gram` all-purpose flour
+* `345 gram` flour (antimo caputo pasta 00 flour)
 * `¼ cup` extra-virgin olive oil
 * `2½ cups` water
 * `1⅓ tbsp` sugar

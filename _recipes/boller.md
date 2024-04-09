@@ -37,7 +37,7 @@ vegan: ✓
 
 ---
 
-> Cut into 24 or so shapes and roll in your hands until their nice and round. Put on a baking sheet with some space in between.
+> Cut into 24 or so shapes and roll in your hands until they're nice and round. Place on baking sheets on parchment paper with some space in between.
 
 ---
 

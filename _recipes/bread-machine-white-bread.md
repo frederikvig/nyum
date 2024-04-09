@@ -11,13 +11,13 @@ vegan: ✓
 ---
 
 * `1 cup` warm water (110 degrees F/45 degrees C)
-* `2 tblsp` white sugar
+* `2 tbsp` white sugar
 * `2¼ tsp` (1 package - 0.25 ounce) bread machine yeast 
 * `¼ cup` vegetable oil
 * `3 cups` bread flour
 * `1 tsp` salt
 
-> Place water, sugar, and yeast in the pan of the bread machine. Add oil, flour, and salt to the yeast. Select Basic or White Bread setting (1.5 lb), and press Start.
+> Place water, sugar, and yeast in the pan of the bread machine. Add oil, flour, and salt to the yeast. Select Basic or White Bread setting (1½ lbs), and press Start.
 
 ---
 
