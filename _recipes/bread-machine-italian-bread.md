@@ -1,7 +1,7 @@
 ---
-title: Bread Machine French Bread
-original_title: Crusty French Bread
-image: images/bread-machine-french-bread.jpg
+title: Bread Machine Italian Bread
+original_title: Traditional Italian Bread
+image: images/bread-machine-italian-bread.jpg
 size: 12 servings
 time: 3 hours
 source: Bread Machine Cookbook
@@ -10,17 +10,17 @@ vegan: ✓
 ---
 
 * `1 cup` warm water (80-90 degrees F)
-* `1¼ tbsp` olive oil
-* `1½ tbsp` white sugar
+* `2 tbsp` olive oil
+* `1 tbsp` white sugar
 * `1¼ tsp` salt 
 * `3 cups` bread flour
-* `1¼ tsp` bread machine or instant yeast
+* `1½ tsp` bread machine or instant yeast
 
 > Place ingredients in your machine in the order listed or recommended by your manufacturer.
 
 ---
 
-> Select the French bread or crusty setting (1½ lbs), select light or medium crust, and press start.
+> Select the Basic/White bread setting (1½ lbs), select light or medium crust, and press start.
 
 ---
 
