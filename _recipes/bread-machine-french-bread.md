@@ -11,7 +11,7 @@ vegan: ✓
 
 * `1 cup` warm water (80-90 degrees F)
 * `1¼ tbsp` olive oil
-* `1½ tbsp` white sugar
+* `1 tbsp` white sugar
 * `1¼ tsp` salt 
 * `3 cups` bread flour
 * `1¼ tsp` bread machine or instant yeast

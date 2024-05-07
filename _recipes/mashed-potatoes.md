@@ -10,7 +10,7 @@ favorite: ✓
 vegan: ✓
 ---
 
-* `6` large russet or gold potatoes (about 3 ½ pounds total), scrubbed
+* `6-8` gold or russet potatoes (about 3 ½ pounds total), scrubbed
 * `½ cup` milk
 * Kosher salt
 * `½ pound (2 sticks)` salted and unsalted (50/50) butter
@@ -24,7 +24,7 @@ vegan: ✓
 
 ---
 
-> Meanwhile, in a medium saucepan, heat the butter and milk over medium-low heat just until the butter is melted and the milk is warm.
+> Meanwhile, in a medium saucepan, heat the butter and milk over medium-low heat just until the butter is melted and the milk is warm. Stir in 1 teaspoon salt and the pepper.
 
 ---
 
@@ -32,7 +32,7 @@ vegan: ✓
 
 ---
 
-> Mash in 1 teaspoon salt and the pepper. Serve hot.
+> Optional: add some Crème Fraîche, Parmesan cheese, chives or parsley for extra flavor.
 
 ---
 
