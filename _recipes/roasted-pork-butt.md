@@ -1,7 +1,7 @@
 ---
-title: Roast Pork Butt
-description: This roast pork butt, coated in a simple rub of brown sugar, paprika, cumin, and red pepper flakes, is an incredibly easy recipe to make and yields enough pulled pork to feed a small army. It's roasted low and slow in the oven until falling-apart tender.
-image: images/roast-pork-butt.webp
+title: Roasted Pork Butt
+description: This roasted pork butt, coated in a simple rub of brown sugar, paprika, cumin, and red pepper flakes, is an incredibly easy recipe to make and yields enough pulled pork to feed a small army. It's roasted low and slow in the oven until falling-apart tender.
+image: images/roasted-pork-butt.webp
 size: 16 servings
 time: 9 hours 40 minutes
 source: https://leitesculinaria.com/100088/recipes-roast-pork-butt.html

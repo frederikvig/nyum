@@ -16,7 +16,7 @@ favorite: ✓
 * `1` head garlic, cut in half crosswise
 * `2 tlsp` (1/4 stick) butter, melted
 * `1` large yellow onion, thickly sliced
-* `5` carrots cut into 2-inch chunks
+* `6` carrots cut into 2-inch chunks
 * `1` bulb of fennel, tops removed, and cut into wedges
 *  Olive oil
 
@@ -32,7 +32,7 @@ favorite: ✓
 
 ---
 
-> Add the chicken to a roasting pan and roast it for ½ hour, before adding the onions, carrots, and fennel. Toss with salt, pepper, 20 sprigs of thyme, and olive oil before adding.
+> Add the chicken to a roasting pan and roast it for ½ hour. Toss the onions, carrots, and fennel with salt, pepper, 20 sprigs of thyme, and olive oil. Add it to the roasting pan and put it back in oven.
 
 ---
 
