@@ -14,7 +14,7 @@ favorite: ✓
 * `1` large bunch fresh thyme, plus 20 sprigs
 * `1` lemon, halved
 * `1` head garlic, cut in half crosswise
-* `2 tlsp` (1/4 stick) butter, melted
+* `2 tbsp` (1/4 stick) butter, melted
 * `1` large yellow onion, thickly sliced
 * `6` carrots cut into 2-inch chunks
 * `1` bulb of fennel, tops removed, and cut into wedges
