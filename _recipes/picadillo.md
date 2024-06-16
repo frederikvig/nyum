@@ -12,9 +12,9 @@ favorite: ✓
 * `1 large` yellow onion diced
 * `6` garlic cloves finely chopped
 * `1` bell pepper diced
-* `1½ tbsp` ground cumin
+* `1½-2 tbsp` ground cumin
 * `3 medium` potatoes peeled and cut into small pieces
-* `1½-2 cups` dry white wine
+* `2 cups` dry white wine
 * `1-2 cups` whole green olives stuffed w/ pimentos
 * `½ cup` raisins
 * `¼ cup` capers drained
@@ -22,7 +22,11 @@ favorite: ✓
 * `1` lemon
 * Salt and pepper to taste
 
-> Put the potato pieces in hot water and set aside. In a large frying pan, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. 
+> Put the potato pieces in hot water and set aside.
+
+--- 
+
+> In a large frying pan, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. 
 
 ---
 

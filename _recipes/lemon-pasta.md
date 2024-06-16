@@ -14,7 +14,7 @@ vegan: ✓
 * `6` large garlic cloves, minced
 * `½ tsp` crushed red pepper flakes, more to your liking
 * Zest of 2 lemons
-* Juice of 1 lemon
+* Juice of 1-2 lemons
 * `½` cup fresh parsley, chopped
 * kosher salt and freshly ground black pepper to taste
 * `¼ cup` Parmesan cheese to finish, more to your liking, optional
