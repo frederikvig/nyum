@@ -6,7 +6,7 @@ size: 24 servings
 time: 3 hours
 source: https://trinesmatblogg.no/recipe/rosinboller/
 favorite: ✓
-vegan: ✓
+sweet: ✓
 ---
 
 * `900 g` all-purpose flour

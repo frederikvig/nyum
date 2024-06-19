@@ -6,8 +6,7 @@ size: 18 servings
 time: 3 hours
 source: https://trinesmatblogg.no/recipe/skolebrod-2/
 favorite: ✓
-vegan: ✓
-dessert: ✓
+sweet: ✓
 ---
 
 * `900 g` all-purpose flour

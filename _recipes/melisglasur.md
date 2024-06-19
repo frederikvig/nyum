@@ -6,8 +6,7 @@ size: 1 servings
 time: 10 minutes
 source: https://mills.no/melange/oppskrift/enkel-melisglasur/
 favorite: ✓
-vegan: ✓
-dessert: ✓
+sweet: ✓
 ---
 
 * `165 g` confectioners sugar

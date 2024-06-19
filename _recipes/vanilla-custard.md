@@ -7,11 +7,10 @@ size: 1 servings
 time: 20 minutes
 source: https://www.matprat.no/oppskrifter/tradisjon/vaniljekrem/
 favorite: ✓
-vegan: ✓
-dessert: ✓
+sweet: ✓
 ---
 
-* `250 ml` cream
+* `250 ml` heavy cream
 * `250 ml` whole milk
 * `100 g` sugar
 * `1` vanilla bean (or vanilla sugar/extract)

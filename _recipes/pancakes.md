@@ -8,7 +8,6 @@ time: 20 minutes
 source: https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/
 favorite: ✓
 sweet: ✓
-vegan: ✓
 ---
 
 * `1½ cups` all-purpose flour
