@@ -57,4 +57,4 @@ vegan: ✓
 
 ---
 
-> You can freeze them down once their cool and reheat at 175 celsius (350 fahrenheit) for 3-4 minutes.
+> You can freeze them down once they're cool and reheat at 175 celsius (350 fahrenheit) for 3-4 minutes.
