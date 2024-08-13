@@ -58,7 +58,7 @@ favorite: ✓
 
 ---
 
-> Bake at 400 degrees for 13 minutes.
+> Bake at 400 degrees for 12 minutes.
 
 ---
 

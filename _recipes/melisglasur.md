@@ -7,6 +7,7 @@ time: 10 minutes
 source: https://mills.no/melange/oppskrift/enkel-melisglasur/
 favorite: ✓
 sweet: ✓
+vegan: ✓
 ---
 
 * `165 g` confectioners sugar

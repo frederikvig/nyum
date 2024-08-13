@@ -8,6 +8,7 @@ time: 20 minutes
 source: https://www.matprat.no/oppskrifter/tradisjon/vaniljekrem/
 favorite: ✓
 sweet: ✓
+vegan: ✓
 ---
 
 * `250 ml` heavy cream
@@ -21,7 +22,7 @@ sweet: ✓
 
 ---
 
-> Split the vanilla bean and add the seeds with the bean into the pot.
+> Split the vanilla bean (or use 2 tsp vanilla extract) and add the seeds with the bean into the pot.
 
 ---
 

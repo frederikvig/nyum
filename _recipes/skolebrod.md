@@ -7,6 +7,7 @@ time: 3 hours
 source: https://trinesmatblogg.no/recipe/skolebrod-2/
 favorite: ✓
 sweet: ✓
+vegan: ✓
 ---
 
 * `900 g` all-purpose flour
