@@ -60,7 +60,7 @@ vegan: ✓
 
 ---
 
-> Let them cool on a grid, and then apply the [melisglasur](melisglasur.html) sprinkled with shredded coconut.
+> Let them cool on a grid, and then apply the [melisglasur](melisglasur.html), sprinkle with shredded coconut.
 
 ---
 
