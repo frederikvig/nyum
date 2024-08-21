@@ -38,7 +38,7 @@ sweet: ✓
 
 ---
 
-> Pour half of the batter into prepared pan. Top with 6 oz of diced strawberries then spread remaining batter over the top. Cover the surface with 6 oz of halved strawberries (cut-side-down), pressing them down just slightly into the batter. Bake at 375˚F for 45-55 minutes (mine was perfect at 50 min), or until a toothpick inserted into center comes out clean. Let cake rest in pan 15-20 min before removing the ring.
+> Pour half of the batter into prepared pan. Top with 6 oz of diced strawberries then spread remaining batter over the top. Cover the surface with 6 oz of halved strawberries (cut-side-down), pressing them down just slightly into the batter. Bake at 375˚F for 45 minutes, or until a toothpick inserted into center comes out clean. Let cake rest in pan 15-20 min before removing the ring.
 ---
 
 > Run a thin spatula around cake edges to loosen from pan. then transfer to a cake platter. Cool until just warm or at room temperature. To serve, dust with powdered sugar if desired. Drizzle individual slices generously with strawberry syrup.

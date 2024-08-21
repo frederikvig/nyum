@@ -36,7 +36,7 @@ favorite: ✓
 
 ---
 
-> Grill or fry the patties for 3 minutes and then switch side for another 2-3 minutes. Add cheese 1 minute before done.
+> Grill or fry the patties for 3 minutes and then switch side for another 3-4 minutes. Add cheese 1 minute before done.
 
 ---
 
