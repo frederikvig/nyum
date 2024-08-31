@@ -10,10 +10,10 @@ vegan: ✓
 ---
 
 * `1 cup` (227g) ripe (fed) sourdough starter
-* `1½ cups` (340g) water, lukewarm (95-105 degrees F)
+* `1½ cups` (330g) water, lukewarm (95-105 degrees F)
 * `1-2 tsp` instant yeast
 * `1 tbsp` salt
-* `5 cups` (600g) bread flour
+* `5 cups` (625g) bread flour
 
 > Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Combine all of the ingredients, kneading to form a smooth dough.
 
@@ -31,7 +31,7 @@ vegan: ✓
 
 ---
 
-> Place the loaves on a lightly greased or parchment-lined baking sheet. Cover and let rise until very puffy, about 1 hour. Towards the end of the rising time, preheat the oven to 425°F.
+> Place the loaves on a lightly greased or parchment-lined baking sheet. Cover and let rise until very puffy, about 1 hour. Towards the end of the rising time, preheat the oven to 450°F.
 
 ---
 

@@ -18,7 +18,7 @@ vegan: ✓
 * `4` large eggs
 * Mayonnaise, for garnish
 * `1` scallion, finely chopped
-* Sausages cut into pieces (optional)
+* Sausages, cut into pieces (optional)
 
 > Start by putting the cut potatoes in hot water for 10 minutes to soften them.
 
@@ -32,7 +32,7 @@ vegan: ✓
 
 ---
 
-> Remove the lid, stir the potatoes, then make 4 divots without reaching the bottom of the pan. Drizzle a little of the remaining oil into each divot and crack an egg into each. Cover and cook for 4 to 5 minutes or until eggs are just set. If adding sausages use separate pan, start with sausages and then eggs after. Transfer to skillet.
+> Remove the lid, stir the potatoes, if using sausages brown in a separate pan and transfer first, then make 4 divots without reaching the bottom of the pan (you can also do this in a separate pan and transfer). Drizzle a little of the remaining oil into each divot and crack an egg into each. Cover and cook for 4 to 5 minutes or until eggs are just set.
 
 ---
 
