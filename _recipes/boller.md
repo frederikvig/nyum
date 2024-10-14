@@ -50,7 +50,7 @@ vegan: ✓
 
 ---
 
-> Put oven on 225 celsius (425 fahrenheit) and bake for 11-12 minutes.
+> Preheat oven to 225 celsius (425 fahrenheit) and bake for 11-12 minutes.
 
 ---
 
@@ -58,4 +58,4 @@ vegan: ✓
 
 ---
 
-> You can freeze them down once they're cool and reheat at 175 celsius (350 fahrenheit) for 3-4 minutes.
+> You can freeze them once they're cool and reheat at 175 celsius (350 fahrenheit) for 3-4 minutes.

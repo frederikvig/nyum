@@ -13,7 +13,7 @@ vegan: ✓
 * `1½ cups` (330g) water, lukewarm (95-105 degrees F)
 * `1-2 tsp` instant yeast
 * `1 tbsp` salt
-* `5 cups` (625g) bread flour
+* `5 cups` (600g) bread flour
 
 > Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. Combine all of the ingredients, kneading to form a smooth dough.
 
@@ -43,4 +43,4 @@ vegan: ✓
 
 ---
 
-> Bake the bread for 30 minutes (42-45 minutes if doing a large one), until it's a very deep golden brown. Remove it from the oven, and cool on a rack for an hour.
+> Bake the bread for 35-40 minutes (45-50 minutes if doing a large one), until it's a very deep golden brown. Remove it from the oven, and cool on a rack until cool.
