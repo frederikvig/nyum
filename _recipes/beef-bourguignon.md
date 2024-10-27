@@ -18,7 +18,7 @@ favorite: ✓
 * `2 tbsp` flour
 * `12` small pearl onions (optional)
 * `3 cups` red wine like Merlot, Pinot Noir, or a Chianti -- for a milder sauce, use only 2 cups of wine
-* `2-3 cups` beef stock (if using 2 cups of wine, use 3 cups beef stock)
+* `2-3 cups` beef stock or water (if using 2 cups of wine, use 3 cups beef stock or water)
 * `2 tbsp` tomato paste
 * `1` beef bullion cube, crushed
 * `1 tsp` fresh thyme, finely chopped
@@ -39,7 +39,7 @@ favorite: ✓
 
 ---
 
-> Add the pearl onions, wine and enough stock so that the meat is barely covered. Then add the tomato paste, bullion and herbs. Cover and bring to a boil, then reduce heat to low and simmer for 1½ to 2 hours, stirring occasionally, until the meat is falling apart.
+> Add the pearl onions, wine and enough stock/water so that the meat is barely covered. Then add the tomato paste, bullion and herbs. Cover and bring to a boil, then reduce heat to low and simmer for 2 hours, stirring occasionally, until the meat is falling apart.
 
 ---
 
