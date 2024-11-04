@@ -33,6 +33,10 @@ vegan: ✓
 
 ---
 
+> Optional, place the tomato mixture in a blender or food processor and purée until the sauce is a smooth consistency. Return the sauce to the pot.
+
+---
+
 > Stir in and heat through the heavy cream.
 
 ---
