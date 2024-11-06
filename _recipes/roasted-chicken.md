@@ -36,4 +36,4 @@ favorite: ✓
 
 ---
 
-> Roast the chicken and the veggies for 1 more hour, or until the juices run clear when you cut between a leg and thigh. Remove the chicken and vegetables to a platter and cover with aluminum foil for about 20 minutes. Slice the chicken onto a platter and serve it with the vegetables.
+> Roast the chicken and the veggies for 45-60 more minutes, or until the juices run clear when you cut between a leg and thigh. Remove the chicken and vegetables to a platter and cover with aluminum foil for about 20 minutes. Slice the chicken onto a platter and serve it with the vegetables.

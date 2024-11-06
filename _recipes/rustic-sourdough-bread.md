@@ -3,7 +3,7 @@ title: Rustic Sourdough Bread
 description: This chewy loaf has rich, deep, flavor with mild sourdough tang. Since it includes commercial yeast as well as starter, you're guaranteed a good, strong rise — even if your starter isn't quite up to snuff.
 image: images/rustic-sourdough-bread.webp
 size: 12 servings
-time: 3 hours 7 minutes
+time: 4 hours 45 minutes
 source: https://www.kingarthurbaking.com/recipes/rustic-sourdough-bread-recipe
 favorite: ✓
 vegan: ✓
@@ -31,7 +31,7 @@ vegan: ✓
 
 ---
 
-> Place the loaves on a lightly greased or parchment-lined baking sheet. Cover and let rise until very puffy, about 1-1½ hour. Towards the end of the rising time, preheat the oven to 450°F.
+> Place the loaves on a lightly greased or parchment-lined baking sheet. Cover and let rise until very puffy, about 2 hour. Towards the end of the rising time, preheat the oven to 450°F.
 
 ---
 
