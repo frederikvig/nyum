@@ -10,7 +10,7 @@ favorite: ✓
 vegan: ✓
 ---
 
-* `6-8` gold or russet potatoes (about 3 ½ pounds total), scrubbed
+* `8` gold or russet potatoes (about 4 pounds total), scrubbed
 * `½ cup` milk
 * Kosher salt
 * `½ pound (2 sticks)` salted and unsalted (50/50) butter
