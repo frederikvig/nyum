@@ -19,7 +19,7 @@ favorite: ✓
 
 ---
 
-> Put the butter in a medium skillet over medium-low heat. As it melts, crumble the sausage meat into it, making the bits quite small, ½ inch or less. Add the liquid, and adjust the heat so that the mixture simmers gently.
+> Put the butter in a medium skillet over medium-low heat. As it melts, crumble the sausage meat into it, making the bits quite small, ½ inch or less. When the meat has finished browning, add the liquid, and adjust the heat so that the mixture simmers gently.
 
 ---
 
