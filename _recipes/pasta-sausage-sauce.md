@@ -8,13 +8,12 @@ source: https://cooking.nytimes.com/recipes/5443-pasta-with-white-sausage-sauce
 favorite: ✓
 ---
 
-* `1 tbsp` butter
+* `2 tbsp` butter
 * `1 lb` italian sausages
 * `1 cup` white wine or water
 * `1 lb` cut pasta, like ziti, penne
 * `1 cup` Parmesan cheese
 * Salt and pepper to taste
-* Fresh flat-leaf parsley (optional)
 
 > Bring a large pot of salted water to a boil for the pasta.
 
@@ -29,11 +28,3 @@ favorite: ✓
 ---
 
 > Drain the pasta, and dress with the sauce, adding a little of the reserved cooking liquid if necessary. Toss with salt, pepper and Parmesan, and serve.
-
----
-
-> Toss the drained pasta into the sausage pan, pour in the egg mixture, and toss for 1 minute off the heat (the egg will gently cook in the residual heat).
-
----
-
-> Loosen with a good splash of reserved cooking water, season to perfection with sea salt and pepper, and finely grate over the remaining Parmesan. If using, finely chop the parsley, add as garnish.
