@@ -50,7 +50,7 @@ vegan: ✓
 
 ---
 
-> Preheat oven to 225 celsius (425 fahrenheit) and bake for 11-12 minutes.
+> Preheat oven to 225 celsius (425 fahrenheit) and bake for 12 minutes.
 
 ---
 

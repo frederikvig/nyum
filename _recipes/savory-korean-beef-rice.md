@@ -38,6 +38,7 @@ favorite: ✓
 ---
 
 > Turn the pot off by selecting CANCEL, then secure the lid, making sure the vent is closed.
+
 ---
 
 > Using the display panel select the MANUAL or PRESSURE COOK function*. Use the +/- keys and program the Instant Pot for 8 minutes.
@@ -49,7 +50,7 @@ favorite: ✓
 ---
 
 > Carefully remove the casserole from the pot.
+
 ---
 
 > Remove the riser and stir the beef mixture. Serve beef over rice garnished with green onions and sesame seeds.
-
