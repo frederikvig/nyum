@@ -1,5 +1,5 @@
 ---
-title: Melisglasur
+title: Melisglasur (icing)
 description: Norwegian Melisglasur
 image: images/melisglasur.jpg
 size: 1 servings
@@ -11,7 +11,7 @@ vegan: ✓
 ---
 
 * `165 g` confectioners sugar
-* `2 tbsp` water or egg whites
+* `2 tbsp` water, milk, or egg whites
 * `1 tbsp` lemon juice
 
 > Mix all the incredients together in a bowl.
