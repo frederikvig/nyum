@@ -9,7 +9,7 @@ favorite: ✓
 vegan: ✓
 ---
 
-* `1 cup` warm water (80-90 degrees F)
+* `1 cup` warm water (90-95 degrees F)
 * `2 tbsp` olive oil
 * `1 tbsp` white sugar
 * `1¼ tsp` salt 

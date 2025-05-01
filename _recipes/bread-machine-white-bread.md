@@ -10,7 +10,7 @@ favorite: ✓
 vegan: ✓
 ---
 
-* `1 cup` warm water (110 degrees F/45 degrees C)
+* `1 cup` warm water (90-95 degrees F)
 * `2 tbsp` white sugar
 * `2¼ tsp` (1 package - 0.25 ounce) bread machine yeast 
 * `¼ cup` vegetable oil
