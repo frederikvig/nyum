@@ -9,16 +9,16 @@ favorite: ✓
 vegan: ✓
 ---
 
-* `3 cups` all-purpose flour (360g)
-* `1½ tsp` salt (9g)
-* `1 tsp` sugar (5g)
-* `1 tsp` instant yeast (3g)
-* `1¼ cups` water, warm (90-110°F, 284g)
-* `1½ tbsp` olive oil (18g)
+* `3 cups (360g)` all-purpose flour
+* `1½ tsp (9g)` salt
+* `1 tsp (5g)` sugar
+* `1 tsp (3g)` instant yeast
+* `1¼ cups (284g)` water, warm (90-110°F)
+* `1½ tbsp (19.5g)` olive oil
 
 ---
 
-> To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. In a large bowl (a 3-quart bowl with a lid works great), whisk together the flour, salt, sugar, and yeast. 
+> To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. In a large bowl, whisk together the flour, salt, sugar, and yeast. 
 
 ---
 
@@ -42,11 +42,11 @@ vegan: ✓
 
 ---
 
-> Cover the bowl and let the dough rise at a warm room temperature (70°F to 75°F) for 1 hour; see this post, Where to put dough to rise, for tips. After 1 hour, the dough should have nearly doubled in size and will be very puffy; it may even have a few bubbles on the surface.
+> Cover the bowl and let the dough rise at a warm room temperature (70°F to 75°F) for 1 hour. After 1 hour, the dough should have nearly doubled in size and will be very puffy; it may even have a few bubbles on the surface.
 
 ---
 
-> To prepare the pan: Once the dough has risen, spray the bottom and sides of a 9" square Fabulous Focaccia Pan with nonstick spray. You can also use a 10" cast-iron skillet. Then add 1 tablespoon (13g) of the olive oil and tilt the pan to spread the oil evenly across the bottom.
+> To prepare the pan: Once the dough has risen, spray the bottom and sides of a 9" square Focaccia Pan with nonstick spray. You can also use a 10" cast-iron skillet. Then add 1 tablespoon (13g) of the olive oil and tilt the pan to spread the oil evenly across the bottom.
 
 ---
 
@@ -61,6 +61,10 @@ vegan: ✓
 > Toward the end of the rise, preheat the oven to 475°F with racks in the upper and lower thirds.
 
 ---
+
+* `2 tbsp (26g)` olive oil, divided
+* flaky sea salt
+* rosemary (optional)
 
 > Once the dough has risen, lightly coat your fingers in oil. Starting at one edge, press your fingertips into the dough until they reach the bottom of the pan, creating dimples. Repeat this process, working your way from one edge to the other, spacing the dimples about 1½" apart. The goal is to thoroughly dimple the dough without deflating it — aim for decisive yet gentle motions. If there are any large untouched areas of the dough, add additional dimples using one finger.
 
