@@ -10,20 +10,20 @@ sweet: ✓
 vegan: ✓
 ---
 
-* `1 cup (240 ml)` whole milk
+* `1 cup (240ml)` whole milk
 * `135 g` white sugar
 * `2¼ tsp (1 pack)` instant or active dry yeast
 * `½ tsp` salt
-* `2` large eggs
+* `1` large egg
 * `1 tsp` vanilla extract
-* `113 g` butter at room temperature in cubes (1 stick)
-* `4½ cups (540 g)` all-purpose flour
+* `113 g (1 stick)` butter at room temperature in cubes
+* `4½ cups (540g)` all-purpose flour
 
-> Place everything except the butter, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 5-10 minutes. 
+> Place everything except the butter, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
 
 ---
 
-> Add the cubes of butter and let it run for another 10-12 minutes, until it comes of the sides easily.
+> Add the cubes of butter and let it run for another 10 minutes, until it comes of the sides easily.
 
 ---
 

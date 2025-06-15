@@ -11,7 +11,7 @@ vegan: ✓
 ---
 
 * `165 g` confectioners sugar
-* `2 tbsp` water, milk, or egg whites
+* `3 tbsp` water, milk, or egg whites
 * `1 tbsp` lemon juice
 
 > Mix all the incredients together in a bowl.
