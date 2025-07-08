@@ -2,7 +2,9 @@
 <html lang="$lang$">
 <head>
     ${head.partial.html()}
-    <title>$title$ – $if(index_title)$$index_title$ – $endif$Recipes</title>
+    <title>$title$ – $if(index_title)$$index_title$ – $endif$Recipes</title> 
+    <meta property="og:title" content="$title$" />
+    <meta property="og:image" content="https://recipes.frederikvig.com$image$" />
 </head>
 <body>
     <main class="recipe">
