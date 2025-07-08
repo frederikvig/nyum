@@ -9,13 +9,13 @@ source: https://recipes.instantpot.com/recipe/savory-korean-beef-rice/
 favorite: ✓
 ---
 
-* `1½ lbs` ground beef
+* `1 lb` ground beef
 * `6` garlic cloves, minced
 * `⅓ cup` soy sauce
 * `⅓ cup` water
-* `⅓ cup` brown sugar
-* `1 tblsp` ginger root grated
-* `1 tblsp` toasted sesame oil
+* `¼ cup` brown sugar
+* `1 tbsp` ginger root grated
+* `1 tbsp` toasted sesame oil
 * `½ tsp` white pepper
 * `¼ tsp` cayenne - to taste
 * Sliced green onions and sesame seeds for garnish

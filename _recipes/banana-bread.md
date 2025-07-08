@@ -23,7 +23,7 @@ sweet: ✓
 * `1 cup (135g)` finely chopped chocolate or mini chocolate chips
 * `¾ cup (130g)` coarsely chopped toasted nuts, such as almonds, walnuts or pecans (optional)
 
-> Heat the oven to 365 degrees. Lightly grease a 9-by-5-inch loaf pan with nonstick spray.
+> Heat the oven to 350 degrees. Lightly grease a 9-by-5-inch loaf pan with nonstick spray.
 
 ---
 

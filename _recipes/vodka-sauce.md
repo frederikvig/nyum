@@ -21,7 +21,7 @@ vegan: ✓
 * `½ cup` freshly grated parmigiano-reggiano cheese
 * Salt and pepper to taste
 
-> Heat in a large skillet over medium heat the butter/oil and add the onion. Cook until soft, about 5 minutes.
+> Heat in a large skillet over medium heat the olive oil and add the onion. Cook until soft, about 5 minutes.
 
 ---
 
@@ -29,7 +29,7 @@ vegan: ✓
 
 ---
 
-> Add the tomatoes, vodka, red pepper flakes, and 2 tsp of salt. Break the tomatoes apart with a wooden spoon. Simmer briskly for 10 minutes.
+> Add the tomatoes, vodka, red pepper flakes, and 2 tsp of salt. Break the tomatoes apart with a wooden spoon. Simmer briskly for 15 minutes.
 
 ---
 
@@ -49,7 +49,7 @@ vegan: ✓
 
 ---
 
-> Drain the pasta and add to the sauce the parmesan cheese, along with 1 tbsp of butter/oil (depending on what you used).
+> Drain the pasta and add to the sauce the parmesan cheese, along with 1 tbsp of olive oil (depending on what you used).
 
 ---
 
