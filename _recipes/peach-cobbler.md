@@ -6,6 +6,7 @@ size: 12 servings
 time: 1 hours 30 minutes
 source: The Book of St. John
 favorite: ✓
+vegan: ✓
 sweet: ✓
 ---
 
