@@ -20,6 +20,7 @@ sweet: ✓
 * `750g` ripe peaches
 * The juice of 1 lemon
 * `1-2 tbsp` caster sugar, depending on sweetness of fruit
+* `1 tsp` ground cinnamon (optional)
 * Beaten egg for glazing
 * Demerara (or light brown) sugar for glazing
 
@@ -31,7 +32,7 @@ sweet: ✓
 
 ---
 
-> Cut the peaches into quarters, arrange the pieces in the base of a large shallow pie dish and sprinkle with the lemon juice and sugar.
+> Cut the peaches into quarters, arrange the pieces in the base of a large shallow pie dish and sprinkle with the lemon juice, sugar and cinnamon if using.
 
 ---
 
