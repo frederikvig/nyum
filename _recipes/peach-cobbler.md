@@ -20,7 +20,8 @@ sweet: ✓
 * `750g` ripe peaches
 * The juice of 1 lemon
 * `1-2 tbsp` caster sugar, depending on sweetness of fruit
-* Beaten egg and demerara (or light brown) sugar for glazing
+* Beaten egg for glazing
+* Demerara (or light brown) sugar for glazing
 
 > Heat the oven to 350 degrees.
 
