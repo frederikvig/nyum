@@ -15,7 +15,7 @@ source: https://www.saltandlavender.com/one-pan-tortellini-with-sausage/
 * `2 tsp`  kosher salt
 * `¼ tsp` freshly ground black pepper
 * `¼ tsp` red pepper flakes (optional)
-* `¼ tsp` dryed oregano (optional)
+* `¼ tsp` dried oregano (optional)
 * `2 cans (14 oz)` diced tomatoes with juices
 * `16 oz` cheese tortellini
 * `5 oz` baby spinach (about 5 packed cups)
@@ -35,7 +35,7 @@ source: https://www.saltandlavender.com/one-pan-tortellini-with-sausage/
 
 ---
 
-> Reduce the heat to maintain a gentle simmer. Cook for 5-7 minutes to let the flavors meld.
+> Reduce the heat to maintain a gentle simmer. Cook for 10 minutes to let the flavors meld.
 
 ---
 
