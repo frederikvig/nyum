@@ -12,7 +12,7 @@ vegan: ✓
 * `2¼ tsp` active dry yeast (1 pack)
 * `⅓ cup` plus 2 teaspoons sugar
 * `1½ cups` whole milk
-* `6 cups` all-purpose flour or bread flour
+* `800g` all-purpose flour or bread flour
 * `1½ tsp` kosher salt
 * `2` large eggs
 * `8 tbsp` unsalted butter, 1 stick at room temperature
@@ -29,7 +29,7 @@ vegan: ✓
 
 ---
 
-> In a stand mixer fitted with the dough hook, combine 6 cups of the flour, the remaining 1⁄3 cup sugar, and the kosher salt. Give it a quick stir to mix the ingredients.
+> In a stand mixer fitted with the dough hook, combine 6 cups of the flour, the remaining ⅓ cup sugar, and the kosher salt. Give it a quick stir to mix the ingredients.
 
 ---
 
@@ -37,7 +37,7 @@ vegan: ✓
 
 ---
 
-> Transfer the dough to a medium bowl lightly sprayed with cooking spray and cover with plastic wrap. Set in a warm spot until doubled in size, about 1-1½ hours.
+> Transfer the dough to a medium bowl lightly sprayed with cooking spray and cover with plastic wrap. Set in a warm spot until doubled in size, about 1½-2 hours.
 
 ---
 
@@ -45,7 +45,7 @@ vegan: ✓
 
 ---
 
-> Using a kitchen scale, divide and weigh the dough into 32 pieces (about 11⁄2 ounces each). Gently roll the dough pieces into balls and place them touching on a sheet pan.
+> Using a kitchen scale, divide and weigh the dough into 32 pieces (about 1½ ounces each). Gently roll the dough pieces into balls and place them touching on a sheet pan.
 
 ---
 
