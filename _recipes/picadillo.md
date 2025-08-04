@@ -9,16 +9,16 @@ favorite: ✓
 ---
 * `2 lb` ground beef
 * `2 tbsp` olive oil
-* `1 large` yellow onion diced
-* `6` garlic cloves finely chopped
-* `1` bell pepper diced
-* `1½-2 tbsp` ground cumin
-* `3 medium` potatoes peeled and cut into small pieces
+* `1 large` yellow onion, diced
+* `6` garlic cloves, finely chopped
+* `1` bell pepper, diced
+* `2 tbsp` ground cumin
+* `3 medium` potatoes, peeled and cut into small pieces
 * `2 cups` dry white wine
 * `1-2 cups` whole green olives stuffed w/ pimentos
 * `½ cup` raisins
-* `¼ cup` capers drained
-* `30 oz (2x15oz cans)` of tomato sauce
+* `¼ cup` capers, drained
+* `30 oz (2x15oz cans)` tomato sauce
 * `1` lemon
 * Salt and pepper to taste
 
@@ -38,7 +38,7 @@ favorite: ✓
 
 ---
 
-> Mix in the bell pepper, cumin, pepper and a little salt – not too much as the olives and capers are salty.
+> Mix in the bell pepper, cumin, 1 tsp freshly grounded pepper and a little salt – not too much as the olives and capers are salty.
 
 ---
 
