@@ -8,7 +8,7 @@ source: https://www.recipetineats.com/filipino-chicken-adobo-flavour-kapow/
 favorite: ✓
 ---
 
-* `3 lbs` chicken thigh fillets , boneless and skinless
+* `3 lbs` chicken thigh fillets, boneless and skinless
 * `10` garlic cloves, crushed
 * `½ cup` soy sauce
 * `2 cups` water
