@@ -53,7 +53,7 @@ vegan: ✓
 
 ---
 
-> Remove the dough from fridge, score using baker's lame or knife, transfer to dutch oven and cover, place in oven and bake for 20 minutes. Remove lid and bake for another 20 minutes.
+> Remove the dough from fridge, score using baker's lame or knife, transfer to dutch oven and cover, place in oven and bake for 20 minutes. Remove lid and bake for another 15-20 minutes.
 
 ---
 
