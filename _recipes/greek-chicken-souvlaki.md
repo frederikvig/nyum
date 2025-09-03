@@ -39,7 +39,7 @@ favorite: ✓
 
 ---
 
-> Transfer chicken to serving platter and let rest for 3 minutes. Meanwhile, briefly grill pitas and keep warm.
+> Transfer chicken to serving platter and let rest for 3 minutes. Meanwhile, briefly grill [pitas](greek-pita-bread.html) and keep warm.
 
 ---
 
