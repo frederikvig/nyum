@@ -12,7 +12,7 @@ vegan: ✓
 * `360g` warm water (95-100°F)
 * `2 tsp` instant yeast
 * `1 tsp` sugar
-* `520g` white flour
+* `520g` flour, white, whole wheat, or 50/50
 * `1 tsp` salt
 
 > Add all the ingredients and mix at medium for 6-8 minutes. If using a bread machine add all ingredients (start with water and end with salt on top of the flour), and select the dough setting.
