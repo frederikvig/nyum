@@ -3,7 +3,7 @@ title: Everyday Bread
 description: This whole wheat sandwich bread has all the heartiness of whole wheat flour but without any density or bitterness. It’s tender and yielding, flavorful and versatile; slice it up for peanut butter and jelly sandwiches or grilled cheese, or simply smear a piece with butter. 
 image: images/everyday-bread.webp
 size: 12 servings
-time: 5 hours
+time: 6 hours
 source: https://www.kingarthurbaking.com/recipes/everyday-bread-recipe
 favorite: ✓
 vegan: ✓
@@ -12,7 +12,7 @@ vegan: ✓
 * `2 cups (226g)` whole wheat flour
 * `1¼ cup (150g)` all-purpose flour
 * `1¼ tsp (7.5g)` salt
-* `2 tsp (6g)` instant yeast
+* `2¼ tsp (7g)` instant yeast
 * `2 tbsp (42g)` honey
 * `2 tbsp (28g)` unsalted butter, at room temperature
 * `1¼ cups (284g)` whole milk, warm (110°F) 
@@ -30,7 +30,7 @@ vegan: ✓
 
 ---
 
-> Return the dough to the bowl, cover, and let it rise until puffy but not necessarily doubled in volume, 2 hours.  
+> Return the dough to the bowl, cover, and let it rise until puffy but not necessarily doubled in volume, 2-2½ hours.  
 
 ---
 
@@ -38,7 +38,7 @@ vegan: ✓
 
 ---
 
-> Grease an 8 1/2" x 4 1/2" loaf pan. Spread the wheat germ on a rimmed baking sheet in an even layer the length of the dough log. Wet a clean kitchen towel, then wring it out; it should still be pretty damp. Roll the shaped dough over the towel to moisten the loaf, then into the wheat germ, turning to coat. Place the dough seam-side down in the prepared pan. Cover and let rise until the loaf crowns about 1" over the edge of the pan, 2 hours.
+> Grease an 8 1/2" x 4 1/2" loaf pan. Spread the wheat germ on a rimmed baking sheet in an even layer the length of the dough log. Wet a clean kitchen towel, then wring it out; it should still be pretty damp. Roll the shaped dough over the towel to moisten the loaf, then into the wheat germ, turning to coat. Place the dough seam-side down in the prepared pan. Cover and let rise until the loaf crowns about 1" over the edge of the pan, 2-2½ hours.
 
 ---
 
