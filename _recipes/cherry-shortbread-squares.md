@@ -13,7 +13,6 @@ sweet: ✓
 * `1 tbsp` freshly squeezed lemon juice
 * `2 tsp` pure vanilla extract
 * `½ tsp` fine sea salt
-* `1 tsp` baking powder
 * `4 large` eggs, at room temperature
 * `2 cups (256g)` unbleached all-purpose flour, spooned and leveled
 * `1 can` cherry pie filling
@@ -23,7 +22,7 @@ sweet: ✓
 
 ---
 
-> In the bowl of an electric mixer, beat together the butter and sugar on medium-high speed until very light and fluffy, about 5 minutes. Beat in the lemon juice, vanilla. Beat in the eggs one at a time. Scrape down the bowl. In the meantime add the flour, salt and baking powder to a separate bowl and lightly mix. On the lowest speed, stir in the flour-mixture. To avoid overbeating, stop mixing when there's a few streaks of flour left, and finish stirring the batter by hand.
+> In the bowl of an electric mixer, beat together the butter and sugar on medium-high speed until very light and fluffy, about 5 minutes. Beat in the lemon juice,, vanilla, and salt. Beat in the eggs one at a time, giving each at least 30 seconds of beating to incorporate. Scrape down the bowl. Beat again for 1 minute. On the lowest speed, stir in the flour. To avoid overbeating, stop mixing when there's a few streaks of flour left, and finish stirring the batter by hand.
 
 ---
 
