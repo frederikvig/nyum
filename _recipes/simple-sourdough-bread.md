@@ -4,7 +4,7 @@ description: A mild-flavored bread with satisfying fermantation and wheat flavor
 image: images/simple-sourdough-bread.jpg
 size: 24 servings
 time: 36 hours and 25 minutes
-source: Simple Sourdough p 40 from The Perfect Loaf  book
+source: Simple Sourdough p 40 from The Perfect Loaf book
 favorite: ✓
 vegan: ✓
 ---
@@ -32,7 +32,7 @@ vegan: ✓
 
 ---
 
-> Cover and set aside, do 3 sets of stretch and folds at 30-minutes intervals. Leave for bulk fermentation for about 3 hours and 30 minutes after the last stretch and fold.
+> Cover and set aside, do 3 sets of stretch and folds at 30-minutes intervals. Leave for bulk fermentation for about 4 hours and 30 minutes after the last stretch and fold.
 
 ---
 
