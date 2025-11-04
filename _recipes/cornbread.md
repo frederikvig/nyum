@@ -17,7 +17,7 @@ sweet: ✓
 * `1 tsp` salt
 * `1 cup` milk
 * `⅓ cup` vegetable oil
-* `2` large eggs
+* `1` large egg
 
 > Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a 9-inch round cake pan.
 
