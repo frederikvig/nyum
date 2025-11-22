@@ -3,7 +3,7 @@ title: Boller
 description: Norwegian Boller with raisins or chocolate 
 image: images/boller.jpg
 size: 24 servings
-time: 4 hours
+time: 4½ hours
 source: https://trinesmatblogg.no/recipe/rosinboller/
 favorite: ✓
 sweet: ✓
@@ -42,7 +42,7 @@ vegan: ✓
 
 ---
 
-> Cover and let rise for another 1½ hours or more, until double in size.
+> Cover and let rise for another 2 hours or more, until double in size.
 
 ---
 
@@ -50,7 +50,7 @@ vegan: ✓
 
 ---
 
-> Preheat oven to 225 celsius (425 fahrenheit) and bake for 12 minutes.
+> Preheat oven to 225 celsius (425 fahrenheit) and bake for 11 minutes.
 
 ---
 

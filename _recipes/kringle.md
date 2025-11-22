@@ -14,7 +14,7 @@ vegan: ✓
 * `100 g` white sugar
 * `400 ml` whole milk
 * `2¼ tsp` instant or active dry yeast
-* `2 tsp` cardemom
+* `2 tsp` cardamom
 * `1 tsp` salt
 * `1` egg
 * `1 tsp` vanilla extract
