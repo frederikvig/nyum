@@ -10,15 +10,15 @@ vegan: ✓
 sweet: ✓
 ---
 
-* `2 cups` (240 g) flour
-* `½ cup` (115) g sugar
-* `200 g` soft butter
+* `2 cups (240 g)` white flour
+* `½ cup (115 g)` white sugar
+* `200 g` unsalted butter, soft
 * `125 g` almond flour
 * `2 tsp` vanilla sugar
 * Seeds from 1 Vanilla Bean (optional)
 * `1` egg yolk
 * Pinch of salt
-* About ½  cup (60 g) powdered sugar and 4 tsp vanilla sugar to sprinkle.
+
 
 > Mix the butter, sugar, vanilla sugar, salt, seeds from 1 vanilla pod (optional) and egg yolk until combined.
 
@@ -52,7 +52,7 @@ sweet: ✓
 
 ---
 
-> Devide the log into 0,8 inch (2 cm) Slices.
+> Divide the log into 2 cm (0.8 inches) slices.
 
 ---
 
@@ -79,6 +79,9 @@ sweet: ✓
 > Let the cookies cool on the baking sheet.
 
 ---
+
+* `½ cup (60 g)` powdered sugar
+* `4 tsp` vanilla sugar
 
 > Combine the powdered sugar and vanilla sugar.
 

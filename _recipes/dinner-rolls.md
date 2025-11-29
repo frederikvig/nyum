@@ -2,22 +2,22 @@
 title: Dinner Rolls
 description: You only need 7 ingredients to make these dinner rolls. Flaky, soft, and buttery, these fresh dinner rolls outshine any main dish. 
 image: images/dinner-rolls.avif
-size: 32 servings
-time: 3 hours
+size: 40 servings
+time: 4 hours
 source: https://magnolia.com/recipe/7bc54ed0-66a3-40f1-a361-d307c7be6849/dinner-rolls/
 vegan: ✓
 ---
 
-* `½ cup` warm water (95° to 110°F)
+* `½ cup (120g)` warm water (95° to 110°F)
 * `2¼ tsp` active dry yeast (1 pack)
-* `⅓ cup` plus 2 teaspoons sugar
-* `1½ cups` whole milk
-* `800g` all-purpose flour or bread flour
+* `90g` white sugar
+* `1½ cups (360g)` whole milk
+* `900g` all-purpose flour or bread flour
 * `1½ tsp` kosher salt
 * `2` large eggs
-* `8 tbsp` unsalted butter, 1 stick at room temperature
+* `8 tbsp (113g)` unsalted butter, 1 stick at room temperature
 * Cooking spray
-* `4 tbsp` unsalted butter, ½ stick melted
+* `4 tbsp (56.5g)` unsalted butter, ½ stick melted
 * `2 tsp` Maldon salt or other flaky salt (optional)
 
 
@@ -37,7 +37,7 @@ vegan: ✓
 
 ---
 
-> Transfer the dough to a medium bowl lightly sprayed with cooking spray and cover with plastic wrap. Set in a warm spot until doubled in size, about 1½-2 hours.
+> Transfer the dough to a medium bowl lightly sprayed with cooking spray and cover with plastic wrap. Set in a warm spot until doubled in size, about 2 hours.
 
 ---
 
@@ -45,7 +45,7 @@ vegan: ✓
 
 ---
 
-> Using a kitchen scale, divide and weigh the dough into 32 pieces (about 1½ ounces each). Gently roll the dough pieces into balls and place them touching on a sheet pan.
+> Using a kitchen scale, divide and weigh the dough into 32 pieces (about 43 grams each). Gently roll the dough pieces into balls and place them touching on a sheet pan.
 
 ---
 

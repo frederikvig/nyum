@@ -3,7 +3,7 @@ title: Roasted chicken
 description: Perfect roasted chicken.
 image: images/roasted-chicken.jpeg
 size: 6 servings
-time: 2 hours 30 minutes
+time: 2 hours
 source: https://www.foodnetwork.com/recipes/ina-garten/perfect-roast-chicken-recipe-1940592
 favorite: ✓
 ---
@@ -14,7 +14,7 @@ favorite: ✓
 * `1` large bunch fresh thyme, plus 20 sprigs
 * `1` lemon, halved
 * `1` head garlic, cut in half crosswise
-* `2 tbsp` (1/4 stick) butter, melted
+* `2 tbsp` (¼ stick) butter, melted
 * `1` large yellow onion, thickly sliced
 * `6` carrots cut into 2-inch chunks
 * `1` bulb of fennel, tops removed, and cut into wedges
@@ -36,4 +36,4 @@ favorite: ✓
 
 ---
 
-> Roast the chicken and the veggies for 45-60 more minutes, or until the juices run clear when you cut between a leg and thigh. Remove the chicken and vegetables to a platter and cover with aluminum foil for about 20 minutes. Slice the chicken onto a platter and serve it with the vegetables.
+> Roast the chicken and the veggies for 30-60 more minutes, or until the juices run clear when you cut between a leg and thigh. Remove the chicken and vegetables to a platter and cover with aluminum foil for about 20 minutes. Slice the chicken onto a platter and serve it with the vegetables.

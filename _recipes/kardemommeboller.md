@@ -15,7 +15,7 @@ vegan: ✓
 * `150 g` white sugar
 * `500 ml` whole milk
 * `2¼ tsp` instant or active dry yeast
-* `2 tsp` cardamom
+* `2 tsp` freshly ground cardamom
 * `1 tsp` salt
 * `1` egg
 * `1 tsp` vanilla extract
@@ -33,9 +33,9 @@ vegan: ✓
 
 ---
 
-* `100 g` butter at room temperature in cubes
+* `120 g` butter at room temperature in cubes
 * `100 g` white sugar
-* `1-2 tbsp` cardamom
+* `1½-2 tbsp` freshly ground cardamom
 
 > Move to a large surface and roll out the dough into a rectangle. Add the butter and spread it evenly over the dough. Mix the sugar and cardamom together in a bowl and spread evenly over the dough.
 
