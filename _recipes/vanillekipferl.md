@@ -2,9 +2,9 @@
 title: Vanillekipferl 
 description: This Almond Crescent Cookies will melt in your Mouth and thoroughly win you over! If you try these, you won't bake any other. Promised! These cookies have a long shelf life and are ideal as gifts.
 image: images/vanillekipferl.webp
-size: 8 servings
+size: 70 servings
 time: 1 hour 8 minutes
-source: https://natashaskitchen.com/strawberry-cake-recipe/
+source: https://www.youtube.com/watch?v=4mMEd2FqRUI
 favorite: ✓
 vegan: ✓
 sweet: ✓
@@ -28,7 +28,7 @@ sweet: ✓
 
 ---
 
-> Turn the Dough out onto a Working Surface and knead the Dough gently until smooth.
+> Turn the Dough out onto a working Surface and knead the dough gently until smooth.
 
 ---
 
@@ -52,7 +52,7 @@ sweet: ✓
 
 ---
 
-> Divide the log into 2 cm (0.8 inches) slices.
+> Divide the log into 2 cm (0.8 inches) slices (about 10 grams each).
 
 ---
 
@@ -60,7 +60,7 @@ sweet: ✓
 
 ---
 
-> Shape each ball with the palm of your hand into 2 - 2.5 inch (5 - 6 cm) Logs. The little logs should be slightly thicker in the middle, with tapered ends. 
+> Shape each ball with the palm of your hand into 5 - 6 cm (2 - 2.5 inch) logs. The little logs should be slightly thicker in the middle, with tapered ends. 
 
 ---
 
@@ -72,7 +72,7 @@ sweet: ✓
 
 ---
 
-> Bake the cookies in the preheated oven at 350°F  (180°C) on the middle rack for about 8 minutes. Bake them until the edges begin to turn light golden.
+> Bake the cookies in the preheated oven at 350°F (180°C) on the middle rack for about 10 minutes. Bake them until the edges begin to turn light golden.
 
 ---
 
@@ -80,11 +80,11 @@ sweet: ✓
 
 ---
 
-* `½ cup (60 g)` powdered sugar
-* `4 tsp` vanilla sugar
+* `¼ cup (30 g)` powdered sugar
+* `2 tsp` vanilla sugar
 
 > Combine the powdered sugar and vanilla sugar.
 
 ---
 
-> sprinkle the cookies with the sugar mixture. Enjoy!
+> Sprinkle the cookies with the sugar mixture. Enjoy!

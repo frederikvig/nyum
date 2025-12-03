@@ -21,7 +21,7 @@ vegan: ✓
 * `200 g` raisins
 * `1` egg for brushing
 
-> Place everything except the butter, second egg and raisins in the kitchen machine with the dough hook on medium for 10 minutes. 
+> Place everything except the butter, second egg and raisins in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes.
 
 ---
 
