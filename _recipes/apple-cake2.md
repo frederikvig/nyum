@@ -17,7 +17,7 @@ sweet: ✓
 * `1 pinch` salt
 * `4` large apples (if you can, choose four different kinds)
 * `2` large eggs
-* `¾ (150g)` sugar
+* `¾ cup (150g)` sugar
 * `3 tbsp` dark rum
 * `½ tsp` vanilla extract
 * `½ cup (113g)` unsalted butter, melted and cooled
@@ -38,7 +38,7 @@ sweet: ✓
 
 ---
 
-> Slide the pan into the oven and bake for 50 to 60 minutes, until the top of the cake is golden brown and a knife inserted deep into the center comes out clean; the cake may pull away from the sides of the pan. Transfer to a cooling rack and let rest for 5 minutes.
+> Slide the pan into the oven and bake for 55 to 60 minutes, until the top of the cake is golden brown and a knife inserted deep into the center comes out clean; the cake may pull away from the sides of the pan. Transfer to a cooling rack and let rest for 5 minutes.
 
 ---
 
@@ -46,4 +46,4 @@ sweet: ✓
 
 ---
 
-> The cake can be served warm or at room temperature, and will keep for about 2 days at room temperature. Greenspan's husband says it gets more comforting with each passing day. However long you keep the cake, it's best not to cover it—it's too moist. Leave the cake on its plate and just press a piece of plastic wrap or wax paper against the cut surfaces.
+> The cake can be served warm or at room temperature, and will keep for about 2 days at room temperature. Greenspan's husband says it gets more comforting with each passing day. However long you keep the cake, it's best not to cover it - it's too moist. Leave the cake on its plate and just press a piece of plastic wrap or wax paper against the cut surfaces.

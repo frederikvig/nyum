@@ -2,26 +2,27 @@
 title: Julekake
 description: Norwegian Julekake/Julebrød
 image: images/julekake.webp
-size: 12 servings
-time: 3 hours
-source: https://www.matprat.no/oppskrifter/tradisjon/julekake/
+size: 24 servings
+time: 5 hours
+source: https://trinesmatblogg.no/recipe/saftig-julebrod-eller-julekake-om-du-vil/
 favorite: ✓
 vegan: ✓
+sweet: ✓
 ---
 
-* `950 g` all-purpose flour
+* `900 g` all-purpose flour
 * `150 g` white sugar
 * `500 ml` whole milk
-* `2¼ tsp` instant yeast
+* `2¼ tsp` instant or active dry yeast
 * `2 tsp` cardemom
 * `1 tsp` salt
 * `1` egg
 * `1 tsp` vanilla extract
 * `175 g` butter at room temperature in cubes
-* `200 g` raisins
+* `250 g` raisins
 * `1` egg for brushing
 
-> Place everything except the butter, second egg and raisins in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes.
+> Place everything except the butter, second egg and raisins in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 5-10 minutes.
 
 ---
 
@@ -33,15 +34,15 @@ vegan: ✓
 
 ---
 
-> Set aside and cover with some plastic and a kitchen towel for 1 hour to rise until double in size.
+> Set aside and cover with some plastic and a kitchen towel for 2 hours to rise until double in size.
 
 ---
 
-> Cut into 2 (or 3, 4 for smaller breads) and shape into a round bread Put on a baking sheet.
+> Cut into 3 equally large pieces and shape each into a round or oval bread. Put on baking sheets lined with parchment paper.
 
 ---
 
-> Cover and let rise for another 1 hour, until double in size.
+> Cover and let rise for another 2 hours, until double in size.
 
 ---
 
@@ -49,8 +50,8 @@ vegan: ✓
 
 ---
 
-> Put oven on 200 celsius (400 fahrenheit) and bake for 35 minutes.
+> Preheat the oven to 200 celsius (400 fahrenheit) and bake for 30 minutes. Around the 20 minute mark take a look and if it browns too quickly on top, cover it with some foil. Bake until the internal temperature reaches 206°F-210°F.
 
 ---
 
-> Let them cool and enjoy!
+> Let them cool. Slice and enjoy either plain or with butter.

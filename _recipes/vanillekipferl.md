@@ -72,7 +72,7 @@ sweet: ✓
 
 ---
 
-> Bake the cookies in the preheated oven at 350°F (180°C) on the middle rack for about 10 minutes. Bake them until the edges begin to turn light golden.
+> Bake the cookies in the preheated oven at 350°F (180°C) on the middle rack for 10-11 minutes. Bake them until the edges begin to turn light golden.
 
 ---
 
