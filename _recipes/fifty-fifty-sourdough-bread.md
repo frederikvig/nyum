@@ -3,7 +3,7 @@ title: Fifty-Fifty Whole Wheat Sourdough Bread
 description: A half whole grain loaf with loads of flavor and light in the hand.
 image: images/fifty-fifty-wholewheat-sourdough-bread.jpg
 size: 24 servings
-time: 26 hours
+time: 25 hours
 source: https://www.theperfectloaf.com/fifty-fifty-whole-wheat-sourdough-bread/
 favorite: ✓
 vegan: ✓
@@ -35,7 +35,7 @@ vegan: ✓
 
 ---
 
-> Cover and set aside, do 5 sets of stretch and folds at 30-minutes intervals. Leave for bulk fermentation for about 3 hours after the last stretch and fold.
+> Cover and set aside, do 5 sets of stretch and folds at 30-minutes intervals. Leave for bulk fermentation for about 2½ hours after the last stretch and fold.
 
 ---
 
@@ -60,4 +60,4 @@ vegan: ✓
 
 ---
 
-> When done the loaf should have an internal temperature of 206°F-210°F. Place the loaf on a cooling rack and let it cool for 1-2 hours. Return the pot to the oven for 15 minutes before repeating the baking process with the second loaf.
+> When done the loaf should have an internal temperature of 206°F-210°F. Place the loaf on a cooling rack and let it cool for 2 hours. Return the pot to the oven for 15 minutes before repeating the baking process with the second loaf.
