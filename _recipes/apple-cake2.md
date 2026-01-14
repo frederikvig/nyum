@@ -38,7 +38,7 @@ sweet: ✓
 
 ---
 
-> Slide the pan into the oven and bake for 55 to 60 minutes, until the top of the cake is golden brown and a knife inserted deep into the center comes out clean; the cake may pull away from the sides of the pan. Transfer to a cooling rack and let rest for 5 minutes.
+> Slide the pan into the oven and bake for 60 minutes, until the top of the cake is golden brown and a knife inserted deep into the center comes out clean; the cake may pull away from the sides of the pan. Transfer to a cooling rack and let rest for 5 minutes.
 
 ---
 
