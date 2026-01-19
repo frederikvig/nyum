@@ -51,7 +51,6 @@ vegan: ✓
 
 ---
 
-
 > Preheat the oven to 450°F with the dutch oven and lid inside for at least 30 minutes.
 
 ---
