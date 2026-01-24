@@ -30,11 +30,11 @@ vegan: ✓
 * `17g` fine sea salt
 * `151g` levain
 
-> Mix the dough by adding the salt, the ripe levain, and a splash of water to the autolyse. Mix and add more water as needed. It should feel firm, but sticky. Then strengthen the dough for 5-6 minutes.
+> Mix the dough by adding the salt, the ripe levain, and a splash of water to the autolyse. Mix and add more water as needed. It should feel firm, but sticky. Then strengthen the dough for 5-6 minutes. The dough should smooth out a little and gain some elasticity, but still be quite shaggy.
 
 ---
 
-> Cover and set aside, do 6 sets of stretch and folds, the first 3 at 15-minute intervals, and the remaining 3 at 30-minute intervals. Leave for bulk fermentation for about 2 hours after the last stretch and fold.
+> Cover and set aside at a warm location. Do 6 sets of stretch and folds, the first 3 at 15-minute intervals, and the remaining 3 at 30-minute intervals. Leave for bulk fermentation for about 2 hours after the last stretch and fold.
 
 ---
 
