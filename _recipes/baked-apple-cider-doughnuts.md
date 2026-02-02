@@ -10,7 +10,7 @@ vegan: ✓
 sweet: ✓
 ---
 
-* Butter for greasing pan
+* Nonstick cooking spray
 * `1¾ cup (225g)` all-purpose flour
 * `1¼ tsp` baking powder
 * `¾ tsp` salt
