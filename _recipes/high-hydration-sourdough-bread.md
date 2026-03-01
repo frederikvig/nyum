@@ -34,7 +34,7 @@ vegan: ✓
 
 ---
 
-> Cover and set aside at a warm location. Do 6 sets of stretch and folds, the first 3 at 15-minute intervals, and the remaining 3 at 30-minute intervals. Leave for bulk fermentation for about 2 hours after the last stretch and fold.
+> Cover and set aside at a warm location. Do 6 sets of stretch and folds, the first 3 at 15-minute intervals, and the remaining 3 at 30-minute intervals. Leave for bulk fermentation for about 2½ hours after the last stretch and fold.
 
 ---
 

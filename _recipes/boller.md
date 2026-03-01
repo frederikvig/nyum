@@ -12,7 +12,7 @@ vegan: ✓
 
 * `900 g` all-purpose flour
 * `200 g` white sugar
-* `500 ml` whole milk
+* `500 ml (515 g)` whole milk
 * `2¼ tsp` instant or active dry yeast
 * `2 tsp` cardemom
 * `1 tsp` salt

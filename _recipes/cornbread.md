@@ -10,10 +10,10 @@ vegan: ✓
 sweet: ✓
 ---
 
-* `1 cup` all-purpose flour
-* `1 cup` yellow cornmeal
-* `½ cup` white sugar
-* `3½ tsp` baking powder
+* `1 cup (120g)` all-purpose flour
+* `1 cup (156g)` yellow cornmeal
+* `½ cup (100g)` white sugar
+* `2½ tsp` baking powder
 * `1 tsp` salt
 * `1 cup` milk
 * `⅓ cup` vegetable oil

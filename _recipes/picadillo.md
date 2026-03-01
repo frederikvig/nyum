@@ -22,11 +22,11 @@ favorite: ✓
 * `1` lemon
 * Salt and pepper to taste
 
-> Put the potato pieces in hot water and set aside.
+> Heat some water in a pot, add salt and the potatoes, let simmer for 10 minutes.
 
 --- 
 
-> In a large frying pan, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. 
+> In a large skillet, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. 
 
 ---
 
@@ -42,15 +42,15 @@ favorite: ✓
 
 ---
 
-> Add the potatoes pieces and cook for about 5 minutes.
+> Add the potato pieces and cook for about 5 minutes.
 
 ---
 
-> Add the ground beef and the wine, let the liquid reduce.
+> Add back the ground beef, add the wine, and let the liquid reduce.
 
 ---
 
-> Add raisins and tomato sauce when the potatoes are about half-cooked (a knife can easily through the first part but the center is still very firm).
+> Add raisins and the tomato sauce when the potatoes are about half-cooked (a knife can easily through the first part but the center is still very firm).
 
 ---
 
