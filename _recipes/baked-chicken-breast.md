@@ -1,6 +1,6 @@
 ---
 title: Baked Chicken Breast
-description: Super-spicy chicken tempered with loads of cheese and fresh spring onions. Serve with rice and a light salad – or, better yet, an assortment of side dishes.
+description: This Baked Chicken Breast is tender on the inside, perfectly seasoned and golden on the outside.
 image: images/baked-chicken-breast.jpg
 size: 6 servings
 time: 30 minutes
