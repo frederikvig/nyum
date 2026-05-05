@@ -15,7 +15,7 @@ vegan: ✓
 * `1 cup` thinly sliced peeled baking apples (1 medium)
 * `2` eggs
 * `½ cup (65g)` all-purpose flour
-* `½ cup` whole milk 
+* `½ cup` whole milk
 * `¼ tsp` salt
 * Lemon juice and powdered sugar, if desired
 
@@ -23,7 +23,7 @@ vegan: ✓
 
 ---
 
-> In a medium bowl, beat eggs slightly with whisk. Stir in flour, milk and salt just until flour is moistened (do not overbeat or pancake may not puff). Pounr into skilled over the apples. 
+> In a medium bowl, beat eggs slightly with whisk. Stir in flour, milk and salt just until flour is moistened (do not overbeat or pancake may not puff). Pour into skilled over the apples.
 
 ---
 

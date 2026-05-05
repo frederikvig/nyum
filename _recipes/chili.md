@@ -3,12 +3,12 @@ title: Chili
 description: The Best Chili Recipe is one that is loaded with beef and beans and absolutely full of flavor… just like this one!
 image: images/chili.jpg
 size: 8 servings
-time: 1 hour and 5 minutes
+time: 1 hour and 15 minutes
 source: https://www.spendwithpennies.com/the-best-chili-recipe/
 favorite: ✓
 ---
 
-* `2 lb` lean ground beef 
+* `2 lb` lean ground beef
 * `1` onions, diced
 * `1` jalapeño, seeded and finely diced
 * `4` cloves garlic, minced
@@ -17,7 +17,7 @@ favorite: ✓
 * `1 tsp` dried oregano
 * `1 tsp` mustard powder
 * `½ tsp` sweet paprika
-* `1 tbsp` kosher salt
+* `1½ tbsp` kosher salt
 * `½ tsp` fresly ground black pepper
 * `1` green bell pepper, seeded and diced
 * `28 ounces` crushed tomatoes (1 can)

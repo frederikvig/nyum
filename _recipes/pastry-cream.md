@@ -1,8 +1,8 @@
 ---
-title: Vanilla custard
+title: Pastry cream
 original_title: Vaniljekrem
-description: Norwegian Vanilla custard 
-image: images/vanilla-custard.webp
+description: Vanilla pastry cream 
+image: images/pastry-cream.webp
 size: 1 servings
 time: 20 minutes
 source: https://www.matprat.no/oppskrifter/tradisjon/vaniljekrem/

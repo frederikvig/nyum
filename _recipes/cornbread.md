@@ -19,7 +19,7 @@ sweet: ✓
 * `⅓ cup` vegetable oil
 * `1` large egg
 
-> Preheat the oven to 400 degrees F (200 degrees C). Lightly grease a 9-inch round cake pan.
+> Preheat the oven to 375 degrees F (190 degrees C). Lightly grease a 9-inch round cake pan.
 
 ---
 
@@ -35,7 +35,7 @@ sweet: ✓
 
 ---
 
-> Bake in the preheated oven until a toothpick inserted into the center of the pan comes out clean, 20 to 25 minutes.
+> Bake in the preheated oven until a toothpick inserted into the center of the pan comes out clean, about 25 minutes.
 
 ---
 

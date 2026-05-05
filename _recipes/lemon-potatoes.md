@@ -12,8 +12,8 @@ vegan: ✓
 
 * `3` cloves garlic
 * `2` lemons
-* `½ cup` chicken or vegetable broth 
-* `½ cup` olive oil 
+* `½ cup` chicken or vegetable broth
+* `½ cup` olive oil
 * `2 tsp` dried oregano
 * `1¼ tsp` kosher salt
 * `¼ tsp` freshly ground black pepper
@@ -25,12 +25,12 @@ vegan: ✓
 
 ---
 
-> Mince 3 garlic cloves and place in a 9x13-inch baking dish. Juice 2 lemons until you have ⅓ cup and add to the baking dish. Add the broth, olive oil, oregano, salt, and black pepper. Stir to combine. 
+> Mince 3 garlic cloves and place in a 9x13-inch baking dish. Juice 2 lemons until you have ⅓ cup and add to the baking dish. Add the broth, olive oil, oregano, salt, and black pepper. Stir to combine.
 
 ---
 
-> Peel 2 pounds Yukon gold potatoes and cut into 1-inch-wide wedges. Add to the baking dish and toss to coat. Spread into an even layer. Cover the baking dish with aluminum foil. 
+> Peel 2 pounds Yukon gold potatoes and cut into 1-inch-wide wedges. Add to the baking dish and toss to coat. Spread into an even layer. Cover the baking dish with aluminum foil.
 
 ---
 
-> Roast for 30 minutes. Uncover and toss the potatoes. Return the baking dish to the oven and roast uncovered until the potatoes are very tender, 30 to 35 minutes more. If you'd like browned edges, turn the oven to broil and broil until the potatoes are lightly browned, 2 to 4 minutes.
+> Roast for 30 minutes. Uncover and toss the potatoes. Return the baking dish to the oven and roast uncovered until the potatoes are very tender, 35 minutes more. If you'd like browned edges, turn the oven to broil and broil until the potatoes are lightly browned, 2 to 4 minutes.

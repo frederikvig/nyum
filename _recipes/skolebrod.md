@@ -19,12 +19,12 @@ vegan: ✓
 * `1` egg
 * `1 tsp` vanilla extract
 * `150 g` butter at room temperature in cubes
-* `300 g` [vanilla custard](vanilla-custard.html)
+* `300 g` [pastry cream](pastry-cream.html)
 * `1` egg for brushing
 * [Melisglasur](melisglasur.html) (confectioners sugar with water/egg whites)
 * Shredded coconut
 
-> Place everything except the butter, second egg, vanilla custard and melisglasur, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
+> Place everything except the butter, second egg, pastry cream and melisglasur, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
 
 ---
 
@@ -48,7 +48,7 @@ vegan: ✓
 
 ---
 
-> Create a small hole in the middle and add a generous teaspoon of [vanilla custard](vanilla-custard.html).
+> Create a small hole in the middle and add a generous teaspoon of [pastry cream](pastry-cream.html).
 
 ---
 

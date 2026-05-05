@@ -22,7 +22,7 @@ vegan: ✓
 * `64g` whole wheat flour
 * `650g` water
 
-> Create the autolyse 1½ hour before the levain is done, by mixing the flour with the water until no dry bits remain. Cover and rest at warm room temperature for 1 hour.
+> Create the autolyse 1½ hours before the levain is done, by mixing the flour with the water until no dry bits remain. Cover and rest at warm room temperature for 1½ hours.
 
 ---
 

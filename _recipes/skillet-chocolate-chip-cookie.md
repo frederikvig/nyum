@@ -5,6 +5,7 @@ image: images/skillet-chocolate-chip-cookie.jpg
 size: 8 servings
 time: 45 minutes
 source: https://cooking.nytimes.com/recipes/1024224-skillet-chocolate-chip-cookie
+sweet: ✓
 ---
 
 * `8 tbsp (113g)` grams unsalted butter, at room temperature
