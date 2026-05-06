@@ -3,7 +3,12 @@
     "allow": [
       "Bash(git *)",
       "Bash(time pandoc *)",
-      "Bash(time bash -c ' *)"
+      "Bash(time bash -c ' *)",
+      "mcp__chrome-devtools__take_screenshot",
+      "Bash(ps -W)",
+      "Bash(awk '{print $1}')",
+      "Bash(xargs -r kill)",
+      "Bash(rm -f _temp/screenshot-*.png)"
     ]
   }
 }

@@ -128,6 +128,14 @@ x pandoc _templates/technical/empty.md \
     --template _templates/index.template.html \
     -o _site/index.html
 
+status "Building search page..."
+x pandoc _templates/technical/empty.md \
+    --metadata-file config.yaml \
+    --metadata title="dummy" \
+    --metadata updatedtime="$(date "+%Y-%m-%d")" \
+    --template _templates/search.template.html \
+    -o _site/search.html
+
 status "Assembling search index..."
 x awk 'BEGIN { printf "[" } FNR == 1 && NR > 1 { printf "," } { sub(/\r$/, ""); print } END { printf "]\n" }' _temp/*.metadata.json > _temp/search.json
 x cp _temp/search.json _site/
