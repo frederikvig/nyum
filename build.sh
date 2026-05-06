@@ -18,11 +18,16 @@ while [[ $# -gt 0 ]]; do
     elif [ "$1" = "-h" ] || [ "$1" = "--help" ]; then
         echo "Usage: bash build.sh [-q | --quiet] [-c | --clean]"
         echo "  Builds the site. If the -c flag is given, stops after resetting _site/ and _temp/."
+        echo "  Set BUILD_JOBS=N to override the parallelism level (default: number of CPUs)."
         exit
     else
         shift
     fi
 done
+
+# parallelism for the per-recipe pandoc loops; overridable via BUILD_JOBS env var
+JOBS="${BUILD_JOBS:-$(nproc 2>/dev/null || echo 4)}"
+export QUIET
 
 function status {
     $QUIET && return
@@ -38,6 +43,42 @@ function x {
     IFS="$_IFS"
     "$@"
 }
+
+# per-recipe metadata extraction; called in parallel via xargs
+extract_metadata() {
+    local FILE="$1"
+    local BASE
+    BASE="$(basename "$FILE" .md)"
+    $QUIET || echo "↪ extract $BASE" >&2
+    pandoc "$FILE" \
+        --metadata-file config.yaml \
+        --metadata basename="$BASE" \
+        --template _templates/technical/category.template.txt \
+        -t html -o "_temp/$BASE.category.txt"
+    pandoc "$FILE" \
+        --metadata htmlfile="$BASE.html" \
+        --template _templates/technical/metadata.template.json \
+        -t html -o "_temp/$BASE.metadata.json"
+}
+export -f extract_metadata
+
+# per-recipe page rendering; called in parallel via xargs (depends on extract_metadata + group_by_category.awk having run)
+render_recipe() {
+    local FILE="$1"
+    local BASE
+    BASE="$(basename "$FILE" .md)"
+    local SLUG
+    read -r SLUG < "_temp/$BASE.slug.txt"  # slug precomputed by group_by_category.awk
+    $QUIET || echo "↪ render $BASE" >&2
+    pandoc "$FILE" \
+        --metadata-file config.yaml \
+        --metadata basename="$BASE" \
+        --metadata category_faux_urlencoded="$SLUG" \
+        --metadata updatedtime="$(date -r "$FILE" "+%Y-%m-%d")" \
+        --template _templates/recipe.template.html \
+        -o "_site/$BASE.html"
+}
+export -f render_recipe
 
 status "Resetting _site/ and _temp/..."
 # (...with a twist, just to make sure this doesn't throw an error the first time)
@@ -58,64 +99,14 @@ x cp -r _assets/ _site/assets/
 status "Copying images..."
 x cp -r _recipes/images/ _site/images/
 
-status "Extracting metadata..."
-for FILE in _recipes/*.md; do
-    # set basename to avoid having to use $sourcefile$ which pandoc sets automatically but contains the relative path
-    x pandoc "$FILE" \
-        --metadata-file config.yaml \
-        --metadata basename="$(basename "$FILE" .md)" \
-        --template _templates/technical/category.template.txt \
-        -t html -o "_temp/$(basename "$FILE" .md).category.txt"
+status "Extracting metadata (parallel, -P $JOBS)..."
+printf '%s\n' _recipes/*.md | xargs -n 1 -P "$JOBS" bash -c 'extract_metadata "$1"' _
 
-    # set htmlfile in order to link to it on the index page
-    x pandoc "$FILE" \
-        --metadata htmlfile="$(basename "$FILE" .md).html" \
-        --template _templates/technical/metadata.template.json \
-        -t html -o "_temp/$(basename "$FILE" .md).metadata.json"
-done
+status "Grouping metadata by category..."
+x awk -f _templates/technical/group_by_category.awk _temp/*.category.txt
 
-status "Grouping metadata by category..."  # (yep, this is a right mess)
-echo "{\"categories\": [" > _temp/index.json
-SEPARATOR_OUTER=""  # no comma before first list element (categories)
-SEPARATOR_INNER=""  # ditto (recipes per category)
-IFS=$'\n'           # tell for loop logic to split on newlines only, not spaces
-CATS="$(cat _temp/*.category.txt | tr -d '\r')"  # strip CRs since Pandoc on Windows emits CRLF
-for CATEGORY in $(echo "$CATS" | cut -d" " -f2- | sort | uniq); do
-    printf '%s' "$SEPARATOR_OUTER" >> _temp/index.json
-    CATEGORY_FAUX_URLENCODED="$(echo "$CATEGORY" | awk -f "_templates/technical/faux_urlencode.awk")"
-
-    # use `tee -a` to append to both _temp/index.json and the per-category JSON
-    x printf '%s' "{\"category\": \"$CATEGORY\", \"category_faux_urlencoded\": \"$CATEGORY_FAUX_URLENCODED\", \"recipes\": [" | tee -a "_temp/index.json" "_temp/$CATEGORY_FAUX_URLENCODED.category.json" >/dev/null
-    for C in $CATS; do
-        BASENAME=$(echo "$C" | cut -d" " -f1)
-        C_CAT=$(echo "$C" | cut -d" " -f2-)
-        if [[ "$C_CAT" == "$CATEGORY" ]]; then
-            printf '%s' "$SEPARATOR_INNER" | tee -a "_temp/index.json" "_temp/$CATEGORY_FAUX_URLENCODED.category.json" >/dev/null
-            x cat "_temp/$BASENAME.metadata.json" | tee -a "_temp/index.json" "_temp/$CATEGORY_FAUX_URLENCODED.category.json" >/dev/null
-            SEPARATOR_INNER=","
-        fi
-    done
-    x printf '%s\n' "]}" | tee -a "_temp/index.json" "_temp/$CATEGORY_FAUX_URLENCODED.category.json" >/dev/null
-    SEPARATOR_OUTER=","
-    SEPARATOR_INNER=""
-done
-unset IFS
-echo "]}" >> _temp/index.json
-
-status "Building recipe pages..."
-for FILE in _recipes/*.md; do
-    CATEGORY_FAUX_URLENCODED="$(cut -d" " -f2- "_temp/$(basename "$FILE" .md).category.txt" | awk -f "_templates/technical/faux_urlencode.awk")"
-
-    # set basename to enable linking to github in the footer, and set
-    # category_faux_urlencoded in order to link to that in the breadcrumb
-    x pandoc "$FILE" \
-        --metadata-file config.yaml \
-        --metadata basename="$(basename "$FILE" .md)" \
-        --metadata category_faux_urlencoded="$CATEGORY_FAUX_URLENCODED" \
-        --metadata updatedtime="$(date -r "$FILE" "+%Y-%m-%d")" \
-        --template _templates/recipe.template.html \
-        -o "_site/$(basename "$FILE" .md).html"
-done
+status "Building recipe pages (parallel, -P $JOBS)..."
+printf '%s\n' _recipes/*.md | xargs -n 1 -P "$JOBS" bash -c 'render_recipe "$1"' _
 
 status "Building category pages..."
 for FILE in _temp/*.category.json; do
@@ -138,15 +129,8 @@ x pandoc _templates/technical/empty.md \
     -o _site/index.html
 
 status "Assembling search index..."
-echo "[" > _temp/search.json
-SEPARATOR=""
-for FILE in _temp/*.metadata.json; do
-    printf '%s' "$SEPARATOR" >> _temp/search.json
-    x cat "$FILE" >> _temp/search.json
-    SEPARATOR=","
-done
-echo "]" >> _temp/search.json
-x cp -r _temp/search.json _site/
+x awk 'BEGIN { printf "[" } FNR == 1 && NR > 1 { printf "," } { sub(/\r$/, ""); print } END { printf "]\n" }' _temp/*.metadata.json > _temp/search.json
+x cp _temp/search.json _site/
 
 TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))
