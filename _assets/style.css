@@ -59,6 +59,7 @@ html {
     font-size: 18px;
     line-height: 1.4;
     font-family: var(--sans);
+    scroll-behavior: smooth;
 }
 body {
     background-color: var(--page-background);
@@ -279,6 +280,31 @@ h2 {
     font-weight: normal;
     counter-reset: step;  /* handy if used on a recipe page */
     clear: both;
+}
+.category-nav {
+    max-width: 48em;
+    margin: 0 auto 1.5em;
+    padding: 0 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.4em;
+}
+.category-nav a {
+    display: inline-block;
+    padding: 0.25em 0.7em;
+    color: var(--h2);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    letter-spacing: 0.1em;
+    border: 1px solid var(--horizontal-rule);
+    border-radius: 999px;
+    background: var(--background);
+}
+.category-nav a:hover {
+    color: var(--foreground);
+    border-color: var(--foreground);
 }
 h3 {
     margin: 0.5rem 0 1rem;  /* larger bottom margin to fix spacing if the last recipe in a category has no description */

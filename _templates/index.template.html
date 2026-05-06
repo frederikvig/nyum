@@ -27,8 +27,13 @@
                 <script src="assets/search.js"></script>
             </aside>
         </header>
+        <nav class="category-nav">
+            ${for(categories)}
+                <a href="#${it.category_faux_urlencoded}">${it.category}</a>
+            ${endfor}
+        </nav>
         ${for(categories)}
-            <section>
+            <section id="${it.category_faux_urlencoded}">
                 <h2><a href="${it.category_faux_urlencoded}.html">${it.category}</a> <!--${it.recipes/length}--></h2>
                 ${for(it.recipes)}
                     ${it:recipe_list_item.partial.html()}
