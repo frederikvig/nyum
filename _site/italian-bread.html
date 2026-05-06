@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
-    <link rel="apple-touch-icon" href="assets/favicon.png">
-    <link rel="stylesheet" href="assets/fonts/barlow/webfont.css">
-    <link rel="stylesheet" href="assets/fonts/lora/webfont.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
     <link rel="stylesheet" href="assets/style.css">    <title>Italian
 Bread – Recipes</title>
     <meta property="og:title" content="Italian Bread" />
@@ -14,36 +17,56 @@ Bread – Recipes</title>
 </head>
 <body>
     <main class="recipe">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                    <a href="bread.html">Bread</a> <i>⟩</i>
-                </nav>
-                <h1><span>Italian Bread<sup>★</sup></span> <em>Rustic
-Italian Crusty Bread</em></h1>
-            </div>
-            <ul>
-                                <li><img src="assets/tabler-icons/tabler-icon-tools-kitchen-2.svg"> 10
-servings</li>
-                                                <li><img src="assets/tabler-icons/tabler-icon-clock.svg"> 3
-hours</li>
-                                                    <li><a href="https://ciaoflorentina.com/rustic-crusty-bread-recipe/"><img src="assets/tabler-icons/tabler-icon-link.svg"> Source</a></li>
-                                
-                    
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+                <a href="bread.html">Bread</a> <i>⟩</i>
+            </nav>
+            <div class="meta-top">★ Favorite · Bread</div>
+            
+            <h1>Italian Bread</h1>
+            <div class="original-title">— Rustic Italian Crusty
+Bread —</div>
+        </header>
+
+                    <figure class="hero">
                 
-                                    <li><img src="assets/tabler-icons/tabler-icon-leaf.svg"> Vegan</li>
-                                                                                                                            </ul>
-                                        <p>Easy and quick artisan
-Italian rustic crusty bread at home, no knead, no machine, no dutch
-oven, with only 2 hour rise time. Made by hand with active dry instant
-yeast, flour and water then baked on a hot pizza stone.</p>
-                    </header>
-                    <div class="servingsuggestion">
-                                <img src="images/italian-bread.jpg">
-                                            </div>
-                <section>
+                    <img src="images/italian-bread.jpg" alt="Italian
+Bread">
+                
+                
+            </figure>
+        
+        <div class="meta-strip">
+                            <div class="item"><div class="label">Yields</div><div class="value">10
+servings</div></div>
+                                        <div class="item"><div class="label">Total Time</div><div class="value">3
+hours</div></div>
+                                        <div class="item"><div class="label">Source</div><div class="value"><a href="https://ciaoflorentina.com/rustic-crusty-bread-recipe/" data-source="https://ciaoflorentina.com/rustic-crusty-bread-recipe/">Source</a></div></div>
+                        <div class="item"><div class="label">Updated</div><div class="value">2026-05-06</div></div>
+        </div>
+
+        <div class="recipe-tags">
+            
+            <span class="tag veg"><img src="assets/tabler-icons/tabler-icon-leaf.svg"> Vegan</span>
+            
+            
+            
+            
+            
+            
+        </div>
+
+        
+        <p class="descr">Easy and quick artisan Italian rustic crusty
+bread at home, no knead, no machine, no dutch oven, with only 2 hour
+rise time. Made by hand with active dry instant yeast, flour and water
+then baked on a hot pizza stone.</p>
+
+        <div class="section-marker">·  ·  ·  Method  ·  ·  ·</div>
+
+        <section>
             <hr>
             <ul>
             <li><code>3¼ cups</code> bread flour + more for dusting</li>
@@ -119,5 +142,28 @@ yeast, flour and water then baked on a hot pizza stone.</p>
                         <a href="https://github.com/frederikvig/nyum/edit/main/_recipes/italian-bread.md">Edit</a>
                                 </p>
         </footer>    </main>
+    <script>
+    // For source links: replace the displayed text with a clean hostname when the value is a URL
+    // (otherwise leave the existing label/author text alone, but unlink it for non-URLs).
+    document.querySelectorAll('a[data-source]').forEach(a => {
+        const src = a.dataset.source;
+        try {
+            const url = new URL(src);
+            if (a.textContent.trim().toLowerCase() === 'source') {
+                a.textContent = url.host.replace(/^www\./, '');
+            }
+        } catch (e) {
+            a.replaceWith(document.createTextNode(src));
+        }
+    });
+
+    // Suppress the drop cap when the description begins with what looks like a proper-noun
+    // pair (two consecutive Capitalized words, e.g. "Julia Child's…", "Helen Rennie's…").
+    // The heuristic isn't perfect but it catches the most jarring cases without manual tagging.
+    document.querySelectorAll('.recipe .descr').forEach(p => {
+        const m = p.textContent.trim().match(/^([A-Z][a-zà-ÿ'’]*)\s+([A-Z])/);
+        if (m) p.classList.add('no-dropcap');
+    });
+    </script>
 </body>
 </html>

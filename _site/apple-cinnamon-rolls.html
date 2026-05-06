@@ -3,10 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
-    <link rel="apple-touch-icon" href="assets/favicon.png">
-    <link rel="stylesheet" href="assets/fonts/barlow/webfont.css">
-    <link rel="stylesheet" href="assets/fonts/lora/webfont.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
     <link rel="stylesheet" href="assets/style.css">    <title>Apple
 Cinnamon Rolls – Recipes</title>
     <meta property="og:title" content="Apple Cinnamon Rolls" />
@@ -14,35 +17,54 @@ Cinnamon Rolls – Recipes</title>
 </head>
 <body>
     <main class="recipe">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                    <a href="dessert.html">Dessert</a> <i>⟩</i>
-                </nav>
-                <h1><span>Apple Cinnamon Rolls<sup>★</sup></span> </h1>
-            </div>
-            <ul>
-                                <li><img src="assets/tabler-icons/tabler-icon-tools-kitchen-2.svg"> 18
-servings</li>
-                                                <li><img src="assets/tabler-icons/tabler-icon-clock.svg"> 4
-hours</li>
-                                                    <li><a href="https://sallysbakingaddiction.com/apple-cinnamon-rolls/"><img src="assets/tabler-icons/tabler-icon-link.svg"> Source</a></li>
-                                
-                    
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+                <a href="dessert.html">Dessert</a> <i>⟩</i>
+            </nav>
+            <div class="meta-top">★ Favorite · Dessert</div>
+            
+            <h1>Apple Cinnamon Rolls</h1>
+            
+        </header>
+
+                    <figure class="hero">
                 
-                                    <li><img src="assets/tabler-icons/tabler-icon-leaf.svg"> Vegan</li>
-                                                                    <li><img src="assets/tabler-icons/tabler-icon-candy.svg"> Sweet</li>
-                                                                                            </ul>
-                                        <p>Homemade apple cinnamon rolls
-have warm and gooey centers, golden brown edges, and a generous drizzle
-of icing on top.</p>
-                    </header>
-                    <div class="servingsuggestion">
-                                <img src="images/apple-cinnamon-rolls.jpg">
-                                            </div>
-                <section>
+                    <img src="images/apple-cinnamon-rolls.jpg" alt="Apple
+Cinnamon Rolls">
+                
+                
+            </figure>
+        
+        <div class="meta-strip">
+                            <div class="item"><div class="label">Yields</div><div class="value">18
+servings</div></div>
+                                        <div class="item"><div class="label">Total Time</div><div class="value">4
+hours</div></div>
+                                        <div class="item"><div class="label">Source</div><div class="value"><a href="https://sallysbakingaddiction.com/apple-cinnamon-rolls/" data-source="https://sallysbakingaddiction.com/apple-cinnamon-rolls/">Source</a></div></div>
+                        <div class="item"><div class="label">Updated</div><div class="value">2026-05-06</div></div>
+        </div>
+
+        <div class="recipe-tags">
+            
+            <span class="tag veg"><img src="assets/tabler-icons/tabler-icon-leaf.svg"> Vegan</span>
+            
+            <span class="tag"><img src="assets/tabler-icons/tabler-icon-candy.svg"> Sweet</span>
+            
+            
+            
+            
+        </div>
+
+        
+        <p class="descr">Homemade apple cinnamon rolls have warm and
+gooey centers, golden brown edges, and a generous drizzle of icing on
+top.</p>
+
+        <div class="section-marker">·  ·  ·  Method  ·  ·  ·</div>
+
+        <section>
             <hr>
             <ul>
             <li><code>1 cup (240ml)</code> whole milk</li>
@@ -130,5 +152,28 @@ of icing on top.</p>
                         <a href="https://github.com/frederikvig/nyum/edit/main/_recipes/apple-cinnamon-rolls.md">Edit</a>
                                 </p>
         </footer>    </main>
+    <script>
+    // For source links: replace the displayed text with a clean hostname when the value is a URL
+    // (otherwise leave the existing label/author text alone, but unlink it for non-URLs).
+    document.querySelectorAll('a[data-source]').forEach(a => {
+        const src = a.dataset.source;
+        try {
+            const url = new URL(src);
+            if (a.textContent.trim().toLowerCase() === 'source') {
+                a.textContent = url.host.replace(/^www\./, '');
+            }
+        } catch (e) {
+            a.replaceWith(document.createTextNode(src));
+        }
+    });
+
+    // Suppress the drop cap when the description begins with what looks like a proper-noun
+    // pair (two consecutive Capitalized words, e.g. "Julia Child's…", "Helen Rennie's…").
+    // The heuristic isn't perfect but it catches the most jarring cases without manual tagging.
+    document.querySelectorAll('.recipe .descr').forEach(p => {
+        const m = p.textContent.trim().match(/^([A-Z][a-zà-ÿ'’]*)\s+([A-Z])/);
+        if (m) p.classList.add('no-dropcap');
+    });
+    </script>
 </body>
 </html>

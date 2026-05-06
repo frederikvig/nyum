@@ -71,10 +71,11 @@ END {
         s = slug(category)
         cat = "_temp/" s ".category.json"
 
-        printf "%s{\"category\": \"%s\", \"category_faux_urlencoded\": \"%s\", \"recipes\": [", sep_outer, category, s > idx
-        printf "{\"category\": \"%s\", \"category_faux_urlencoded\": \"%s\", \"recipes\": [", category, s > cat
-
         nrec = split(recipes[category], rec_list, SUBSEP)
+
+        printf "%s{\"category\": \"%s\", \"category_faux_urlencoded\": \"%s\", \"count\": %d, \"recipes\": [", sep_outer, category, s, nrec > idx
+        printf "{\"category\": \"%s\", \"category_faux_urlencoded\": \"%s\", \"count\": %d, \"recipes\": [", category, s, nrec > cat
+
         sep_inner = ""
         for (j = 1; j <= nrec; j++) {
             basename = rec_list[j]

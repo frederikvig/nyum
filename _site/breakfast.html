@@ -3,25 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
-    <link rel="apple-touch-icon" href="assets/favicon.png">
-    <link rel="stylesheet" href="assets/fonts/barlow/webfont.css">
-    <link rel="stylesheet" href="assets/fonts/lora/webfont.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
     <link rel="stylesheet" href="assets/style.css">    <title>Breakfast – Recipes</title>
 </head>
 <body>
-    <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                </nav>
-                <h1><span>Breakfast</span></h1>
-            </div>
+    <main class="category">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+            </nav>
+            <h1>Breakfast</h1>
+            <div class="ornament">·  ·  ·</div>
         </header>
         <section>
-                            <h3>
+                            <a class="recipe-link" href="apple-oven-pancake.html">
+                                <h3>
+                                    <span class="title">Apple Oven
+                            Pancake</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -33,15 +40,17 @@
                                     
                                     
                                 </i>
-                                <a href="apple-oven-pancake.html"><span>Apple
-                            Oven Pancake</span></a>
-                                
-                            </h3>
-                                <p>Part pancake, part popover, it puffs
-                            up high around the edges when it’s done.
-                            Serve it quickly before it sinks.</p>
-
-                            <h3>
+                                <p class="descr">Part pancake, part
+                            popover, it puffs up high around the edges
+                            when it’s done. Serve it quickly before it
+                            sinks.</p>
+                                </a>
+                            <a class="recipe-link" href="baked-apple-cider-doughnuts.html">
+                                <h3>
+                                    <span class="title">Baked Apple
+                            Cider Doughnuts</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -53,17 +62,19 @@
                                     
                                     
                                 </i>
-                                <a href="baked-apple-cider-doughnuts.html"><span>Baked
-                            Apple Cider Doughnuts</span></a>
-                                
-                            </h3>
-                                <p>This recipe yields the classic flavor
-                            of baked cider doughnuts. For the most
-                            traditional result, a doughnut pan is
-                            recommended, but you can also bake these off
-                            in a muffin pan.</p>
-
-                            <h3>
+                                <p class="descr">This recipe yields the
+                            classic flavor of baked cider doughnuts. For
+                            the most traditional result, a doughnut pan
+                            is recommended, but you can also bake these
+                            off in a muffin pan.</p>
+                                </a>
+                            <a class="recipe-link" href="banana-donut-holes.html">
+                                <h3>
+                                    <span class="title">Banana Donut
+                            Holes</span>
+                                    <em>2-Ingredient Banana Donut
+                            Holes</em>
+                                </h3>
                                 <i class="icons">
                                     
                                     
@@ -75,39 +86,41 @@
                                     
                                     
                                 </i>
-                                <a href="banana-donut-holes.html"><span>Banana
-                            Donut Holes</span></a>
-                                <em>2-Ingredient Banana Donut Holes</em>
-                            </h3>
-                                <p>These 2-Ingredient Banana Donut Holes
-                            are easy air fryer banana bread treats
-                            perfect to fix your banana bread craving in
-                            less than 15 minutes.</p>
-
-                            <h3>
-                                <i class="icons">
-                                    <img src="assets/tabler-icons/tabler-icon-star.svg">
-                                    
-                                    <img src="assets/tabler-icons/tabler-icon-leaf.svg" alt="Vegan">
-                                    
-                                    <img src="assets/tabler-icons/tabler-icon-candy.svg" alt="Sweet">
-                                    
-                                    
-                                    
-                                    
-                                </i>
-                                <a href="blueberry-muffins.html"><span>Blueberry
-                            Muffins</span></a>
-                                <em>Jordan Marsh’s Blueberry
+                                <p class="descr">These 2-Ingredient
+                            Banana Donut Holes are easy air fryer banana
+                            bread treats perfect to fix your banana
+                            bread craving in less than 15 minutes.</p>
+                                </a>
+                            <a class="recipe-link" href="blueberry-muffins.html">
+                                <h3>
+                                    <span class="title">Blueberry
+                            Muffins</span>
+                                    <em>Jordan Marsh’s Blueberry
                             Muffins</em>
-                            </h3>
-                                <p>In 1985, The Times published a recipe
-                            for the blueberry muffins served at the
-                            Ritz-Carlton hotel in Boston, which Marian
-                            Burros, who adapted the recipe, judged among
-                            her favorite muffins in the city.</p>
-
-                            <h3>
+                                </h3>
+                                <i class="icons">
+                                    <img src="assets/tabler-icons/tabler-icon-star.svg">
+                                    
+                                    <img src="assets/tabler-icons/tabler-icon-leaf.svg" alt="Vegan">
+                                    
+                                    <img src="assets/tabler-icons/tabler-icon-candy.svg" alt="Sweet">
+                                    
+                                    
+                                    
+                                    
+                                </i>
+                                <p class="descr">In 1985, The Times
+                            published a recipe for the blueberry muffins
+                            served at the Ritz-Carlton hotel in Boston,
+                            which Marian Burros, who adapted the recipe,
+                            judged among her favorite muffins in the
+                            city.</p>
+                                </a>
+                            <a class="recipe-link" href="pancakes.html">
+                                <h3>
+                                    <span class="title">Pancakes</span>
+                                    <em>Good Old Fashioned Pancakes</em>
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -119,15 +132,16 @@
                                     
                                     
                                 </i>
-                                <a href="pancakes.html"><span>Pancakes</span></a>
-                                <em>Good Old Fashioned Pancakes</em>
-                            </h3>
-                                <p>This is a great recipe that I found
-                            in my Grandma’s recipe book. Judging from
-                            the weathered look of this recipe card, this
-                            was a family favorite.</p>
-
-                            <h3>
+                                <p class="descr">This is a great recipe
+                            that I found in my Grandma’s recipe book.
+                            Judging from the weathered look of this
+                            recipe card, this was a family favorite.</p>
+                                </a>
+                            <a class="recipe-link" href="pannekaker.html">
+                                <h3>
+                                    <span class="title">Pannekaker</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -139,12 +153,14 @@
                                     
                                     
                                 </i>
-                                <a href="pannekaker.html"><span>Pannekaker</span></a>
-                                
-                            </h3>
-                                <p>Norwegian Pannekaker (Pancakes)</p>
-
-                            <h3>
+                                <p class="descr">Norwegian Pannekaker
+                            (Pancakes)</p>
+                                </a>
+                            <a class="recipe-link" href="shakshuka.html">
+                                <h3>
+                                    <span class="title">Shakshuka</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -156,12 +172,13 @@
                                     
                                     
                                 </i>
-                                <a href="shakshuka.html"><span>Shakshuka</span></a>
-                                
-                            </h3>
-                                <p>Shakshuka With Feta</p>
-
-                            <h3>
+                                <p class="descr">Shakshuka With Feta</p>
+                                </a>
+                            <a class="recipe-link" href="vafler.html">
+                                <h3>
+                                    <span class="title">Vafler</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -173,11 +190,9 @@
                                     
                                     
                                 </i>
-                                <a href="vafler.html"><span>Vafler</span></a>
-                                
-                            </h3>
-                                <p>Norwegian Vafler (Waffles)</p>
-
+                                <p class="descr">Norwegian Vafler
+                            (Waffles)</p>
+                                </a>
                     </section>
         <footer>
             <p></p>

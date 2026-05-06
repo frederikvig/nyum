@@ -3,25 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
-    <link rel="apple-touch-icon" href="assets/favicon.png">
-    <link rel="stylesheet" href="assets/fonts/barlow/webfont.css">
-    <link rel="stylesheet" href="assets/fonts/lora/webfont.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
     <link rel="stylesheet" href="assets/style.css">    <title>Pasta – Recipes</title>
 </head>
 <body>
-    <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                </nav>
-                <h1><span>Pasta</span></h1>
-            </div>
+    <main class="category">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+            </nav>
+            <h1>Pasta</h1>
+            <div class="ornament">·  ·  ·</div>
         </header>
         <section>
-                            <h3>
+                            <a class="recipe-link" href="bolognese.html">
+                                <h3>
+                                    <span class="title">Ragù
+                            Bolognese</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -33,14 +40,15 @@
                                     
                                     
                                 </i>
-                                <a href="bolognese.html"><span>Ragù
-                            Bolognese</span></a>
-                                
-                            </h3>
-                                <p>Meat Sauce for Tagliatelle, Lasagne,
-                            and other Pasta</p>
-
-                            <h3>
+                                <p class="descr">Meat Sauce for
+                            Tagliatelle, Lasagne, and other Pasta</p>
+                                </a>
+                            <a class="recipe-link" href="cacio-e-pepe.html">
+                                <h3>
+                                    <span class="title">Cacio e
+                            Pepe</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -52,22 +60,23 @@
                                     
                                     
                                 </i>
-                                <a href="cacio-e-pepe.html"><span>Cacio
-                            e Pepe</span></a>
-                                
-                            </h3>
-                                <p>This classic Roman pasta easily ranks
-                            up there as one of our family’s all-time
-                            favorite comfort foods. We cook up a batch
-                            of cacio e pepe at least once or twice a
-                            month, often turning to it in a pinch
-                            because we make it a point to keep the three
-                            main ingredients — “cacio” (cheese), “pepe”
-                            (black pepper), and pasta (we usually opt
-                            for bucatini) — always stocked in our
-                            kitchen.</p>
-
-                            <h3>
+                                <p class="descr">This classic Roman
+                            pasta easily ranks up there as one of our
+                            family’s all-time favorite comfort foods. We
+                            cook up a batch of cacio e pepe at least
+                            once or twice a month, often turning to it
+                            in a pinch because we make it a point to
+                            keep the three main ingredients — “cacio”
+                            (cheese), “pepe” (black pepper), and pasta
+                            (we usually opt for bucatini) — always
+                            stocked in our kitchen.</p>
+                                </a>
+                            <a class="recipe-link" href="chicken-piccata-pasta.html">
+                                <h3>
+                                    <span class="title">Chicken Piccata
+                            Pasta</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -79,16 +88,16 @@
                                     
                                     
                                 </i>
-                                <a href="chicken-piccata-pasta.html"><span>Chicken
-                            Piccata Pasta</span></a>
-                                
-                            </h3>
-                                <p>This quick and buttery pasta, with
-                            bright lemon and briny capers, capitalizes
-                            on the flavors of an Italian-American
-                            classic</p>
-
-                            <h3>
+                                <p class="descr">This quick and buttery
+                            pasta, with bright lemon and briny capers,
+                            capitalizes on the flavors of an
+                            Italian-American classic</p>
+                                </a>
+                            <a class="recipe-link" href="lasagna.html">
+                                <h3>
+                                    <span class="title">Lasagna</span>
+                                    <em>World’s Best Lasagna</em>
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -100,13 +109,16 @@
                                     
                                     
                                 </i>
-                                <a href="lasagna.html"><span>Lasagna</span></a>
-                                <em>World’s Best Lasagna</em>
-                            </h3>
-                                <p>World’s Best Lasagna. It takes a
-                            little work, but it is worth it.</p>
-
-                            <h3>
+                                <p class="descr">World’s Best Lasagna.
+                            It takes a little work, but it is worth
+                            it.</p>
+                                </a>
+                            <a class="recipe-link" href="lemon-pasta.html">
+                                <h3>
+                                    <span class="title">Lemon
+                            Pasta</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -118,17 +130,19 @@
                                     
                                     
                                 </i>
-                                <a href="lemon-pasta.html"><span>Lemon
-                            Pasta</span></a>
-                                
-                            </h3>
-                                <p>Flavorful, tangy, and light, this
-                            simple lemon pasta without cream is the
-                            perfect meal in 15 minutes or less! With
-                            good extra virgin olive oil, fresh garlic
-                            and a good sprinkle of Parmesan cheese.</p>
-
-                            <h3>
+                                <p class="descr">Flavorful, tangy, and
+                            light, this simple lemon pasta without cream
+                            is the perfect meal in 15 minutes or less!
+                            With good extra virgin olive oil, fresh
+                            garlic and a good sprinkle of Parmesan
+                            cheese.</p>
+                                </a>
+                            <a class="recipe-link" href="pasta-dough.html">
+                                <h3>
+                                    <span class="title">Pasta
+                            Dough</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     
                                     
@@ -140,14 +154,16 @@
                                     
                                     
                                 </i>
-                                <a href="pasta-dough.html"><span>Pasta
-                            Dough</span></a>
-                                
-                            </h3>
-                                <p>Egg Pasta dough for different types
-                            of pasta including lasagne</p>
-
-                            <h3>
+                                <p class="descr">Egg Pasta dough for
+                            different types of pasta including
+                            lasagne</p>
+                                </a>
+                            <a class="recipe-link" href="pasta-sausage-sauce.html">
+                                <h3>
+                                    <span class="title">Pasta with White
+                            Sausage Sauce</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -159,21 +175,23 @@
                                     
                                     
                                 </i>
-                                <a href="pasta-sausage-sauce.html"><span>Pasta
-                            with White Sausage Sauce</span></a>
-                                
-                            </h3>
-                                <p>Pasta and sausage are a combination
-                            that usually suggests a dense, heavy tomato
-                            sauce. But it can also mean the very
-                            opposite. Sausage, used in small amounts,
-                            can contribute to a relatively light, almost
-                            delicate pasta sauce. In fact, sausage is a
-                            gift to the minimalist cook - it comes
-                            already seasoned, and its seasoning can be
-                            used to flavor whatever goes with it.</p>
-
-                            <h3>
+                                <p class="descr">Pasta and sausage are a
+                            combination that usually suggests a dense,
+                            heavy tomato sauce. But it can also mean the
+                            very opposite. Sausage, used in small
+                            amounts, can contribute to a relatively
+                            light, almost delicate pasta sauce. In fact,
+                            sausage is a gift to the minimalist cook -
+                            it comes already seasoned, and its seasoning
+                            can be used to flavor whatever goes with
+                            it.</p>
+                                </a>
+                            <a class="recipe-link" href="sausage-carbonara.html">
+                                <h3>
+                                    <span class="title">Sausage
+                            Carbonara</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -185,14 +203,16 @@
                                     
                                     
                                 </i>
-                                <a href="sausage-carbonara.html"><span>Sausage
-                            Carbonara</span></a>
-                                
-                            </h3>
-                                <p>Easy sausage carbonara - FRESH
-                            PARSLEY &amp; PARMESAN CHEESE</p>
-
-                            <h3>
+                                <p class="descr">Easy sausage carbonara
+                            - FRESH PARSLEY &amp; PARMESAN CHEESE</p>
+                                </a>
+                            <a class="recipe-link" href="sausage-tortellini.html">
+                                <h3>
+                                    <span class="title">Tortellini with
+                            Sausage</span>
+                                    <em>One Pan Tortellini with
+                            Sausage</em>
+                                </h3>
                                 <i class="icons">
                                     
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -204,17 +224,18 @@
                                     
                                     
                                 </i>
-                                <a href="sausage-tortellini.html"><span>Tortellini
-                            with Sausage</span></a>
-                                <em>One Pan Tortellini with Sausage</em>
-                            </h3>
-                                <p>This 25-minute tortellini with
-                            sausage recipe is a quick, easy, flavorful,
-                            and comforting dinner that’s made all in one
-                            pan! Fewer dishes means more time to
-                            relax.</p>
-
-                            <h3>
+                                <p class="descr">This 25-minute
+                            tortellini with sausage recipe is a quick,
+                            easy, flavorful, and comforting dinner
+                            that’s made all in one pan! Fewer dishes
+                            means more time to relax.</p>
+                                </a>
+                            <a class="recipe-link" href="tomato-sauce.html">
+                                <h3>
+                                    <span class="title">Tomato
+                            Sauce</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -226,14 +247,15 @@
                                     
                                     
                                 </i>
-                                <a href="tomato-sauce.html"><span>Tomato
-                            Sauce</span></a>
-                                
-                            </h3>
-                                <p>Tomato Sauce with Onion and
-                            Butter.</p>
-
-                            <h3>
+                                <p class="descr">Tomato Sauce with Onion
+                            and Butter.</p>
+                                </a>
+                            <a class="recipe-link" href="vodka-sauce.html">
+                                <h3>
+                                    <span class="title">Vodka
+                            Sauce</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -245,16 +267,12 @@
                                     
                                     
                                 </i>
-                                <a href="vodka-sauce.html"><span>Vodka
-                            Sauce</span></a>
-                                
-                            </h3>
-                                <p>Ready in around 30 minutes, this
-                            penne alla vodka is one of my go-to pasta
-                            dinners when I’m looking for an easy-to-make
-                            recipe that more than delivers on flavor and
-                            comfort.</p>
-
+                                <p class="descr">Ready in around 30
+                            minutes, this penne alla vodka is one of my
+                            go-to pasta dinners when I’m looking for an
+                            easy-to-make recipe that more than delivers
+                            on flavor and comfort.</p>
+                                </a>
                     </section>
         <footer>
             <p></p>

@@ -117,19 +117,21 @@ function showDropdownResults(results, totalCount) {
     searchOutput.innerHTML = html;
 }
 
-// full-page rendering: every match, styled like the index recipe list
+// full-page rendering: every match, styled like the index/category recipe-link rows
 function showFullResults(results) {
     if (results.length === 0) {
         searchOutput.innerHTML = `<p class="no-results">No matches.</p>`;
         return;
     }
     const html = results.map(e =>
-        `<h3>`
-        + `<i class="icons">${iconHtml(e)}</i>`
-        + `<a href="${e.htmlfile}"><span>${e.title}</span></a>`
-        + (e.original_title ? ` <em>${e.original_title}</em>` : ``)
+        `<a class="recipe-link" href="${e.htmlfile}">`
+        + `<h3>`
+        + `<span class="title">${e.title}</span>`
+        + (e.original_title ? `<em>${e.original_title}</em>` : ``)
         + `</h3>`
-        + (e.description ? `<p>${e.description}</p>` : ``)
+        + `<i class="icons">${iconHtml(e)}</i>`
+        + (e.description ? `<p class="descr">${e.description}</p>` : ``)
+        + `</a>`
     ).join("");
     searchOutput.innerHTML = html;
 }

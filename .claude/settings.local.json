@@ -8,7 +8,14 @@
       "Bash(ps -W)",
       "Bash(awk '{print $1}')",
       "Bash(xargs -r kill)",
-      "Bash(rm -f _temp/screenshot-*.png)"
+      "Bash(rm -f _temp/screenshot-*.png)",
+      "mcp__chrome-devtools__navigate_page",
+      "mcp__chrome-devtools__evaluate_script",
+      "mcp__chrome-devtools__close_page",
+      "Bash(bash build.sh -q)",
+      "Bash(python -m http.server 8765)",
+      "mcp__chrome-devtools__new_page",
+      "mcp__chrome-devtools__emulate"
     ]
   }
 }

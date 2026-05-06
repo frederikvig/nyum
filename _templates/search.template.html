@@ -5,19 +5,18 @@
     <title>Search – $if(index_title)$$index_title$ – $endif$Recipes</title>
 </head>
 <body class="search-page">
-    <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                </nav>
-                <h1><span>Search</span></h1>
-            </div>
-            <aside class="search fullpage">
-                <input type="text" placeholder="$strings.search_placeholder$" id="search_input" disabled autofocus>
-            </aside>
+    <main class="search-main">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+            </nav>
+            <h1>Search</h1>
+            <div class="ornament">·  ·  ·</div>
         </header>
+        <aside class="search fullpage">
+            <input type="text" placeholder="$strings.search_placeholder$" id="search_input" disabled autofocus>
+        </aside>
         <section id="search_output"></section>
         ${footer.partial.html()}
     </main>

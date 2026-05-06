@@ -11,6 +11,23 @@ This tool takes a **collection of Markdown-formatted recipes** and turns it into
 Below the screenshots, you'll find some notes on [setting this tool up](#setup), [running it](#building), [formatting your recipes](#formatting), and [deploying the generated site](#deployment).
 
 
+## Design (this fork)
+
+This is [Frederik Vig's](https://recipes.frederikvig.com) fork. The Pandoc + Bash structure is preserved, but the design language has been substantially reworked into an editorial cookbook aesthetic. The screenshots in the next section show the original upstream design and **don't reflect this fork**; the live site is at [recipes.frederikvig.com](https://recipes.frederikvig.com).
+
+What's different:
+
+- **Typography.** [Fraunces](https://fonts.google.com/specimen/Fraunces) variable serif (using its OPSZ / SOFT / WONK axes for display vs. body) + [DM Mono](https://fonts.google.com/specimen/DM+Mono) for quantities and labels. Replaces the upstream Barlow + Lora pairing; loaded via Google Fonts.
+- **Palette.** Warm cream paper (`#F4EFE6`) + ink (`#181610`) + tomato accent (`#B74122`) + sage for vegan tags. Subtle inline-SVG noise overlay for paper texture. Light/dark via `prefers-color-scheme`; dark mode is a warm dark brown.
+- **Index page.** Centered serif masthead with a small italic ornament; compact "Today's Pick" block (daily-rotating favorite, deterministic by date — picks roll over at local midnight); typographic mono-uppercase category nav with `·` separators (replaces the upstream chip-style pill nav); sticky-sidebar category sections (italic tomato category name pinned on the left as you scroll the recipe list).
+- **Recipe page.** Centered editorial header, full-bleed 16:9 hero, four-cell meta strip (yields / time / source / updated), drop-cap description (heuristically suppressed when the description begins with a proper-noun pair like *Julia Child's*), italic Fraunces oldstyle-numeral steps with tomato underlines, right-aligned ingredient quantities sitting flush against the names.
+- **Multi-category support.** `category:` accepts a YAML list (e.g. `[Dinner, Chicken]`); the recipe appears under each category on the index. The first listed category is used for the breadcrumb back-link on the recipe page.
+- **Search.** Dedicated `search.html` page (renders all matches inline, hydrates from `?q=`) plus the existing dropdown on the index — when there are more than 4 matches, the dropdown shows top 4 + a *"View all N results →"* overflow link. Multi-word queries match per-token with stop-word filtering ("almond recipe" finds Almond Crescent Cookies even though no recipe contains the literal word "recipe").
+- **Source field.** When `source:` is a URL, the displayed text is the cleaned hostname (e.g. `youtube.com`); when it's a non-URL string (e.g. a book title), it renders as plain text.
+- **Print stylesheet.** Kitchen-friendly: title + meta strip + numbered three-column steps. Hero, tags, decorative ornaments, footer, and animations are all hidden in print, and `page-break-inside: avoid` keeps a step from splitting across pages.
+- **Build performance.** Original sequential build (~36 s) is now ~4 s on a multi-core machine: pandoc invocations parallelized via `xargs -P`, the per-recipe metadata GROUP BY rewritten in awk (one pass instead of `~5×N` shell-process spawns), and the search-index assembly collapsed to a single awk pipeline. See `build.sh` and `_templates/technical/group_by_category.awk`.
+
+
 ## Screenshots
 
 If you prefer a live website over the following screenshots, feel free to **check out the [demo on GitHub Pages](https://doersino.github.io/nyum/_site/index.html)**!
@@ -128,7 +145,7 @@ favorite: ✓
 You *must* specify a non-empty value for the `title` entry. Everything else is optional:
 
 * `original_title`: Name of the recipe in, say, its country of origin.
-* `category`: Self-explanatory. Recipes belonging to the same category will be grouped on the index page.
+* `category`: Self-explanatory. Recipes belonging to the same category will be grouped on the index page. **In this fork**, may also be a YAML list (e.g. `category: [Dinner, Chicken]`) — the recipe will appear under each category. The first listed category is the breadcrumb back-link target.
 * `description` A short description of the dish, it will be shown on the index page as well.
 * `nutrition`: Allows you to note down some nutrition facts for a recipe. Must take the form of a list, for example:
     ```yaml
@@ -138,7 +155,7 @@ You *must* specify a non-empty value for the `title` entry. Everything else is o
       - 0.8 g fat
       - 3.8 g protein
     ```
-* `image`: Filename of a photo of the prepared dish, *e.g.*, `strawberrysmoothie.jpg`. The image must be located *alongside* the Markdown document – not in a subdirectory, for instance.
+* `image`: Filename of a photo of the prepared dish, *e.g.*, `strawberrysmoothie.jpg`. The image must be located *alongside* the Markdown document – not in a subdirectory, for instance. **In this fork**, images live in the `_recipes/images/` subdirectory and are referenced as e.g. `image: images/bolognese.webp`; the build copies the whole `images/` folder to `_site/images/`.
 * `image_attribution` and `image_source`: If you haven't created the recipe photo yourself, you might be required to attribute its author or link back to its source (which should be an URL). The attribution, if set, will be shown semi-transparently in the bottom right corner of the image. If the source is non-empty, a click on the image will take you there.
 * `size`: How many servings does the recipe produce, or how many cupcakes does it yield, or does it fit into a small or large springform?
 * `time`: Time it takes from getting started to serving.
@@ -258,10 +275,9 @@ That's [shakshuka](https://recipes.frederikvig.com/shakshuka.html) — eggs poac
 
 You may use this repository's contents under the terms of the *MIT License*, see `LICENSE`.
 
-However, the subdirectories `_assets/fonts/` and `_assets/tabler-icons` contain **third-party software with its own licenses**:
+**Third-party software with its own licenses**:
 
-* The sans-serif typeface [**Barlow**](https://github.com/jpt/barlow) is licensed under the *SIL Open Font License Version 1.1*, see `_assets/fonts/barlow/OFL.txt`.
-* [**Lora**](https://github.com/cyrealtype/Lora-Cyrillic), the serif typeface used in places where Barlow isn't, is also licensed under the *SIL Open Font License Version 1.1*, see `_assets/fonts/lora/OFL.txt`.
+* In this fork, the typography uses [**Fraunces**](https://fonts.google.com/specimen/Fraunces) (variable serif) and [**DM Mono**](https://fonts.google.com/specimen/DM+Mono), both [SIL Open Font License Version 1.1](https://scripts.sil.org/OFL), loaded via Google Fonts. The original Barlow / Lora local font files have been removed.
 * The icons (despite having been modified slightly) are part of [**Tabler Icons**](https://tabler-icons.io), they're licensed under the *MIT License*, see `_assets/tabler-icons/LICENSE.txt`.
 
 Finally, some **shoutouts** that aren't *really* licensing-related, but fit better here than anywhere else in this document:

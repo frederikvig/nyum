@@ -3,25 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
-    <link rel="apple-touch-icon" href="assets/favicon.png">
-    <link rel="stylesheet" href="assets/fonts/barlow/webfont.css">
-    <link rel="stylesheet" href="assets/fonts/lora/webfont.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
     <link rel="stylesheet" href="assets/style.css">    <title>Soup – Recipes</title>
 </head>
 <body>
-    <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                </nav>
-                <h1><span>Soup</span></h1>
-            </div>
+    <main class="category">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+            </nav>
+            <h1>Soup</h1>
+            <div class="ornament">·  ·  ·</div>
         </header>
         <section>
-                            <h3>
+                            <a class="recipe-link" href="chili.html">
+                                <h3>
+                                    <span class="title">Chili</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -33,14 +39,18 @@
                                     
                                     
                                 </i>
-                                <a href="chili.html"><span>Chili</span></a>
-                                
-                            </h3>
-                                <p>The Best Chili Recipe is one that is
-                            loaded with beef and beans and absolutely
-                            full of flavor… just like this one!</p>
-
-                            <h3>
+                                <p class="descr">The Best Chili Recipe
+                            is one that is loaded with beef and beans
+                            and absolutely full of flavor… just like
+                            this one!</p>
+                                </a>
+                            <a class="recipe-link" href="potato-soup.html">
+                                <h3>
+                                    <span class="title">Potato
+                            Soup</span>
+                                    <em>Classic German potato soup
+                            (Oma’s Kartoffelsuppe)</em>
+                                </h3>
                                 <i class="icons">
                                     
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -52,23 +62,25 @@
                                     
                                     
                                 </i>
-                                <a href="potato-soup.html"><span>Potato
-                            Soup</span></a>
-                                <em>Classic German potato soup (Oma’s
-                            Kartoffelsuppe)</em>
-                            </h3>
-                                <p>This perfectly warming, satisfying
-                            German potato soup transports me to my
-                            grandma’s kitchen and hits the spot every
-                            time. This potato soup recipe uses hearty
-                            potatoes, aromatic vegetables and a pinch of
-                            nutmeg for a cozy bowl of nostalgia-packed
-                            goodness—essential during cold German
-                            winters. Vienna sausages and bacon take the
-                            flavor to the next level, adding an
-                            unforgettable smoky, salty richness.</p>
-
-                            <h3>
+                                <p class="descr">This perfectly warming,
+                            satisfying German potato soup transports me
+                            to my grandma’s kitchen and hits the spot
+                            every time. This potato soup recipe uses
+                            hearty potatoes, aromatic vegetables and a
+                            pinch of nutmeg for a cozy bowl of
+                            nostalgia-packed goodness—essential during
+                            cold German winters. Vienna sausages and
+                            bacon take the flavor to the next level,
+                            adding an unforgettable smoky, salty
+                            richness.</p>
+                                </a>
+                            <a class="recipe-link" href="sausage-tortellini-soup.html">
+                                <h3>
+                                    <span class="title">Sausage
+                            Tortellini Soup</span>
+                                    <em>Creamy Sausage Tortellini
+                            Soup</em>
+                                </h3>
                                 <i class="icons">
                                     
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -80,17 +92,17 @@
                                     
                                     
                                 </i>
-                                <a href="sausage-tortellini-soup.html"><span>Sausage
-                            Tortellini Soup</span></a>
-                                <em>Creamy Sausage Tortellini Soup</em>
-                            </h3>
-                                <p>This sausage tortellini soup has it
-                            all - meaty chunks of sausage, pillowy
-                            cheese tortellini, a whole package of leafy
-                            greens, and a rich, super-creamy broth
-                            packed with flavor.</p>
-
-                            <h3>
+                                <p class="descr">This sausage tortellini
+                            soup has it all - meaty chunks of sausage,
+                            pillowy cheese tortellini, a whole package
+                            of leafy greens, and a rich, super-creamy
+                            broth packed with flavor.</p>
+                                </a>
+                            <a class="recipe-link" href="taco-soup.html">
+                                <h3>
+                                    <span class="title">Taco Soup</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -102,16 +114,12 @@
                                     
                                     
                                 </i>
-                                <a href="taco-soup.html"><span>Taco
-                            Soup</span></a>
-                                
-                            </h3>
-                                <p>Taco night, but make it soup! Our
-                            taco soup recipe features all of the
-                            standard taco fixings, including ground beef
-                            flavored with our homemade taco seasoning.
-                            Don’t forget the toppings!</p>
-
+                                <p class="descr">Taco night, but make it
+                            soup! Our taco soup recipe features all of
+                            the standard taco fixings, including ground
+                            beef flavored with our homemade taco
+                            seasoning. Don’t forget the toppings!</p>
+                                </a>
                     </section>
         <footer>
             <p></p>

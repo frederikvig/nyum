@@ -8,94 +8,94 @@
 </head>
 <body>
     <main class="recipe">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                    $if(category)$<a href="${category_faux_urlencoded}.html">$category_display$</a> <i>⟩</i>$endif$
-                </nav>
-                <h1><span>$title$$if(favorite)$<sup>★</sup>$endif$</span> $if(original_title)$<em>$original_title$</em>$endif$</h1>
-            </div>
-            <ul>
-                $if(size)$
-                <li><img src="assets/tabler-icons/tabler-icon-tools-kitchen-2.svg"> $size$</li>
-                $endif$
-                $if(time)$
-                <li><img src="assets/tabler-icons/tabler-icon-clock.svg"> $time$</li>
-                $endif$
-                $if(author)$
-                    <li>
-                        $if(source)$
-                            <a href="$source$"><img src="assets/tabler-icons/tabler-icon-link.svg"> $author$</a>
-                        $else$
-                        <img src="assets/tabler-icons/tabler-icon-user.svg"> $author$
-                        $endif$
-                    </li>
-                $elseif(source)$
-                    <li><a href="$source$"><img src="assets/tabler-icons/tabler-icon-link.svg"> $strings.source_label$</a></li>
-                $endif$
-                $if(veggie)$$else$
-                    $if(vegan)$$else$
-                        <li><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</li>
-                    $endif$
-                $endif$
-                $if(vegan)$
-                    <li><img src="assets/tabler-icons/tabler-icon-leaf.svg"> $strings.vegan_label$</li>
-                $endif$
-                $if(spicy)$
-                    <li><img src="assets/tabler-icons/tabler-icon-pepper.svg"> $strings.spicy_label$</li>
-                $endif$
-                $if(sweet)$
-                    <li><img src="assets/tabler-icons/tabler-icon-candy.svg"> $strings.sweet_label$</li>
-                $endif$
-                $if(salty)$
-                    <li><img src="assets/tabler-icons/tabler-icon-salt.svg"> $strings.salty_label$</li>
-                $endif$
-                $if(sour)$
-                    <li><img src="assets/tabler-icons/tabler-icon-lemon.svg"> $strings.sour_label$</li>
-                $endif$
-                $if(bitter)$
-                    <li><img src="assets/tabler-icons/tabler-icon-coffee.svg"> $strings.bitter_label$</li>
-                $endif$
-                $if(umami)$
-                    <li><img src="assets/tabler-icons/tabler-icon-mushroom.svg"> $strings.umami_label$</li>
-                $endif$
-            </ul>
-            $if(nutrition)$
-                <p class="nutrition">
-                    <img src="assets/tabler-icons/tabler-icon-clipboard-list.svg">
-                    ${for(nutrition)}
-                        $it$
-                        ${ sep }·
-                    ${endfor}
-                </p>
-            $endif$
-            $if(description)$
-                <p>$description$</p>
-            $endif$
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+                $if(category)$<a href="${category_faux_urlencoded}.html">$category_display$</a> <i>⟩</i>$endif$
+            </nav>
+            $if(favorite)$<div class="meta-top">★ Favorite$if(category)$ · $for(category)$$category$$sep$ · $endfor$$endif$</div>
+            $else$$if(category)$<div class="meta-top">$for(category)$$category$$sep$ · $endfor$</div>$endif$$endif$
+            <h1>$title$</h1>
+            $if(original_title)$<div class="original-title">— $original_title$ —</div>$endif$
         </header>
+
         $if(image)$
-            <div class="servingsuggestion">
-                $if(image_source)$
-                    <a href="$image_source$">
-                $endif$
-                <img src="$image$">
-                $if(image_attribution)$
-                    <div class="attribution">
-                        $image_attribution$
-                    </div>
-                $endif$
-                $if(image_source)$
-                    </a>
-                $endif$
-            </div>
+            <figure class="hero">
+                $if(image_source)$<a href="$image_source$">$endif$
+                    <img src="$image$" alt="$title$">
+                $if(image_source)$</a>$endif$
+                $if(image_attribution)$<figcaption class="attribution">$image_attribution$</figcaption>$endif$
+            </figure>
         $endif$
+
+        <div class="meta-strip">
+            $if(size)$
+                <div class="item"><div class="label">Yields</div><div class="value">$size$</div></div>
+            $endif$
+            $if(time)$
+                <div class="item"><div class="label">Total Time</div><div class="value">$time$</div></div>
+            $endif$
+            $if(author)$
+                <div class="item"><div class="label">Source</div><div class="value">$if(source)$<a href="$source$" data-source="$source$">$author$</a>$else$$author$$endif$</div></div>
+            $elseif(source)$
+                <div class="item"><div class="label">Source</div><div class="value"><a href="$source$" data-source="$source$">$strings.source_label$</a></div></div>
+            $endif$
+            <div class="item"><div class="label">Updated</div><div class="value">$updatedtime$</div></div>
+        </div>
+
+        <div class="recipe-tags">
+            $if(veggie)$$else$$if(vegan)$$else$
+                <span class="tag"><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</span>
+            $endif$$endif$
+            $if(vegan)$<span class="tag veg"><img src="assets/tabler-icons/tabler-icon-leaf.svg"> $strings.vegan_label$</span>$endif$
+            $if(spicy)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-pepper.svg"> $strings.spicy_label$</span>$endif$
+            $if(sweet)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-candy.svg"> $strings.sweet_label$</span>$endif$
+            $if(salty)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-salt.svg"> $strings.salty_label$</span>$endif$
+            $if(sour)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-lemon.svg"> $strings.sour_label$</span>$endif$
+            $if(bitter)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-coffee.svg"> $strings.bitter_label$</span>$endif$
+            $if(umami)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-mushroom.svg"> $strings.umami_label$</span>$endif$
+        </div>
+
+        $if(nutrition)$
+            <p class="nutrition">
+                <img src="assets/tabler-icons/tabler-icon-clipboard-list.svg">
+                ${for(nutrition)}$it$${ sep }·${endfor}
+            </p>
+        $endif$
+
+        $if(description)$<p class="descr">$description$</p>$endif$
+
+        <div class="section-marker">·  ·  ·  Method  ·  ·  ·</div>
+
         <section>
             <hr>
             $body$
         </section>
         ${footer.partial.html()}
     </main>
+    <script>
+    // For source links: replace the displayed text with a clean hostname when the value is a URL
+    // (otherwise leave the existing label/author text alone, but unlink it for non-URLs).
+    document.querySelectorAll('a[data-source]').forEach(a => {
+        const src = a.dataset.source;
+        try {
+            const url = new URL(src);
+            if (a.textContent.trim().toLowerCase() === 'source') {
+                a.textContent = url.host.replace(/^www\./, '');
+            }
+        } catch (e) {
+            a.replaceWith(document.createTextNode(src));
+        }
+    });
+
+    // Suppress the drop cap when the description begins with what looks like a proper-noun
+    // pair (two consecutive Capitalized words, e.g. "Julia Child's…", "Helen Rennie's…").
+    // The heuristic isn't perfect but it catches the most jarring cases without manual tagging.
+    document.querySelectorAll('.recipe .descr').forEach(p => {
+        const m = p.textContent.trim().match(/^([A-Z][a-zà-ÿ'’]*)\s+([A-Z])/);
+        if (m) p.classList.add('no-dropcap');
+    });
+    </script>
 </body>
 </html>

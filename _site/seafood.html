@@ -3,25 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="assets/favicon.png">
-    <link rel="apple-touch-icon" href="assets/favicon.png">
-    <link rel="stylesheet" href="assets/fonts/barlow/webfont.css">
-    <link rel="stylesheet" href="assets/fonts/lora/webfont.css">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
     <link rel="stylesheet" href="assets/style.css">    <title>Seafood – Recipes</title>
 </head>
 <body>
-    <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                </nav>
-                <h1><span>Seafood</span></h1>
-            </div>
+    <main class="category">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+            </nav>
+            <h1>Seafood</h1>
+            <div class="ornament">·  ·  ·</div>
         </header>
         <section>
-                            <h3>
+                            <a class="recipe-link" href="baked-cod.html">
+                                <h3>
+                                    <span class="title">Oven Baked
+                            Cod</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -33,13 +40,15 @@
                                     
                                     
                                 </i>
-                                <a href="baked-cod.html"><span>Oven
-                            Baked Cod</span></a>
-                                
-                            </h3>
-                                <p>Baked Cod with lemon and garlic.</p>
-
-                            <h3>
+                                <p class="descr">Baked Cod with lemon
+                            and garlic.</p>
+                                </a>
+                            <a class="recipe-link" href="baked-salmon.html">
+                                <h3>
+                                    <span class="title">Oven Baked
+                            Salmon</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -51,13 +60,15 @@
                                     
                                     
                                 </i>
-                                <a href="baked-salmon.html"><span>Oven
-                            Baked Salmon</span></a>
-                                
-                            </h3>
-                                <p>Easy Healthy Baked Salmon.</p>
-
-                            <h3>
+                                <p class="descr">Easy Healthy Baked
+                            Salmon.</p>
+                                </a>
+                            <a class="recipe-link" href="cod-peppers-chilisauce.html">
+                                <h3>
+                                    <span class="title">Cod with Bell
+                            Peppers and Chili Sauce</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     
                                     
@@ -69,12 +80,14 @@
                                     
                                     
                                 </i>
-                                <a href="cod-peppers-chilisauce.html"><span>Cod
-                            with Bell Peppers and Chili Sauce</span></a>
                                 
-                            </h3>
-
-                            <h3>
+                                </a>
+                            <a class="recipe-link" href="fish-chile-oil-herbs.html">
+                                <h3>
+                                    <span class="title">Tomato-Poached
+                            Fish with Chile Oil and Herbs</span>
+                                    
+                                </h3>
                                 <i class="icons">
                                     <img src="assets/tabler-icons/tabler-icon-star.svg">
                                     
@@ -86,16 +99,18 @@
                                     
                                     
                                 </i>
-                                <a href="fish-chile-oil-herbs.html"><span>Tomato-Poached
-                            Fish with Chile Oil and Herbs</span></a>
-                                
-                            </h3>
-                                <p>Poaching boneless, skinless fish
-                            fillets in a brothy sauce is a foolproof
-                            (and undeniably delicious) method for
-                            cooking fish.</p>
-
-                            <h3>
+                                <p class="descr">Poaching boneless,
+                            skinless fish fillets in a brothy sauce is a
+                            foolproof (and undeniably delicious) method
+                            for cooking fish.</p>
+                                </a>
+                            <a class="recipe-link" href="portuguese-cod.html">
+                                <h3>
+                                    <span class="title">Portuguese-Style
+                            Cod with Potatoes and Olives</span>
+                                    <em>Portuguese-Style Cod with
+                            Potatoes and Olives</em>
+                                </h3>
                                 <i class="icons">
                                     
                                     <img src="assets/tabler-icons/tabler-icon-meat.svg" alt="Meat">
@@ -107,17 +122,13 @@
                                     
                                     
                                 </i>
-                                <a href="portuguese-cod.html"><span>Portuguese-Style
-                            Cod with Potatoes and Olives</span></a>
-                                <em>Portuguese-Style Cod with Potatoes
-                            and Olives</em>
-                            </h3>
-                                <p>This is a complete, one-pan dish
-                            inspired by the cuisine of my Portuguese
-                            ancestors. To use frozen fish, make sure to
-                            thaw it in the refrigerator and press it to
-                            remove excess water. By Denise Browning</p>
-
+                                <p class="descr">This is a complete,
+                            one-pan dish inspired by the cuisine of my
+                            Portuguese ancestors. To use frozen fish,
+                            make sure to thaw it in the refrigerator and
+                            press it to remove excess water. By Denise
+                            Browning</p>
+                                </a>
                     </section>
         <footer>
             <p></p>

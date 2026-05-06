@@ -5,15 +5,14 @@
     <title>$category$ – $if(index_title)$$index_title$ – $endif$Recipes</title>
 </head>
 <body>
-    <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                </nav>
-                <h1><span>$category$</span></h1>
-            </div>
+    <main class="category">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+            </nav>
+            <h1>$category$</h1>
+            <div class="ornament">·  ·  ·</div>
         </header>
         <section>
             ${for(recipes)}

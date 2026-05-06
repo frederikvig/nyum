@@ -6,41 +6,51 @@
 </head>
 <body>
     <main class="index">
-        <header>
-            <div class="name">
-                <nav>
-                    <a href="index.html">Recipes</a>
-                    <i>⟩</i>
-                </nav>
-                $if(index_title)$
-                    <h1><span>$index_title$</span></h1>
-                $else$
-                    <div>&nbsp;</div>  <!-- fix for weird line-height behavior when there's no block element in the inline-block element .name in safari -->
-                $endif$
-            </div>
-            $if(index_description)$
-                <p>$index_description$</p>
-            $endif$
-            <aside class="search">
-                <input type="text" placeholder="$strings.search_placeholder$" id="search_input" disabled>
-                <div class="results" id="search_output"></div>
-                <script src="assets/search.js"></script>
-            </aside>
+        <header class="index-mast">
+            <h1 class="title">$if(index_title)$$index_title$$else$Recipes$endif$</h1>
+            <div class="ornament">·  ·  ·</div>
         </header>
+
+        $if(index_description)$<p class="index-lede">$index_description$</p>$endif$
+
+        <aside class="search">
+            <input type="text" placeholder="$strings.search_placeholder$" id="search_input" disabled>
+            <div class="results" id="search_output"></div>
+            <script src="assets/search.js"></script>
+        </aside>
+
+        <div class="featured" id="featured" hidden>
+            <a class="featured-img-wrap" href="#" data-num="">
+                <img src="" alt="">
+            </a>
+            <div class="featured-body">
+                <div class="featured-label">★ &nbsp; Today's pick</div>
+                <h2></h2>
+                <p class="descr"></p>
+                <div class="featured-meta"></div>
+                <a class="read-more" href="#">Read the recipe</a>
+            </div>
+        </div>
+
         <nav class="category-nav">
             ${for(categories)}
                 <a href="#${it.category_faux_urlencoded}">${it.category}</a>
             ${endfor}
         </nav>
         ${for(categories)}
-            <section id="${it.category_faux_urlencoded}">
-                <h2><a href="${it.category_faux_urlencoded}.html">${it.category}</a> <!--${it.recipes/length}--></h2>
-                ${for(it.recipes)}
-                    ${it:recipe_list_item.partial.html()}
-                ${endfor}
+            <section class="index-cat" id="${it.category_faux_urlencoded}">
+                <div class="cat-name">
+                    <h2><a href="${it.category_faux_urlencoded}.html">${it.category}</a></h2>
+                    $if(it.count)$<span class="count">$it.count$ recipes</span>$endif$
+                    <a class="more" href="${it.category_faux_urlencoded}.html">See all →</a>
+                </div>
+                <div class="recipes">
+                    ${for(it.recipes)}${it:recipe_list_item.partial.html()}${endfor}
+                </div>
             </section>
         ${endfor}
         ${footer.partial.html()}
     </main>
+    <script src="assets/featured.js"></script>
 </body>
 </html>
