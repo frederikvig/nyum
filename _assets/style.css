@@ -646,7 +646,11 @@ main.index .index-cat {
 
 @media (max-width: 720px) {
     .index-mast { padding: var(--space-3) 0 var(--space-2); }
-    main.index .index-cat { grid-template-columns: 1fr; gap: var(--space-3); padding: var(--space-4) 0; }
+    main.index .index-cat {
+        grid-template-columns: 1fr;
+        gap: var(--space-2);
+        padding: var(--space-4) var(--space-3);
+    }
     .index-cat .cat-name { position: static; }
 }
 
@@ -1049,7 +1053,7 @@ main.search-main section {
     .featured { padding: var(--space-2) var(--space-1); }
     .featured-body h2 { font-size: 1.2rem; }
     .featured-body .descr { font-size: 0.85rem; }
-    main.index .index-cat { padding: var(--space-3) 0; gap: var(--space-2); }
+    main.index .index-cat { padding: var(--space-3) var(--space-2); gap: var(--space-2); }
     .index-cat .cat-name h2 { font-size: 1.6rem; }
     .recipe-link { padding: 0.8rem 0; }
     .recipe-link h3 { font-size: 1.05rem; }
