@@ -1,5 +1,6 @@
 ---
 title: Banana Foster
+category: Dessert
 description: Bananas sautéed in butter, then flamed in rum? What could possible go wrong? Serve with vanilla ice cream.
 image: images/banana-foster.jpg
 size: 2 servings

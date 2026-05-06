@@ -1,5 +1,6 @@
 ---
 title: Refried Beans
+category: Sides
 description: Easy Refried Beans
 image: images/refried-beans.webp
 size: 4 servings

@@ -1,5 +1,6 @@
 ---
 title: Cuban Beef Picadillo
+category: [Dinner, Beef]
 description: Recipe for Cuban beef picadillo, a traditional dish made with ground beef, potatoes, onions, garlic, cumin, bell peppers, white wine, tomato sauce, raisins, olives and capers.
 image: images/picadillo.jpg
 size: 6 servings

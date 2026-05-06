@@ -1,5 +1,6 @@
 ---
 title: Shakshuka
+category: Breakfast
 description: Shakshuka With Feta
 image: images/shakshuka.webp
 size: 4 servings

@@ -1,5 +1,6 @@
 ---
 title: Mashed Potatoes
+category: Sides
 original_title: Mashed Potatoes
 image: images/mashed-potatoes.jpg
 size: 6-8 servings

@@ -1,5 +1,6 @@
 ---
 title: Oven Baked Cod
+category: [Dinner, Seafood]
 description: Baked Cod with lemon and garlic.
 image: images/baked-cod.jpg
 size: 4 servings

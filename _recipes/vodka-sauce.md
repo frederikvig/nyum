@@ -1,5 +1,6 @@
 ---
 title: Vodka Sauce
+category: [Dinner, Pasta]
 description: Ready in around 30 minutes, this penne alla vodka is one of my go-to pasta dinners when I’m looking for an easy-to-make recipe that more than delivers on flavor and comfort.
 image: images/vodka-sauce.avif
 size: 4 servings

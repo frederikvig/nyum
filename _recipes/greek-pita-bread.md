@@ -1,5 +1,6 @@
 ---
 title: Greek Pita Bread
+category: Bread
 description: If you like your pita bread soft, fluffy, and authentic, then this super easy pita bread recipe is made for you!
 image: images/greek-pita-bread.jpeg
 size: 6 servings

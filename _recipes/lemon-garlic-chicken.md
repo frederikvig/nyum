@@ -1,5 +1,6 @@
 ---
 title: Lemon Garlic Chicken
+category: [Dinner, Chicken]
 description: Learn how to cook chicken breasts on the stove with this easy lemon garlic chicken recipe! A vibrant citrus marinade with a little red pepper for a slight spicy kick, creates tender, juicy, and flavorful chicken breasts. Cooks in 15 minutes!
 image: images/lemon-garlic-chicken.jpg
 size: 4 servings

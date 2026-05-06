@@ -1,5 +1,6 @@
 ---
 title: Chicken Jollof Rice
+category: [Dinner, Chicken]
 description: Colorful and tasty one pot meal from West Africa. Simple preparation, then in the oven it goes.
 image: images/chicken-jollof-rice.webp
 size: 4 servings

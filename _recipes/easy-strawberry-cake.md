@@ -1,5 +1,6 @@
 ---
 title: Easy Strawberry Cake
+category: Dessert
 original_title: Easy Strawberry Cake Recipe
 description: This is the easiest Strawberry Cake with a soft and moist crumb, bursting with fresh strawberry flavor and you will love the strawberry sauce. Watch the video tutorial and see why this is one of our all-time favorite strawberry recipes.
 image: images/easy-strawberry-cake.jpg

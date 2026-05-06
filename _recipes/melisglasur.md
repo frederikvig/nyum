@@ -1,5 +1,6 @@
 ---
 title: Melisglasur (icing)
+category: Dessert
 description: Norwegian Melisglasur
 image: images/melisglasur.jpg
 size: 1 servings

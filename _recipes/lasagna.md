@@ -1,5 +1,6 @@
 ---
 title: Lasagna
+category: [Dinner, Pasta]
 original_title: World's Best Lasagna
 description: World's Best Lasagna. It takes a little work, but it is worth it.
 image: images/lasagna.jpg

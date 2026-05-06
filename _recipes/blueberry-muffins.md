@@ -1,5 +1,6 @@
 ---
 title: Blueberry Muffins
+category: Breakfast
 original_title: Jordan Marsh's Blueberry Muffins
 description: In 1985, The Times published a recipe for the blueberry muffins served at the Ritz-Carlton hotel in Boston, which Marian Burros, who adapted the recipe, judged among her favorite muffins in the city.
 image: images/blueberry-muffins.webp

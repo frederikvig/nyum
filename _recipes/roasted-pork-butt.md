@@ -1,5 +1,6 @@
 ---
 title: Roasted Pork Butt
+category: [Dinner, Pork]
 description: This roasted pork butt, coated in a simple rub of brown sugar, paprika, cumin, and red pepper flakes, is an incredibly easy recipe to make and yields enough pulled pork to feed a small army. It's roasted low and slow in the oven until falling-apart tender.
 image: images/roasted-pork-butt.webp
 size: 16 servings

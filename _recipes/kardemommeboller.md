@@ -1,5 +1,6 @@
 ---
 title: Cardamom Buns with Vanilla Custard
+category: Dessert
 original_title: Kardemommeboller med vaniljekrem
 description: Swedish/Norwegian cardamom buns
 image: images/kardemommeboller.jpeg

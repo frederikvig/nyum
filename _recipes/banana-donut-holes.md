@@ -1,5 +1,6 @@
 ---
 title: Banana Donut Holes
+category: Breakfast
 original_title: 2-Ingredient Banana Donut Holes
 description: These 2-Ingredient Banana Donut Holes are easy air fryer banana bread treats perfect to fix your banana bread craving in less than 15 minutes.
 image: images/banana-donut-holes.jpg

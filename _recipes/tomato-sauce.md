@@ -1,5 +1,6 @@
 ---
 title: Tomato Sauce
+category: Pasta
 description: Tomato Sauce with Onion and Butter.
 image: images/tomato-sauce.jpg
 size: 4 servings

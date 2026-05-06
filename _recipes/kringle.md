@@ -1,5 +1,6 @@
 ---
 title: Kringle
+category: Dessert
 description: Norwegian Kringle
 image: images/kringle.jpg
 size: 18 servings

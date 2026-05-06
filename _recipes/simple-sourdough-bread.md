@@ -1,5 +1,6 @@
 ---
 title: Simple Sourdough Bread
+category: Bread
 description: A mild-flavored bread with satisfying fermantation and wheat flavors, and a deeply colored, crunchy crust.
 image: images/simple-sourdough-bread.jpg
 size: 24 servings

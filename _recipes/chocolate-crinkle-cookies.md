@@ -1,5 +1,6 @@
 ---
 title: Chocolate Crinkle Cookies
+category: Dessert
 original_title: Double Chocolate Crinkle Cookies
 description: These traditional Christmas cookies are a cut above the rest because they're as rich and fudgy as brownies. Chilling the cookie dough is important because it helps the flavors to develop, prevents spreading, and makes the otherwise sticky cookie dough easy to handle.
 image: images/chocolate-crinkle-cookies.jpg

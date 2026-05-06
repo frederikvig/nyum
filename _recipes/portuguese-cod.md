@@ -1,5 +1,6 @@
 ---
 title: Portuguese-Style Cod with Potatoes and Olives
+category: [Dinner, Seafood]
 original_title: Portuguese-Style Cod with Potatoes and Olives
 description: This is a complete, one-pan dish inspired by the cuisine of my Portuguese ancestors. To use frozen fish, make sure to thaw it in the refrigerator and press it to remove excess water. By Denise Browning
 size: 4 servings

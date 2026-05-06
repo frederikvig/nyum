@@ -1,5 +1,6 @@
 ---
 title: Apple Cinnamon Rolls
+category: Dessert
 description: Homemade apple cinnamon rolls have warm and gooey centers, golden brown edges, and a generous drizzle of icing on top.
 image: images/apple-cinnamon-rolls.jpg
 size: 18 servings

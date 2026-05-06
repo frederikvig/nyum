@@ -1,5 +1,6 @@
 ---
 title: Adobo Chicken
+category: [Dinner, Chicken]
 description: Filipino Chicken Adobo
 image: images/adobo-chicken.webp
 size: 4 servings

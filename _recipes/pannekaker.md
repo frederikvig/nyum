@@ -1,5 +1,6 @@
 ---
 title: Pannekaker
+category: Breakfast
 description: Norwegian Pannekaker (Pancakes)
 image: images/pannekaker.webp
 size: 8 servings

@@ -1,5 +1,6 @@
 ---
 title: Vanillekipferl
+category: Dessert
 description: This Almond Crescent Cookies will melt in your Mouth and thoroughly win you over! If you try these, you won't bake any other. Promised! These cookies have a long shelf life and are ideal as gifts.
 image: images/vanillekipferl.webp
 size: 70 servings

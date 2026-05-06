@@ -73,6 +73,7 @@ Every recipe follows this exact format. There are NO section headers (no `##` fo
 ```yaml
 ---
 title: Recipe Title
+category: [Dinner, Chicken]
 description: Short description of the dish
 image: images/recipe-title.jpg
 size: 4 servings
@@ -83,6 +84,9 @@ source: https://original-recipe-url.com/recipe
 
 Frontmatter fields:
 - `title` — The recipe name, in title case. Capitalize all major words; keep small connectors lowercase: "with", "and", "or", "for", "of", "the", "a", "in", "on", "to". Examples: "Pasta with White Sausage Sauce" (not "Pasta With ..."), "Tomato-Poached Fish with Chile Oil and Herbs", "Chicken with Lemon".
+- `category` — REQUIRED. Either a single string (`category: Dessert`) or a YAML inline list (`category: [Dinner, Chicken]`). Recipes appear under each of their categories on the index. The first listed category is used for the breadcrumb back-link on the recipe page, so put the most general category first. Recipes without a category fall into a catch-all "Uncategorized" bucket — avoid that.
+  - **Picking categories.** Choose at least one of: `Breakfast`, `Dessert`, `Dinner`, `Bread`, `Sides`, `Soup`, `Pasta`. For meat mains, also add the protein: `Chicken`, `Beef`, `Pork`, `Turkey`, or `Seafood`. For pasta dinners, also add `Pasta`. For soups, also add `Soup`.
+  - **Examples:** chicken main → `[Dinner, Chicken]`. Beef stew → `[Dinner, Beef]`. Lasagna → `[Dinner, Pasta]`. Bolognese sauce (component, not a complete dish) → `Pasta`. Sourdough loaf → `Bread`. Apple cake → `Dessert`. Mashed potatoes → `Sides`. Pancakes → `Breakfast`. Chicken Piccata Pasta (multi-faceted) → `[Dinner, Chicken, Pasta]`.
 - `original_title` — (optional) If the recipe has a name in another language (e.g. Korean, Italian), include it here
 - `description` — A brief, appealing description (one line)
 - `image` — Path to the saved image in `images/` subfolder (e.g. `images/chicken-jollof-rice.jpg`). This field is REQUIRED — every recipe must have an image. Name the image file after the recipe's basename exactly (`chicken-jollof-rice.md` → `images/chicken-jollof-rice.jpg`). Never reuse another recipe's image filename — copy-paste mistakes here are a common source of "wrong photo on the page" bugs. And never include `.md` in the image filename (e.g. `images/recipe.md.webp` is wrong; only the recipe markdown gets the `.md` extension).

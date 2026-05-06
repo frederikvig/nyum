@@ -1,5 +1,6 @@
 ---
 title: Nebraskan Runzas
+category: [Dinner, Beef]
 description: Runzas (a.k.a bierocks or krautburgers) are a pocket sandwich, a puffy, yeasted dough baked around a savory meat filling.
 image: images/nebraskan-runzas.jpg
 size: 12 servings

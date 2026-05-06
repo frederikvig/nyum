@@ -1,5 +1,6 @@
 ---
 title: Italian Bread
+category: Bread
 original_title: Rustic Italian Crusty Bread
 description: Easy and quick artisan Italian rustic crusty bread at home, no knead, no machine, no dutch oven, with only 2 hour rise time. Made by hand with active dry instant yeast, flour and water then baked on a hot pizza stone.
 image: images/italian-bread.jpg

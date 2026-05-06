@@ -1,5 +1,6 @@
 ---
 title: Chicken Florentine
+category: [Dinner, Chicken]
 description: Pan-seared chicken breasts in a creamy Parmesan sauce with spinach, white wine, and cream cheese - a rich and comforting one-pan dinner.
 image: images/chicken-florentine.webp
 size: 4 servings

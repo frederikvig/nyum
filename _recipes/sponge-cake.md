@@ -1,5 +1,6 @@
 ---
 title: Sponge Cake
+category: Dessert
 original_title: Easy Sponge Cake
 description: Once you master this easy European sponge cake (genoise), you can make hundreds of different cakes using this base!
 image: images/sponge-cake.jpg

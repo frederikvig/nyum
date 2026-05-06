@@ -40,11 +40,13 @@ function searchAll(query) {
         tokens = [fallback];
     }
 
+    // category may arrive as a list (multi-category recipes) — flatten to a single haystack string
+    const flatten = h => Array.isArray(h) ? h.join(" ") : (h || "");
     const matchesEvery = haystack => {
-        const h = (haystack || "").toLowerCase();
+        const h = flatten(haystack).toLowerCase();
         return tokens.every(t => h.includes(t));
     };
-    const matchesStart = haystack => (haystack || "").toLowerCase().startsWith(query.toLowerCase());
+    const matchesStart = haystack => flatten(haystack).toLowerCase().startsWith(query.toLowerCase());
 
     let results = [];
     searchIndex.forEach(e => {

@@ -1,5 +1,6 @@
 ---
 title: Basic No-Knead Bread
+category: Bread
 original_title: Basic No-Knead Bread by Jim Lahey and Nigella Lawson
 description: A crusty, rustic round loaf with an open crumb — made with just four ingredients and no kneading
 image: images/nokneadbread.jpg

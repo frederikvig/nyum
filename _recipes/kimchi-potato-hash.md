@@ -1,5 +1,6 @@
 ---
 title: Kimchi and Potato Hash
+category: Sides
 original_title: Kimchi and Potato Hash With Eggs
 description: Kimchi is punchy and potatoes are mellow, but together, they play off one another like the characters in an opposites-attract love story. Though universally adored for their comforting, creamy texture, potatoes often feel stodgy as the main ingredient of a meal, but pairing them with tangy, spicy kimchi lightens them up. Cut your potatoes into small cubes to ensure they don't take too long to cook. Hash just does not feel complete without eggs, which make this a handy one-pan meal. Finishing the dish with a drizzle of mayonnaise (preferably Kewpie, but other brands are fine, too) and a sprinkle of furikake lends a playful edge, or you can make it even more fun to eat by wrapping up piles of the hash in nori, which adds a nice crunch and will remind you of a sushi roll.
 image: images/kimchi-potato-hash.jpg

@@ -1,5 +1,6 @@
 ---
 title: Potato Soup
+category: [Dinner, Soup]
 original_title: Classic German potato soup (Oma’s Kartoffelsuppe)
 description: This perfectly warming, satisfying German potato soup transports me to my grandma’s kitchen and hits the spot every time. This potato soup recipe uses hearty potatoes, aromatic vegetables and a pinch of nutmeg for a cozy bowl of nostalgia-packed goodness—essential during cold German winters. Vienna sausages and bacon take the flavor to the next level, adding an unforgettable smoky, salty richness.
 image: images/potato-soup.webp

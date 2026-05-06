@@ -1,5 +1,6 @@
 ---
 title: Pasta Dough
+category: Pasta
 description: Egg Pasta dough for different types of pasta including lasagne
 size: 4 servings
 time: 1 hour

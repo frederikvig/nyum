@@ -1,5 +1,6 @@
 ---
 title: Rustic Sourdough Bread
+category: Bread
 description: This chewy loaf has rich, deep, flavor with mild sourdough tang. Since it includes commercial yeast as well as starter, you're guaranteed a good, strong rise — even if your starter isn't quite up to snuff.
 image: images/rustic-sourdough-bread.webp
 size: 12 servings

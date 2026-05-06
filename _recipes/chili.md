@@ -1,5 +1,6 @@
 ---
 title: Chili
+category: [Dinner, Soup]
 description: The Best Chili Recipe is one that is loaded with beef and beans and absolutely full of flavor… just like this one!
 image: images/chili.jpg
 size: 8 servings

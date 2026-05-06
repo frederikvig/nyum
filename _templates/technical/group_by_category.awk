@@ -43,7 +43,13 @@ BEGIN {
     else
         recipes[category] = basename
 
-    print slug(category) > ("_temp/" basename ".slug.txt")
+    # write the slug file once per recipe, on its FIRST category encounter — that's the one
+    # the breadcrumb on the recipe page links back to. Subsequent categories still group
+    # the recipe into their own buckets, but don't override the breadcrumb slug.
+    if (!(basename in seen_basename)) {
+        seen_basename[basename] = 1
+        print slug(category) > ("_temp/" basename ".slug.txt")
+    }
 }
 
 END {

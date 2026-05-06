@@ -1,5 +1,6 @@
 ---
 title: Julekake
+category: Dessert
 description: Norwegian Julekake/Julebrød
 image: images/julekake.webp
 size: 24 servings

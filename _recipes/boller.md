@@ -1,5 +1,6 @@
 ---
 title: Boller
+category: Dessert
 description: Norwegian Boller with raisins or chocolate
 image: images/boller.jpg
 size: 24 servings

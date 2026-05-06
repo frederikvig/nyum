@@ -1,5 +1,6 @@
 ---
 title: Savory Korean Beef & Rice
+category: [Dinner, Beef]
 original_title: Instant Pot - Savory Korean Beef & Rice
 description:
 image: images/savory-korean-beef-rice.jpg

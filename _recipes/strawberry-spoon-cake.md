@@ -1,5 +1,6 @@
 ---
 title: Strawberry Spoon Cake
+category: Dessert
 description: This unfussy cake with a top layer of jammy strawberries is so gooey it’s best to serve the whole thing with a spoon. The batter comes together quickly with minimal effort, using basic pantry ingredients and a small handful of berries — frozen or fresh.
 image: images/strawberry-spoon-cake.webp
 size: 4 servings

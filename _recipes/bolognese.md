@@ -1,5 +1,6 @@
 ---
 title: Ragù Bolognese
+category: Pasta
 description: Meat Sauce for Tagliatelle, Lasagne, and other Pasta
 image: images/bolognese.webp
 size: 10 servings

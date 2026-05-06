@@ -1,5 +1,6 @@
 ---
 title: Taco Soup
+category: [Dinner, Soup]
 description: Taco night, but make it soup! Our taco soup recipe features all of the standard taco fixings, including ground beef flavored with our homemade taco seasoning. Don’t forget the toppings!
 image: images/taco-soup.jpg
 size: 6 servings

@@ -1,5 +1,6 @@
 ---
 title: High Hydration Sourdough Bread
+category: Bread
 description: A loaf with a glossy and custar-like interior with mild lactic sourness, and decidedly crispy crust with toasted grain and malty notes.
 image: images/high-hydration-sourdough-bread.jpg
 size: 24 servings

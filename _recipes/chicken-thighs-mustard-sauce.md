@@ -1,5 +1,6 @@
 ---
 title: Chicken Thighs with Mustard Sauce
+category: [Dinner, Chicken]
 original_title: Chicken Thighs with Creamy Mustard Sauce
 image: images/chicken-thighs-mustard-sauce.jpg
 size: 4 servings

@@ -1,5 +1,6 @@
 ---
 title: Sausage Carbonara
+category: [Dinner, Pasta]
 description: Easy sausage carbonara - FRESH PARSLEY & PARMESAN CHEESE
 image: images/sausage-carbonara.jpg
 size: 2 servings

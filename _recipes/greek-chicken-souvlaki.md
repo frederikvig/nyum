@@ -1,5 +1,6 @@
 ---
 title: Greek Chicken Souvlaki
+category: [Dinner, Chicken]
 description: Like Kabobs, the word Souvlaki simply means “meat on skewers.” But Greeks also use it to describe the actual meal—warm pita, loaded with perfectly marinated grilled meat and topped with Tzatziki sauce. Other fixings are typically included, and even a handful of fries are tucked into the pita.
 image: images/greek-chicken-souvlaki.jpg
 size: 6 servings

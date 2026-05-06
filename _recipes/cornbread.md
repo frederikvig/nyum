@@ -1,5 +1,6 @@
 ---
 title: Cornbread
+category: Bread
 description: This cornbread recipe is made from scratch with no mix. It's a real treat with chili, ribs, or barbecued chicken.
 image: images/cornbread.webp
 size: 12 servings

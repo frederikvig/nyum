@@ -1,5 +1,6 @@
 ---
 title: Baked Chicken Breast
+category: [Dinner, Chicken]
 description: This Baked Chicken Breast is tender on the inside, perfectly seasoned and golden on the outside.
 image: images/baked-chicken-breast.jpg
 size: 6 servings

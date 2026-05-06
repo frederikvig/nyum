@@ -1,5 +1,6 @@
 ---
 title: Cherry Shortcake Squares
+category: Dessert
 image: images/cherry-shortbread-squares.webp
 size: 24 servings
 time: 1 hour

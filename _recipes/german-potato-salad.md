@@ -1,5 +1,6 @@
 ---
 title: German Potato Salad
+category: Sides
 description: THE BEST German Potato Salad is a hot potato salad recipe featuring tender red potatoes and bacon in a tangy dressing for the ultimate side dish, from summer grilling to Oktoberfest!
 image: images/german-potato-salad.jpg
 size: 6 servings

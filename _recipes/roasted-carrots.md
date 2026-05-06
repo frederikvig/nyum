@@ -1,5 +1,6 @@
 ---
 title: Roasted Carrots
+category: Sides
 original_title: Roasted Carrots
 description: This dish is inspired by a roasted carrot antipasto I recently sampled at Oliveto Cafe in Oakland, Calif. The roasted carrots were tossed with lots of parsley and thyme, and I loved the way those bitter herbs offset the sweetness of the carrots.
 image: images/roasted-carrots.jpg

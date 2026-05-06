@@ -1,5 +1,6 @@
 ---
 title: Twenty-five Rye Sourdough Bread
+category: Bread
 description: This bread has a deeply complex flavor profile with assertive fermantation flavors and an earthly backdrop.
 image: images/twenty-five-rye.jpg
 size: 12 servings

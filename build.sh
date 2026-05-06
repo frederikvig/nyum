@@ -67,13 +67,16 @@ render_recipe() {
     local FILE="$1"
     local BASE
     BASE="$(basename "$FILE" .md)"
-    local SLUG
+    local SLUG CATEGORY_DISPLAY
     read -r SLUG < "_temp/$BASE.slug.txt"  # slug precomputed by group_by_category.awk
+    # first category line (multi-category recipes have several): used for the breadcrumb display string
+    CATEGORY_DISPLAY="$(head -n1 "_temp/$BASE.category.txt" | tr -d '\r' | cut -d' ' -f2-)"
     $QUIET || echo "↪ render $BASE" >&2
     pandoc "$FILE" \
         --metadata-file config.yaml \
         --metadata basename="$BASE" \
         --metadata category_faux_urlencoded="$SLUG" \
+        --metadata category_display="$CATEGORY_DISPLAY" \
         --metadata updatedtime="$(date -r "$FILE" "+%Y-%m-%d")" \
         --template _templates/recipe.template.html \
         -o "_site/$BASE.html"

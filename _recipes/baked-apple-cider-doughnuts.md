@@ -1,5 +1,6 @@
 ---
 title: Baked Apple Cider Doughnuts
+category: Breakfast
 description: This recipe yields the classic flavor of baked cider doughnuts. For the most traditional result, a doughnut pan is recommended, but you can also bake these off in a muffin pan.
 image: images/baked-apple-cider-doughnuts.jpg
 size: 12 servings

@@ -1,5 +1,6 @@
 ---
 title: Skillet Chocolate Chip Cookie
+category: Dessert
 description: Skillet cookies are perfect for lazy nights when everyone wants something sweet, but no one wants to work that hard for it.
 image: images/skillet-chocolate-chip-cookie.jpg
 size: 8 servings

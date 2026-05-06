@@ -1,5 +1,6 @@
 ---
 title: Chicken Milanese
+category: [Dinner, Chicken]
 description: It takes just 30 minutes to crisp up restaurant-quality Chicken Milanese and toss together a bright and citrusy arugula salad. This Italian chicken recipe is a company-worthy meal you can totally ace, even on a hectic weeknight.
 image: images/chicken-milanese.webp
 size: 4 servings

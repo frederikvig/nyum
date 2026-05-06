@@ -1,5 +1,6 @@
 ---
 title: Pastry Cream
+category: Dessert
 original_title: Vaniljekrem
 description: Vanilla pastry cream
 image: images/pastry-cream.webp

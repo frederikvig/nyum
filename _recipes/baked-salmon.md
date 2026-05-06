@@ -1,5 +1,6 @@
 ---
 title: Oven Baked Salmon
+category: [Dinner, Seafood]
 description: Easy Healthy Baked Salmon.
 image: images/baked-salmon.jpg
 size: 4 servings

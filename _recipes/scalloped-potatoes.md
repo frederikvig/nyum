@@ -1,5 +1,6 @@
 ---
 title: Scalloped Potatoes
+category: Sides
 description: The sliced potatoes make this a pretty dish, and the cream and cheese mixture tastes like heaven.
 image: images/scalloped-potatoes.jpg
 size: 6-8 servings

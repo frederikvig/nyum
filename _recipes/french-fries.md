@@ -1,5 +1,6 @@
 ---
 title: French Fries
+category: Sides
 original_title: Baked French Fries
 description:  You can make crispy Baked French Fries in the oven!
 image: images/french-fries.jpg

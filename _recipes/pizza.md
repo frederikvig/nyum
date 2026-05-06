@@ -1,5 +1,6 @@
 ---
 title: Pizza Dough and Tomato Sauce
+category: Dinner
 image: images/pizza.jpg
 size: 6 servings
 time: 1 hour

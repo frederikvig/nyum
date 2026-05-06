@@ -1,5 +1,6 @@
 ---
 title: Apple Cake
+category: Dessert
 original_title: Marie-Hélène's Apple Cake From Dorie Greenspan
 description: Greenspan is emphatic that you choose four different kinds of apple, since they each behave differently when baked. Some sweeten and collapse; some stay structural and tart. They do all the work of making the cake interesting, without a crumble, or nuts, or even cinnamon.
 image: images/apple-cake2.jpg

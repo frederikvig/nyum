@@ -1,5 +1,6 @@
 ---
 title: Tortellini with Sausage
+category: [Dinner, Pasta]
 original_title: One Pan Tortellini with Sausage
 description: This 25-minute tortellini with sausage recipe is a quick, easy, flavorful, and comforting dinner that's made all in one pan! Fewer dishes means more time to relax.
 image: images/tortellini-with-sausage.jpg

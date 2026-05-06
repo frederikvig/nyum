@@ -1,5 +1,6 @@
 ---
 title: Big and Bubbly Focaccia
+category: Bread
 description: With its bubbly, bronzed top, crisp edges, and tender, airy interior. It's lofty but light, strikingly tall, and the perfect size for the dinner table.
 image: images/focaccia.webp
 size: 8 servings

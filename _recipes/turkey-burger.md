@@ -1,5 +1,6 @@
 ---
 title: Turkey Burgers
+category: [Dinner, Turkey]
 original_title: Actually Delicious Turkey Burgers
 description: This is a simple and delicious recipe. After making them the first time my husband said 'no more' to beef burgers. These are really good - any cooking method may be used, and they freeze very well. The recipe can also be used for meatballs or meat loaves.
 image: images/turkey-burger.jpg

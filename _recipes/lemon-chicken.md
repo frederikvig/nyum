@@ -1,5 +1,6 @@
 ---
 title: Chicken with Lemon
+category: [Dinner, Chicken]
 original_title: Chicken Breasts With Lemon
 description: In this recipe, which Pierre Franey brought to The Times in 1992 in one of his 60-Minute Gourmet columns, two teaspoons of lemon zest are added to a simple sauce of lemon juice, thyme, garlic and shallots. It is, at once, lively and elegant. To round it out, it needs a sturdy accompaniment. Mr. Franey suggested mashed potatoes with garlic and basil, with just a little olive oil swirled in.
 image: images/lemon-chicken.webp

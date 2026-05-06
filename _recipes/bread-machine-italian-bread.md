@@ -1,5 +1,6 @@
 ---
 title: Bread Machine Italian Bread
+category: Bread
 original_title: Traditional Italian Bread
 image: images/bread-machine-italian-bread.jpg
 size: 12 servings

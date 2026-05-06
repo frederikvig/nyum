@@ -1,5 +1,6 @@
 ---
 title: Tomato Basil Chicken Breasts
+category: [Dinner, Chicken]
 description: This chicken takes a cue from piccata then heads in a decidedly summery direction. A quick pan sauce of butter, shallots, tomatoes, capers and a splash of red wine vinegar turns rich, juicy, and bright — just the thing to spoon over the top.
 image: images/tomato-basil-chicken-breasts.webp
 size: 2 servings

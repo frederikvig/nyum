@@ -1,5 +1,6 @@
 ---
 title: Apple Cake
+category: Dessert
 original_title: Teddie's Apple Cake
 description: In a modern world of Cinnamon Hot Pockets and Pecan Pie Pringles, apple-picking is one of the few agricultural rituals we can all still get our hands into. This cake — a classic from 1973 — is a godsend to anyone who has overloaded at the pick-your-own orchard or overbought at the farmers’ market. Like many simple cakes, this one uses neutral oil that lets the fruit flavor come through, rather than show-offy butter.
 image: images/apple-cake.jpg

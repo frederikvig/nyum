@@ -1,5 +1,6 @@
 ---
 title: Bread Machine French Bread
+category: Bread
 original_title: Crusty French Bread
 image: images/bread-machine-french-bread.jpg
 size: 12 servings

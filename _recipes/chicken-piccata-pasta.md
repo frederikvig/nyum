@@ -1,5 +1,6 @@
 ---
 title: Chicken Piccata Pasta
+category: [Dinner, Chicken, Pasta]
 description: This quick and buttery pasta, with bright lemon and briny capers, capitalizes on the flavors of an Italian-American classic
 image: images/chicken-piccata-pasta.webp
 size: 4 servings

@@ -1,5 +1,6 @@
 ---
 title: Chicken Madeira
+category: [Dinner, Chicken]
 description: Chicken Madeira featuring a rich mushroom and wine sauce is made with simple every day ingredients. In under an hour you can have restaurant quality flavor on the dinner table.
 image: images/chicken-madeira.jpg
 size: 4 servings

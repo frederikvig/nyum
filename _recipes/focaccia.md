@@ -1,5 +1,6 @@
 ---
 title: Focaccia
+category: Bread
 description: Focaccia with rosemary and other toppings like olives
 image: images/focaccia.jpg
 size: 12 servings

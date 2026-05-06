@@ -1,5 +1,6 @@
 ---
 title: Cod with Bell Peppers and Chili Sauce
+category: [Dinner, Seafood]
 image: images/cod-peppers-chilisauce.jpg
 size: 4 servings
 time: 45 minutes

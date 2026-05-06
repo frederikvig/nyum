@@ -1,5 +1,6 @@
 ---
 title: Nachos
+category: [Dinner, Beef]
 original_title: Epic Beef Nachos Supreme
 description: You need to make this epic beef nachos supreme at your next game day. Seasoned ground beef, refried beans, cheese, tomatoes and green onions make such a great flavor combination.
 image: images/nachos.jpg

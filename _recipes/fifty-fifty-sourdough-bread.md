@@ -1,5 +1,6 @@
 ---
 title: Fifty-Fifty Whole Wheat Sourdough Bread
+category: Bread
 description: A half whole grain loaf with loads of flavor and light in the hand.
 image: images/fifty-fifty-wholewheat-sourdough-bread.jpg
 size: 24 servings

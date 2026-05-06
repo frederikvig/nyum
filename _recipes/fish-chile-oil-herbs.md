@@ -1,5 +1,6 @@
 ---
 title: Tomato-Poached Fish with Chile Oil and Herbs
+category: [Dinner, Seafood]
 description: Poaching boneless, skinless fish fillets in a brothy sauce is a foolproof (and undeniably delicious) method for cooking fish.
 image: images/fish-chile-oil-herbs.webp
 size: 4 servings

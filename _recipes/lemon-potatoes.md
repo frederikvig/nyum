@@ -1,5 +1,6 @@
 ---
 title: Lemon Potatoes
+category: Sides
 original_title: Greek Lemon Potatoes
 description: Greek lemon potatoes. I've been making them every week for the past couple of months and everyone raves about them. These potato wedges have the best balance of browned, crispy edges and centers that are so creamy they basically melt in your mouth. And maybe even better than that, the flavors of lemon, garlic, oregano, and olive oil seep into the perfectly seasoned potatoes as they cook.
 image: images/lemon-potatoes.webp

@@ -1,5 +1,6 @@
 ---
 title: Skolebrød
+category: Dessert
 description: Norwegian Skolebrød or "School bread"
 image: images/skolebrod.jpg
 size: 18 servings

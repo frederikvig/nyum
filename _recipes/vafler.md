@@ -1,5 +1,6 @@
 ---
 title: Vafler
+category: Breakfast
 description: Norwegian Vafler (Waffles)
 image: images/vafler.jpg
 size: 12 servings

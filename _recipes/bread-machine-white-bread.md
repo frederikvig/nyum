@@ -1,5 +1,6 @@
 ---
 title: Bread Machine White Bread
+category: Bread
 original_title: Best Bread Machine Bread
 description: This bread machine recipe is easy and foolproof. It makes a very soft and tasty loaf of bread with a flaky crust.
 image: images/bread-machine-white-bread.webp

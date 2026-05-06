@@ -1,5 +1,6 @@
 ---
 title: Roasted Chicken
+category: [Dinner, Chicken]
 description: Perfect roasted chicken.
 image: images/roasted-chicken.jpeg
 size: 6 servings

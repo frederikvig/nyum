@@ -1,5 +1,6 @@
 ---
 title: Everyday Bread
+category: Bread
 description: This whole wheat sandwich bread has all the heartiness of whole wheat flour but without any density or bitterness. It’s tender and yielding, flavorful and versatile; slice it up for peanut butter and jelly sandwiches or grilled cheese, or simply smear a piece with butter.
 image: images/everyday-bread.webp
 size: 12 servings

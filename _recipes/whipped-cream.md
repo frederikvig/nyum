@@ -1,5 +1,6 @@
 ---
 title: Whipped Cream
+category: Dessert
 original_title: Homemade Whipped Cream
 description: Fresh whipped cream.
 image: images/whipped-cream.jpg

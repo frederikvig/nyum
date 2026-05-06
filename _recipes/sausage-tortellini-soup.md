@@ -1,5 +1,6 @@
 ---
 title: Sausage Tortellini Soup
+category: [Dinner, Soup]
 original_title: Creamy Sausage Tortellini Soup
 description: This sausage tortellini soup has it all - meaty chunks of sausage, pillowy cheese tortellini, a whole package of leafy greens, and a rich, super-creamy broth packed with flavor.
 image: images/sausage-tortellini-soup.webp

@@ -1,5 +1,6 @@
 ---
 title: Strawberry Cake
+category: Dessert
 original_title: Strawberry Sponge Cake
 description: This Strawberry Sponge Cake Recipe is among our all-time favorite strawberry desserts. It is moist with layers of fresh strawberries, and whipped cream cheese frosting.
 image: images/strawberry-cake.webp

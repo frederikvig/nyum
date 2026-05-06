@@ -1,1 +1,3 @@
-$basename$ $if(category)$$category$$else$$strings.uncategorized_label$$endif$
+$if(category)$$for(category)$$basename$ $category$
+$endfor$$else$$basename$ $strings.uncategorized_label$
+$endif$

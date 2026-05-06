@@ -1,5 +1,6 @@
 ---
 title: Fruit Crisp
+category: Dessert
 description: Berries, apples, cherries, peaches, plums, rhubarb are all great choices for this delicious fruit crisp.
 image: images/fruit-crisp.jpg
 size: 10 servings

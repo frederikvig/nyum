@@ -1,5 +1,6 @@
 ---
 title: Banana Bread
+category: Dessert
 original_title: Chocolate-Chip Banana Bread
 description: This recipe uses four bananas, which is more than is typical for a single loaf. The natural sugars from the ripe, brown bananas keep the bread incredibly moist for up to one week, even sliced. The high moisture of the batter can make it tricky to determine doneness, so take care not to underbake the the loaf. It should have a dry, shiny, cracked surface, and a tester inserted into the thickest portion should come out with a few moist crumbs attached. Serve this banana bread for breakfast or brunch, or even as a simple dessert, topped with a scoop of coffee ice cream.
 image: images/banana-bread.jpg

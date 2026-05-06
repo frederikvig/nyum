@@ -1,5 +1,6 @@
 ---
 title: Cacio e Pepe
+category: [Dinner, Pasta]
 description: This classic Roman pasta easily ranks up there as one of our family's all-time favorite comfort foods. We cook up a batch of cacio e pepe at least once or twice a month, often turning to it in a pinch because we make it a point to keep the three main ingredients — "cacio" (cheese), "pepe" (black pepper), and pasta (we usually opt for bucatini) — always stocked in our kitchen.
 image: images/cacio-e-pepe.jpg
 size: 3 servings
