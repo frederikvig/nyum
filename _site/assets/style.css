@@ -219,49 +219,113 @@ header .nutrition img {
 }
 
 .search {
-    margin: 2em auto 1em;
-    max-width: 40em;
+    margin: var(--space-2) auto var(--space-3);
+    max-width: 32em;
+    padding: 0 var(--space-2);
 }
 .search input {
+    background: transparent;
     border: 0;
+    border-radius: 0;
+    border-bottom: 1px solid var(--horizontal-rule);
+    padding: var(--space-1) 0;
     width: 100%;
-    padding: 0.6em 1.1rem;
-    font-size: 1.2em;
-    font-family: var(--sans);
-    background-color: var(--search-bar);
-    color: inherit;
-    border-radius: 0.2em;
-    border: 0.2em solid var(--search-bar);  /* same color as background, different on focus */
-    -webkit-appearance: none;  /* hide inset shadow on ios */
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-style: italic;
+    font-variation-settings: 'opsz' 30, 'wght' 350;
+    color: var(--foreground);
+    text-align: center;
+    transition: border-color 0.3s;
+    -webkit-appearance: none;
 }
 .search input:focus {
-    border-color: var(--search-bar-outline);
     outline: none;
+    border-bottom-color: var(--link);
+}
+.search input::placeholder {
+    color: var(--nav);
+    font-style: italic;
 }
 .search input[disabled] {
     cursor: not-allowed;
 }
 .search .error {
-    color: darkred;
-    font-size: 0.64em;
+    color: var(--attention);
+    font-size: 0.8em;
+    text-align: center;
+    padding: var(--space-1) 0;
 }
-.search .results a {
+.search .results {
+    margin-top: var(--space-1);
+}
+.search .results:empty {
+    display: none;
+}
+.searchresult {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    column-gap: var(--space-2);
+    padding: 0.7rem 0.9rem;
+    background: var(--background);
+    border-bottom: 1px solid var(--horizontal-rule);
+    color: var(--foreground);
     text-decoration: none;
-    color: inherit;
+    align-items: baseline;
+    transition: color 0.15s, background-color 0.15s;
 }
-.search .results h3 {
-    border-bottom: 1px solid var(--search-results-separator);
-    padding: 0.3rem 1rem 0.4rem;
-    margin: 0 auto;
-    width: calc(100% - 0.5em);
-    background-color: var(--background);
+.searchresult:first-child {
+    border-top: 1px solid var(--horizontal-rule);
 }
-.search .results a:last-child h3 {
-    border-radius: 0 0 0.2em 0.2em;
-    border-bottom: none;
+.searchresult:last-child {
+    border-bottom: 0;
 }
-.search .results a.selected h3 {
-    background-color: var(--highlighted-search-result);
+.searchresult.selected,
+.searchresult:hover {
+    background: var(--highlighted-search-result);
+    color: var(--link);
+    opacity: 1;
+}
+.searchresult h3 {
+    grid-column: 1;
+    margin: 0;
+    font-size: 1.05rem;
+    font-variation-settings: 'opsz' 24, 'wght' 430;
+    font-weight: normal;
+    line-height: 1.25;
+}
+.searchresult h3 .title {
+    padding-right: 0.4em;
+}
+.searchresult h3 em {
+    font-style: italic;
+    color: var(--original-title);
+    font-size: 0.88rem;
+    font-variation-settings: 'opsz' 18, 'wght' 350;
+}
+.searchresult .icons {
+    grid-column: 2;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4em;
+    font-style: normal;
+}
+.searchresult .icons img {
+    height: 0.95em;
+    width: auto;
+}
+.searchresult.more {
+    display: block;
+    text-align: center;
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--link);
+    padding: 0.8rem 0.9rem;
+}
+.searchresult.more:hover {
+    background: var(--highlighted-search-result);
 }
 
 .servingsuggestion {
@@ -659,36 +723,12 @@ main.search-main section {
     background: transparent;
 }
 
-/* search page: typographic underline-style search input (replaces the chip-style index input) */
+/* search page: slightly larger emphasis since the bar IS the page */
 .search.fullpage {
     margin: var(--space-3) auto var(--space-4);
-    max-width: 32em;
-    padding: 0 var(--space-2);
-    background: transparent;
-    border: 0;
 }
 .search.fullpage input {
-    background: transparent;
-    border: 0;
-    border-radius: 0;
-    border-bottom: 1px solid var(--horizontal-rule);
-    padding: var(--space-1) 0;
-    font-family: var(--serif);
-    font-size: 1.2rem;
-    font-style: italic;
-    font-variation-settings: 'opsz' 30, 'wght' 350;
-    color: var(--foreground);
-    text-align: center;
-    width: 100%;
-    transition: border-color 0.3s;
-}
-.search.fullpage input:focus {
-    outline: none;
-    border-bottom-color: var(--link);
-}
-.search.fullpage input::placeholder {
-    color: var(--nav);
-    font-style: italic;
+    font-size: 1.3rem;
 }
 .search-main .no-results {
     max-width: 48em;
@@ -973,14 +1013,53 @@ main.search-main section {
         text-align: left;
         font-size: 1.05rem;
     }
+    /* meta strip becomes a 2x2 with hairlines preserved on the odd→even gap and between rows */
     .recipe .meta-strip {
         flex-wrap: wrap;
+        padding: var(--space-2) 0;
     }
     .recipe .meta-strip .item {
-        flex: 1 1 50%;
+        flex: 0 0 50%;
+        padding: 0.4rem 0.8rem;
         border-right: none;
-        padding: 0.5rem 1rem;
     }
+    .recipe .meta-strip .item:nth-child(odd) {
+        border-right: 1px solid var(--horizontal-rule);
+    }
+    .recipe .meta-strip .item:nth-child(1),
+    .recipe .meta-strip .item:nth-child(2) {
+        padding-bottom: var(--space-1);
+        margin-bottom: var(--space-1);
+        border-bottom: 1px solid var(--horizontal-rule);
+    }
+    /* step numerals get slightly more presence on mobile so they don't look orphaned */
+    .recipe hr {
+        margin-bottom: -2.6em;
+    }
+    .recipe hr::after {
+        font-size: 2.2em;
+        margin-top: 1.2rem;
+    }
+}
+
+/* extra-narrow phones: tighten masthead, today's pick, and category list */
+@media (max-width: 480px) {
+    .index-mast .title { font-size: 2.4rem; }
+    .index-mast { padding: var(--space-2) 0 var(--space-1); }
+    .featured { padding: var(--space-2) var(--space-1); }
+    .featured-body h2 { font-size: 1.2rem; }
+    .featured-body .descr { font-size: 0.85rem; }
+    main.index .index-cat { padding: var(--space-3) 0; gap: var(--space-2); }
+    .index-cat .cat-name h2 { font-size: 1.6rem; }
+    .recipe-link { padding: 0.8rem 0; }
+    .recipe-link h3 { font-size: 1.05rem; }
+    .recipe-link h3 em {
+        display: block;
+        margin-top: 0.15em;
+        margin-left: 0;
+    }
+    .recipe-link .icons { gap: 0.3em; }
+    .recipe-link .icons img { height: 0.9em; }
 }
 
 .recipe .section-marker {

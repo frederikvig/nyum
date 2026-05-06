@@ -100,18 +100,18 @@ function showDropdownResults(results, totalCount) {
 
     let i = 0;
     let html = results.map(e =>
-        `<a href="${e.htmlfile}" class="searchresult" id="${i++}">`
+        `<a class="searchresult" href="${e.htmlfile}" id="${i++}">`
         + `<h3>`
-        + `<i class="icons">${iconHtml(e)}</i>`
-        + `<span>${e.title}</span> `
+        + `<span class="title">${e.title}</span>`
         + (e.original_title ? `<em>${e.original_title}</em>` : ``)
         + `</h3>`
+        + `<i class="icons">${iconHtml(e)}</i>`
         + `</a>`
     ).join("");
 
     if (overflow) {
         const q = encodeURIComponent(searchInput.value);
-        html += `<a href="search.html?q=${q}" class="searchresult more" id="${i++}">View all ${totalCount} results →</a>`;
+        html += `<a class="searchresult more" href="search.html?q=${q}" id="${i++}">View all ${totalCount} results →</a>`;
     }
 
     searchOutput.innerHTML = html;
