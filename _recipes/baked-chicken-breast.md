@@ -37,7 +37,7 @@ favorite: ✓
 
 * `2 tbsp` butter unsalted, cut into 6 equal size pieces
 
-> Place a piece of butter on each chicken breast. 
+> Place a piece of butter on each chicken breast.
 
 ---
 

@@ -19,7 +19,7 @@ vegan: ✓
 * `1 tsp` vanilla extract
 * `100 g` butter, melted
 
-> Place all the dry ingredients in a bowl and add the milk, a little at a time. Mix well each time. 
+> Place all the dry ingredients in a bowl and add the milk, a little at a time. Mix well each time.
 
 ---
 

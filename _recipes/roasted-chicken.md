@@ -1,5 +1,5 @@
 ---
-title: Roasted chicken
+title: Roasted Chicken
 description: Perfect roasted chicken.
 image: images/roasted-chicken.jpeg
 size: 6 servings
@@ -18,7 +18,7 @@ favorite: ✓
 * `1` large yellow onion, thickly sliced
 * `6` carrots cut into 2-inch chunks
 * `1` bulb of fennel, tops removed, and cut into wedges
-*  Olive oil
+* Olive oil
 
 > Remove the chicken giblets. Remove any excess fat and leftover pin feathers and pat the outside dry. Salt the chicken all over and keep in refrigerator for 2 days before starting. When ready to start take it out 1-2 hours before.
 
@@ -28,7 +28,7 @@ favorite: ✓
 
 ---
 
-> Liberally salt and pepper the inside of the chicken. Stuff the cavity with the bunch of thyme, both halves of lemon, and all the garlic. Brush the outside of the chicken with the butter and sprinkle again with salt and pepper. Tie the legs together with kitchen string and tuck the wing tips under the body of the chicken. 
+> Liberally salt and pepper the inside of the chicken. Stuff the cavity with the bunch of thyme, both halves of lemon, and all the garlic. Brush the outside of the chicken with the butter and sprinkle again with salt and pepper. Tie the legs together with kitchen string and tuck the wing tips under the body of the chicken.
 
 ---
 

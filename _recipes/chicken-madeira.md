@@ -1,7 +1,7 @@
 ---
 title: Chicken Madeira
 description: Chicken Madeira featuring a rich mushroom and wine sauce is made with simple every day ingredients. In under an hour you can have restaurant quality flavor on the dinner table.
-image: images/beef-bourguignon.jpg
+image: images/chicken-madeira.jpg
 size: 4 servings
 time: 1 hour
 source: https://www.jocooks.com/recipes/chicken-madeira/#wprm-recipe-container-13887

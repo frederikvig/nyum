@@ -246,7 +246,7 @@ I think you might be alluding to Hundred Rabbits' [Grimgrains](https://github.co
 
 ### What's the dish in the background of `_assets/favicon.png`?
 
-That's the supremely tasty and [even more Instagram-worthy](https://www.instagram.com/p/B6vQOHDiySF/) "Half-Half Curry" served at [Monami Curry, Yongsan-gu, Seoul](https://www.google.com/maps/place/Monami+Curry+Seoul/@37.5298686,126.9707568,15z/data=!4m5!3m4!1s0x0:0x6ce40a80f13a74d5!8m2!3d37.5298686!4d126.9707568).
+That's [shakshuka](https://recipes.frederikvig.com/shakshuka.html) — eggs poached in a spiced tomato and pepper sauce.
 
 
 ### And what's with the name?

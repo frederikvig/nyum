@@ -1,6 +1,5 @@
 ---
-title: Cod with bell peppers and chili sauce
-description:  
+title: Cod with Bell Peppers and Chili Sauce
 image: images/cod-peppers-chilisauce.jpg
 size: 4 servings
 time: 45 minutes
@@ -12,7 +11,7 @@ vegan: ✓
 * `1` red onion, sliced
 * `3` large garlic cloves minced
 * `2-3` bell peppers (red, yellow), sliced
-* `80 g` spinach 
+* `80 g` spinach
 * `10` cherry tomatoes, halved
 * `1¼ cup` heavy cream, crème fraîche (300 ml)
 * `2 tsp` Sriracha
@@ -26,11 +25,11 @@ vegan: ✓
 
 ---
 
-> Slice the vegetables and cut the fish into smaller pieces (sprinkle with salt to taste). 
+> Slice the vegetables and cut the fish into smaller pieces (sprinkle with salt to taste).
 
 ---
 
-> In a large sauté pan or skillet, heat the olive oil over medium heat. Add the onion and cook for 4 minutes, until soft. Add the bell peppers and garlic, cook for a few more minutes. 
+> In a large sauté pan or skillet, heat the olive oil over medium heat. Add the onion and cook for 4 minutes, until soft. Add the bell peppers and garlic, cook for a few more minutes.
 
 ---
 
@@ -38,7 +37,7 @@ vegan: ✓
 
 ---
 
-> Add the heavy cream and crème fraîche to the pan and heat up until right before boiling point. Add the Sriracha and season with salt and pepper. 
+> Add the heavy cream and crème fraîche to the pan and heat up until right before boiling point. Add the Sriracha and season with salt and pepper.
 
 ---
 

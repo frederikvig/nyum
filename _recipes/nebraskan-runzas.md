@@ -7,7 +7,7 @@ time: 2 hours
 source: Midwest made page 234
 ---
 
-* `2¼ tsp` instant yeast 
+* `2¼ tsp` instant yeast
 * `42g (3 tbsp)` water
 * `640g (5 cups)` bread flour (~12.7%-14% protein)
 * `62½g (5 tbsp)` sugar
@@ -46,7 +46,7 @@ source: Midwest made page 234
 
 ---
 
-> Season to taste with salt and pepper. 
+> Season to taste with salt and pepper.
 
 ---
 

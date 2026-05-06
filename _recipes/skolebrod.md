@@ -1,6 +1,6 @@
 ---
 title: Skolebrød
-description: Norwegian Skolebrød or "School bread" 
+description: Norwegian Skolebrød or "School bread"
 image: images/skolebrod.jpg
 size: 18 servings
 time: 3 hours
@@ -24,7 +24,7 @@ vegan: ✓
 * [Melisglasur](melisglasur.html) (confectioners sugar with water/egg whites)
 * Shredded coconut
 
-> Place everything except the butter, second egg, pastry cream and melisglasur, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
+> Place everything except the butter, second egg, pastry cream and melisglasur, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes.
 
 ---
 

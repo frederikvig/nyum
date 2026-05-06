@@ -22,4 +22,4 @@ sweet: ✓
 
 ---
 
-> Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately ¼ cup for each pancake. Brown on both sides and serve hot. 
+> Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately ¼ cup for each pancake. Brown on both sides and serve hot.

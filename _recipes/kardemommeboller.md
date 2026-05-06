@@ -1,11 +1,10 @@
 ---
-title: Cardamom buns with vanilla custard
+title: Cardamom Buns with Vanilla Custard
 original_title: Kardemommeboller med vaniljekrem
-description: Swedish/Norwegian cardamom buns 
+description: Swedish/Norwegian cardamom buns
 image: images/kardemommeboller.jpeg
 size: 16 servings
 time: 4½ hours
-source: 
 favorite: ✓
 sweet: ✓
 vegan: ✓
@@ -21,7 +20,7 @@ vegan: ✓
 * `1 tsp` vanilla extract
 * `150 g` butter at room temperature in cubes
 
-> Place everything except the butter, second egg, vanilla custard and melisglasur, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
+> Place everything except the butter, second egg, vanilla custard and melisglasur, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes.
 
 ---
 
@@ -45,7 +44,7 @@ vegan: ✓
 
 ---
 
-> Cover and let rise for another 2 hours, until double in size. 
+> Cover and let rise for another 2 hours, until double in size.
 
 ---
 

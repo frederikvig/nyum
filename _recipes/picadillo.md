@@ -24,9 +24,9 @@ favorite: ✓
 
 > Heat some water in a pot, add salt and the potatoes, let simmer for 10 minutes.
 
---- 
+---
 
-> In a large skillet, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside. 
+> In a large skillet, brown the ground beef with a dash of cumin and pepper, drain off any excess grease and set aside.
 
 ---
 

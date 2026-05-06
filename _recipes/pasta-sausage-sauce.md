@@ -1,7 +1,7 @@
 ---
-title: Pasta With White Sausage Sauce
+title: Pasta with White Sausage Sauce
 description: Pasta and sausage are a combination that usually suggests a dense, heavy tomato sauce. But it can also mean the very opposite. Sausage, used in small amounts, can contribute to a relatively light, almost delicate pasta sauce. In fact, sausage is a gift to the minimalist cook - it comes already seasoned, and its seasoning can be used to flavor whatever goes with it.
-image: images/pasta-sausage-sauce.md.webp
+image: images/pasta-sausage-sauce.webp
 size: 4 servings
 time: 20 minutes
 source: https://cooking.nytimes.com/recipes/5443-pasta-with-white-sausage-sauce

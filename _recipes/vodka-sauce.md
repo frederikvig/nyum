@@ -11,7 +11,7 @@ vegan: ✓
 
 * `3 tbsp` butter or olive oil
 * `1` onion, finely chopped
-* `2` large garlic gloves, minced
+* `2` large garlic cloves, minced
 * `2 cups` tomatoes, in addition to their juices (for example, a 28-ounce can of San Marzano whole peeled tomatoes)
 * `¼ cup` vodka
 * `¼ tsp` red pepper flakes

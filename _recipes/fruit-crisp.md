@@ -34,4 +34,4 @@ sweet: ✓
 
 ---
 
-> Scatter the topping evenly over the fruit. Bake until topping is golden brown, the juices are bubbling, and the apples are tender. 50-55 minutes (start checking at 40 minutes if using a tender fruit). Serve hot or at room temperature with some vanilla ice cream. 
+> Scatter the topping evenly over the fruit. Bake until topping is golden brown, the juices are bubbling, and the apples are tender. 50-55 minutes (start checking at 40 minutes if using a tender fruit). Serve hot or at room temperature with some vanilla ice cream.

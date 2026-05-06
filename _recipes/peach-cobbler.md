@@ -1,6 +1,6 @@
 ---
 title: Peach Cobbler
-description: A cobbler is a homeley joy, the juices bubbling through the cobbles... Apple and blackberry or apple and raspberry make wonderful alternatives. 
+description: A cobbler is a homeley joy, the juices bubbling through the cobbles... Apple and blackberry or apple and raspberry make wonderful alternatives.
 image: images/peach-cobbler.webp
 size: 12 servings
 time: 1 hours 30 minutes

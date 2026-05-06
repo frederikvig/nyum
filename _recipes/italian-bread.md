@@ -12,14 +12,14 @@ vegan: ✓
 
 * `3¼ cups` bread flour + more for dusting
 * `1½ tsp` fine sea salt
-* `1½ cups` warm water 110 degrees F/45 degrees C)    
+* `1½ cups` warm water (110 degrees F/45 degrees C)
 * `2¼ tsp`(1 package - 0.25 ounce) instant or active dry yeast
 
 > In a large mixing bowl or your kitchen aid mixer add the flour, salt and yeast. Use a spatula or the paddle attachment and mix to combine well.
 
 ---
 
-> Pour in the warm water and keep mixing until everything is incorporated and a soft dough has formed. It will still stick to the bottom of the bowl and that is OK. 
+> Pour in the warm water and keep mixing until everything is incorporated and a soft dough has formed. It will still stick to the bottom of the bowl and that is OK.
 
 ---
 

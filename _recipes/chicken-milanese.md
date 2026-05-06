@@ -14,7 +14,7 @@ source: https://www.culinaryhill.com/chicken-milanese/
 * `¼ cup` parmesan cheese
 * `2 tbsp` fresh parsley, chopped
 * `1 tsp` lemon zest
-* `1 cup` olive oil 
+* `1 cup` olive oil
 * salt and pepper, to taste
 
 > Salt the chicken the day before and leave in fridge in a plastic bag or container.

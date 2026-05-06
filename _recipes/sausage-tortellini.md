@@ -1,7 +1,7 @@
 ---
 title: Tortellini with Sausage
 original_title: One Pan Tortellini with Sausage
-description: This 25-minute tortellini with sausage recipe is a quick, easy, flavorful, and comforting dinner that's made all in one pan! Fewer dishes means more time to relax.  
+description: This 25-minute tortellini with sausage recipe is a quick, easy, flavorful, and comforting dinner that's made all in one pan! Fewer dishes means more time to relax.
 image: images/tortellini-with-sausage.jpg
 size: 4 servings
 time: 25 minutes
@@ -12,7 +12,7 @@ source: https://www.saltandlavender.com/one-pan-tortellini-with-sausage/
 * `1` medium yellow onion, diced (about 1 1/2 cups)
 * `3` cloves garlic, minced
 * `½ cup` chicken broth
-* `2 tsp`  kosher salt
+* `2 tsp` kosher salt
 * `¼ tsp` freshly ground black pepper
 * `¼ tsp` red pepper flakes (optional)
 * `¼ tsp` dried oregano (optional)
@@ -27,7 +27,7 @@ source: https://www.saltandlavender.com/one-pan-tortellini-with-sausage/
 
 ---
 
-> Stir in the minced garlic, the kosher salt, black pepper, red pepper flakes and oregano if using. Cook, stirring occasionally, until the flavors combine, about 1 minute. 
+> Stir in the minced garlic, the kosher salt, black pepper, red pepper flakes and oregano if using. Cook, stirring occasionally, until the flavors combine, about 1 minute.
 
 ---
 

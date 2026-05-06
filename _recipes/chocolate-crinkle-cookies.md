@@ -1,7 +1,7 @@
 ---
 title: Chocolate Crinkle Cookies
 original_title: Double Chocolate Crinkle Cookies
-description: These traditional Christmas cookies are a cut above the rest because they're as rich and fudgy as brownies. Chilling the cookie dough is important because it helps the flavors to develop, prevents spreading, and makes the otherwise sticky cookie dough easy to handle. 
+description: These traditional Christmas cookies are a cut above the rest because they're as rich and fudgy as brownies. Chilling the cookie dough is important because it helps the flavors to develop, prevents spreading, and makes the otherwise sticky cookie dough easy to handle.
 image: images/chocolate-crinkle-cookies.jpg
 size: 20-22 cookies
 time: 3 hours and 20 minutes
@@ -48,7 +48,7 @@ vegan: ✓
 
 ---
 
-> Cool cookies for 5 minutes on the baking sheet, and then transfer to a cooling rack to cool completely. The cookies will slightly deflate as they cool. 
+> Cool cookies for 5 minutes on the baking sheet, and then transfer to a cooling rack to cool completely. The cookies will slightly deflate as they cool.
 
 ---
 

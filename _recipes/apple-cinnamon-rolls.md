@@ -19,7 +19,7 @@ vegan: ✓
 * `113 g (1 stick)` butter at room temperature in cubes
 * `4½ cups (540g)` all-purpose flour
 
-> Place everything except the butter, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
+> Place everything except the butter, in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes.
 
 ---
 

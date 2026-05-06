@@ -28,7 +28,7 @@ favorite: ✓
 * `1 tsp` salt
 * `1 tsp` black pepper
 
-> Return the beef to the pan, and sprinkle on the taco seasoning (see ingredient list, can be replaced with store bought taco seasoning). 
+> Return the beef to the pan, and sprinkle on the taco seasoning (see ingredient list, can be replaced with store bought taco seasoning).
 
 ---
 
@@ -54,7 +54,7 @@ favorite: ✓
 
 * `16 ounces` shredded cheese of choice (I used cheddar and Monterey jack)
 
-> Sprinkle shredded cheese on top. 
+> Sprinkle shredded cheese on top.
 
 ---
 

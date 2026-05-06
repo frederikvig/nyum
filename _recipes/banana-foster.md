@@ -1,10 +1,9 @@
 ---
 title: Banana Foster
-description: Bananas sautéed in butter, then flamed in rum? What could possible go wrong? Serve with vanilla ice cream. 
+description: Bananas sautéed in butter, then flamed in rum? What could possible go wrong? Serve with vanilla ice cream.
 image: images/banana-foster.jpg
 size: 2 servings
 time: 10 minutes
-source: 
 favorite: ✓
 vegan: ✓
 sweet: ✓

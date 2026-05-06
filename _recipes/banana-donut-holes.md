@@ -13,7 +13,7 @@ sweet: ✓
 * `½ cup` mashed banana, about 1 large
 * `½-¾ cup` self-rising flour
 * `½ tsp` cinnamon
-* `¼ cup` sugar 
+* `¼ cup` sugar
 * `2-3 tbsp` coconut oil
 
 > Mash the banana into a smooth puree, make sure you get ½ cup or the donut batter won't come together with the same ratio of flour.

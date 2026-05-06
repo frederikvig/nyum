@@ -6,7 +6,7 @@ size: 4 servings
 time: 40 minutes
 ---
 
-* `4 (4- to 6-ounce` fresh cod fillets, at room temperature
+* `4 (4- to 6-ounce)` fresh cod fillets, at room temperature
 * `2 pounds` baby potatoes, patted dry and quartered
 * `2 tblsp` olive oil, divided, plus more for drizzling
 * Salt
@@ -32,5 +32,5 @@ time: 40 minutes
 
 ---
 
-> Drizzle the lemon juice over the fish and the vegetables. Pour just a drizzle of olive oil on top of the fillets. 
+> Drizzle the lemon juice over the fish and the vegetables. Pour just a drizzle of olive oil on top of the fillets.
 

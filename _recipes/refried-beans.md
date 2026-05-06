@@ -11,7 +11,7 @@ vegan: ✓
 * `1 tbsp` olive oil
 * `½ cup` finely chopped onions
 * `½ tsp` salt, to taste
-* `2` gloves garlic, minced
+* `2` cloves garlic, minced
 * `½ tsp` chili powder
 * `¼ tsp` ground cumin
 * `2 cans` pinto or black beans (15 ounce each), rinsed and drained

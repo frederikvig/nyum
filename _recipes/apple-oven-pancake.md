@@ -1,6 +1,6 @@
 ---
 title: Apple Oven Pancake
-description: Part pancake, part popover, it puffs up high around the edges when it's done. Serve it quickly before it sinks. 
+description: Part pancake, part popover, it puffs up high around the edges when it's done. Serve it quickly before it sinks.
 image: images/apple-oven-pancake.webp
 size: 4 servings
 time: 45 minutes

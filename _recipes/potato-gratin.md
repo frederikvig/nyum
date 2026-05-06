@@ -1,7 +1,7 @@
 ---
 title: Potato Gratin
 original_title: Pommes Dauphinoises (Creamy Potato Gratin)
-description: A perfect dish to ease the transition from summer to fall to winter, this satisfying and comforting gratin can easily be the centerpiece of your meal, served with a bright, plucky salad and some roasted vegetables. 
+description: A perfect dish to ease the transition from summer to fall to winter, this satisfying and comforting gratin can easily be the centerpiece of your meal, served with a bright, plucky salad and some roasted vegetables.
 image: images/potato-gratin.webp
 size: 6 servings
 time: 1 hour 35 minutes

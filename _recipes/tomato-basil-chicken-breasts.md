@@ -12,9 +12,9 @@ favorite: ✓
 * `¼ cup` all-purpose flour
 * `3 tbsp` unsalted butter, divided
 * `1 tbsp` olive oil
-* `2 tbsp` diced shallots (about 1 medium shallot) 
+* `2 tbsp` diced shallots (about 1 medium shallot)
 * `12 oz` tomatoes, small ones halved and medium and large cut in wedges
-* `1-2 tbsp` capers in brine, drained 
+* `1-2 tbsp` capers in brine, drained
 * `½ tsp` red wine vinegar
 * salt and pepper, to taste
 * Plenty of basil leaves (large leaves torn), for serving

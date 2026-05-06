@@ -27,7 +27,7 @@ vegan: ✓
 
 ---
 
-> To make fat oval loaves, elongate each ball of dough you've preshaped by gently rolling it back and forth on an unfloured work surface several times. For longer loaves, continue rolling until they're about 10" to 11" long. 
+> To make fat oval loaves, elongate each ball of dough you've preshaped by gently rolling it back and forth on an unfloured work surface several times. For longer loaves, continue rolling until they're about 10" to 11" long.
 
 ---
 

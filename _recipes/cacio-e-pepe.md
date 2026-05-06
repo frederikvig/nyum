@@ -9,7 +9,7 @@ favorite: ✓
 vegan: ✓
 ---
 
-* `1 lb` uncooked pasta, like bucatini or spaghetti 
+* `1 lb` uncooked pasta, like bucatini or spaghetti
 * `4 tbsp` butter
 * `2 tsp` freshly-ground coarse black pepper
 * `4 ounces` finely-grated Pecorino-Romano cheese, or parmesan in a pinch

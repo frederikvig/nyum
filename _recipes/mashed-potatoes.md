@@ -1,7 +1,6 @@
 ---
 title: Mashed Potatoes
 original_title: Mashed Potatoes
-description: 
 image: images/mashed-potatoes.jpg
 size: 6-8 servings
 time: 45 minutes

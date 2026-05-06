@@ -12,7 +12,7 @@ favorite: ✓
 * `10` garlic cloves, peeled
 * `2 tbsp` dried oregano
 * `1 tsp` dried rosemary
-* `1 tsp` sweet paprika 
+* `1 tsp` sweet paprika
 * `1 tsp` each Kosher salt and black pepper
 * `¼ cup` extra virgin olive oil, greek if possible
 * `¼ cup` dry white wine

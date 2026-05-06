@@ -1,5 +1,5 @@
 ---
-title: Chicken and Potatoes with Dijon Cream Sauce 
+title: Chicken and Potatoes with Dijon Cream Sauce
 description: Chicken and Potatoes with Dijon Cream Sauce is a flavorful one-pot wonder that's good for any night of the week. Italian seasonings and Dijon mustard blend beautifully together in a rich, buttery sauce that goes perfectly with the tender chicken and potatoes.
 image: images/chicken-dijon-cream-sauce.jpg
 size: 4 servings

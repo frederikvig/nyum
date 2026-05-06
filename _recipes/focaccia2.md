@@ -18,15 +18,15 @@ vegan: ✓
 
 ---
 
-> To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. In a large bowl, whisk together the flour, salt, sugar, and yeast. 
+> To make the dough: Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess. In a large bowl, whisk together the flour, salt, sugar, and yeast.
 
 ---
 
-> Add the water and olive oil and stir — with a spatula, bowl scraper, dough whisk, or your hands — until the mixture is thoroughly combined and homogeneous; there should be no dry patches or lumps. Cover the bowl and set it aside for 15 minutes. 
+> Add the water and olive oil and stir — with a spatula, bowl scraper, dough whisk, or your hands — until the mixture is thoroughly combined and homogeneous; there should be no dry patches or lumps. Cover the bowl and set it aside for 15 minutes.
 
 ---
 
-> Perform the first bowl fold: Use a wet hand to grab a section of dough from one side of the bowl, then lift it up and press it into the center. Repeat this motion, grabbing a new section of dough each time, until you've made a full circle around the bowl, about 8 to 12 times. Once you've circled the bowl, flip the dough over in the bowl so that the smooth side is up; the first bowl fold is now complete. Cover the bowl and let the dough rest for 15 minutes. 
+> Perform the first bowl fold: Use a wet hand to grab a section of dough from one side of the bowl, then lift it up and press it into the center. Repeat this motion, grabbing a new section of dough each time, until you've made a full circle around the bowl, about 8 to 12 times. Once you've circled the bowl, flip the dough over in the bowl so that the smooth side is up; the first bowl fold is now complete. Cover the bowl and let the dough rest for 15 minutes.
 
 ---
 
@@ -38,7 +38,7 @@ vegan: ✓
 
 ---
 
-> Repeat the bowl fold for a fourth and final time; the dough should feel relatively strong. 
+> Repeat the bowl fold for a fourth and final time; the dough should feel relatively strong.
 
 ---
 
@@ -78,7 +78,7 @@ vegan: ✓
 
 ---
 
-> Remove the focaccia from the oven. Slide the focaccia out of the pan and transfer it to a wire rack or cutting board. Turn off the oven and slide the focaccia back into the oven, directly on the lower rack, for 5 to 7 minutes, until the sides are golden brown and crisp. Remove the focaccia from the oven once again and transfer it to a wire rack to cool completely. 
+> Remove the focaccia from the oven. Slide the focaccia out of the pan and transfer it to a wire rack or cutting board. Turn off the oven and slide the focaccia back into the oven, directly on the lower rack, for 5 to 7 minutes, until the sides are golden brown and crisp. Remove the focaccia from the oven once again and transfer it to a wire rack to cool completely.
 
 ---
 

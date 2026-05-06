@@ -32,7 +32,7 @@ favorite: ✓
 
 ---
 
-> Stir in the tomato paste and all the spices. Cook for 1 minute until the spices become aromatic. 
+> Stir in the tomato paste and all the spices. Cook for 1 minute until the spices become aromatic.
 
 ---
 

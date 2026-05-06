@@ -1,7 +1,7 @@
 ---
 title: Sausage Tortellini Soup
 original_title: Creamy Sausage Tortellini Soup
-description: This sausage tortellini soup has it all - meaty chunks of sausage, pillowy cheese tortellini, a whole package of leafy greens, and a rich, super-creamy broth packed with flavor.  
+description: This sausage tortellini soup has it all - meaty chunks of sausage, pillowy cheese tortellini, a whole package of leafy greens, and a rich, super-creamy broth packed with flavor.
 image: images/sausage-tortellini-soup.webp
 size: 4 servings
 time: 30 minutes
@@ -11,10 +11,10 @@ source: https://www.thekitchn.com/sausage-tortellini-soup-23695953
 * `1 lb` raw mild Italian sausage, casings removed
 * `1` medium yellow onion, diced (about 1 1/2 cups)
 * `3` cloves garlic, minced
-* `2 tsp`  kosher salt
+* `2 tsp` kosher salt
 * `¼ tsp` freshly ground black pepper
 * `¼ tsp` red pepper flakes (optional)
-* `¼ tsp` dryed oregano (optional)
+* `¼ tsp` dried oregano (optional)
 * `2 tbsp` all-purpose flour
 * `32 oz` low-sodium chicken broth (about 4 cups)
 * `8-9 oz` cheese tortellini (about 2 1/2 cups)

@@ -21,7 +21,7 @@ vegan: ✓
 
 ---
 
-> Arrange a rack in the middle of the oven and heat the oven to 400℉. 
+> Arrange a rack in the middle of the oven and heat the oven to 400℉.
 
 ---
 

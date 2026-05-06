@@ -34,7 +34,7 @@ sweet: ✓
 
 ---
 
-> In a small bowl, whisk together: 2 cups flour, 2 tsp baking powder and ½ tsp salt until well incorporated. With the mixer on med/low speed, add flour mixture to the batter 1/3 at a time, letting the flour incorporate with each addition and continue mixing just until well combined. Do not over-mix. 
+> In a small bowl, whisk together: 2 cups flour, 2 tsp baking powder and ½ tsp salt until well incorporated. With the mixer on med/low speed, add flour mixture to the batter 1/3 at a time, letting the flour incorporate with each addition and continue mixing just until well combined. Do not over-mix.
 
 ---
 

@@ -20,13 +20,13 @@ favorite: ✓
 * `¼ cup` lemon juice (from 1 to 2 lemons)
 * `2 tbsp` drained capers
 * Salt and black pepper to taste
-* Roughly chopped parsley, for serving 
+* Roughly chopped parsley, for serving
 
 > In a large pot of salted boiling water, cook pasta according to package instructions until al dente. Reserve ½ cup cooking water, then drain pasta.
 
 ---
 
-> Meanwhile, cut the chicken into ½-inch chunks and place in a bowl. Season with salt and pepper, then toss with the flour to coat, adding more flour if needed. (If pieces stick together, they can be separated while cooking.) 
+> Meanwhile, cut the chicken into ½-inch chunks and place in a bowl. Season with salt and pepper, then toss with the flour to coat, adding more flour if needed. (If pieces stick together, they can be separated while cooking.)
 
 ---
 

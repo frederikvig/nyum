@@ -1,6 +1,6 @@
 ---
 title: Dinner Rolls
-description: You only need 7 ingredients to make these dinner rolls. Flaky, soft, and buttery, these fresh dinner rolls outshine any main dish. 
+description: You only need 7 ingredients to make these dinner rolls. Flaky, soft, and buttery, these fresh dinner rolls outshine any main dish.
 image: images/dinner-rolls.avif
 size: 40 servings
 time: 4 hours

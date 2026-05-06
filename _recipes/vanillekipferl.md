@@ -1,5 +1,5 @@
 ---
-title: Vanillekipferl 
+title: Vanillekipferl
 description: This Almond Crescent Cookies will melt in your Mouth and thoroughly win you over! If you try these, you won't bake any other. Promised! These cookies have a long shelf life and are ideal as gifts.
 image: images/vanillekipferl.webp
 size: 70 servings
@@ -36,7 +36,7 @@ sweet: ✓
 
 ---
 
-> Refrigerate dough for at least 1 hour, preferably overnight. 
+> Refrigerate dough for at least 1 hour, preferably overnight.
 
 ---
 
@@ -60,7 +60,7 @@ sweet: ✓
 
 ---
 
-> Shape each ball with the palm of your hand into 5 - 6 cm (2 - 2.5 inch) logs. The little logs should be slightly thicker in the middle, with tapered ends. 
+> Shape each ball with the palm of your hand into 5 - 6 cm (2 - 2.5 inch) logs. The little logs should be slightly thicker in the middle, with tapered ends.
 
 ---
 

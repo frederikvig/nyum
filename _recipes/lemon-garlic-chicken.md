@@ -1,6 +1,6 @@
 ---
 title: Lemon Garlic Chicken
-description: Learn how to cook chicken breasts on the stove with this easy lemon garlic chicken recipe! A vibrant citrus marinade with a little red pepper for a slight spicy kick, creates tender, juicy, and flavorful chicken breasts. Cooks in 15 minutes! 
+description: Learn how to cook chicken breasts on the stove with this easy lemon garlic chicken recipe! A vibrant citrus marinade with a little red pepper for a slight spicy kick, creates tender, juicy, and flavorful chicken breasts. Cooks in 15 minutes!
 image: images/lemon-garlic-chicken.jpg
 size: 4 servings
 time: 50 minutes
@@ -10,10 +10,10 @@ favorite: ✓
 
 * `5` large garlic cloves crushed or minced
 * `2` lemons
-* `¼ cup` olive oil 
+* `¼ cup` olive oil
 * `1½ tsp` italian seasoning
 * `½ tsp` red pepper flakes (optional)
-* `¼ cup` chopped Italian parsley, plus more for garnish 
+* `¼ cup` chopped Italian parsley, plus more for garnish
 * `2 lb` boneless skinless chicken breasts (about 4 large chicken breasts)
 * salt and pepper to taste
 
@@ -23,11 +23,11 @@ favorite: ✓
 
 ---
 
-> Slice the breasts into cutlets (putting them in the freeze for 1-2 hours will make this easier): Place the chicken breast flat on a cutting board and position your non-dominant hand on top to hold it firmly. Using a sharp knife in your dominant hand, carefully slice the chicken breast horizontally starting with the thicker end and all the way through to the thin end. You should end up with two thin cutlets for each chicken breast. If the cutlets still need to flatten a bit, cover with plastic wrap and pound with a kitchen mallet (optional). 
+> Slice the breasts into cutlets (putting them in the freeze for 1-2 hours will make this easier): Place the chicken breast flat on a cutting board and position your non-dominant hand on top to hold it firmly. Using a sharp knife in your dominant hand, carefully slice the chicken breast horizontally starting with the thicker end and all the way through to the thin end. You should end up with two thin cutlets for each chicken breast. If the cutlets still need to flatten a bit, cover with plastic wrap and pound with a kitchen mallet (optional).
 
 ---
 
-> Dry and season the chicken: Use a paper towel to pat the chicken dry. Season with a big pinch of kosher salt and black pepper on both sides. Add the chicken to the marinade and turn to coat. Cover the bowl and place in the fridge for 30 minutes and up to 2 hours. 
+> Dry and season the chicken: Use a paper towel to pat the chicken dry. Season with a big pinch of kosher salt and black pepper on both sides. Add the chicken to the marinade and turn to coat. Cover the bowl and place in the fridge for 30 minutes and up to 2 hours.
 
 ---
 

@@ -14,11 +14,11 @@ favorite: ✓
 * `4` eggs
 * butter for frying
 
-> Place all the dry ingredients in a bowl and add half the milk, a little at a time. Mix well each time. Mix until the batter is smooth, then add the rest of the milk. 
+> Place all the dry ingredients in a bowl and add half the milk, a little at a time. Mix well each time. Mix until the batter is smooth, then add the rest of the milk.
 
 ---
 
-> Add the eggs and mix. Note that the eggs bind everything together so remember to add enough. Leave for ½ hour. 
+> Add the eggs and mix. Note that the eggs bind everything together so remember to add enough. Leave for ½ hour.
 
 ---
 

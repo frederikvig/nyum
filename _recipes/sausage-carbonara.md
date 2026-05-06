@@ -10,7 +10,7 @@ favorite: ✓
 
 * `1 pack` dried tagliatelle
 * `1 lb` italian mild sausages
-* `½ (15g)` a bunch of fresh flat-leaf parsley 
+* `½ (15g)` a bunch of fresh flat-leaf parsley
 * `3` large eggs
 * `60 g (2 oz)` Parmesan and Pecorino Romano cheese
 * salt and pepper to taste

@@ -1,7 +1,7 @@
 ---
-title: Pastry cream
+title: Pastry Cream
 original_title: Vaniljekrem
-description: Vanilla pastry cream 
+description: Vanilla pastry cream
 image: images/pastry-cream.webp
 size: 1 servings
 time: 20 minutes

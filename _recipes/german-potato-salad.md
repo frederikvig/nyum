@@ -12,7 +12,7 @@ favorite: ✓
 * `12-16 oz` bacon
 * `1` onion, diced
 * `3` garlic cloves, minced
-* `⅓ cup` apple cider vinegar or white vinegar 
+* `⅓ cup` apple cider vinegar or white vinegar
 * `2 tbsp` water
 * `1 tbsp` Dijon mustard
 * `1½ tbsp` sugar, or to taste

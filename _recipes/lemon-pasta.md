@@ -1,6 +1,6 @@
 ---
 title: Lemon Pasta
-description: Flavorful, tangy, and light, this simple lemon pasta without cream is the perfect meal in 15 minutes or less! With good extra virgin olive oil, fresh garlic and a good sprinkle of Parmesan cheese. 
+description: Flavorful, tangy, and light, this simple lemon pasta without cream is the perfect meal in 15 minutes or less! With good extra virgin olive oil, fresh garlic and a good sprinkle of Parmesan cheese.
 image: images/lemon-pasta.jpg
 size: 4 servings
 time: 15 minutes

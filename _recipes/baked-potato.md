@@ -1,5 +1,5 @@
 ---
-title: Baked potato
+title: Baked Potato
 description: The best baked potato recipe — perfectly crispy and flavorful on the outside, soft and fluffy on the inside, and so flavorful and delicious.
 image: images/baked-potato.jpg
 size: 4 servings

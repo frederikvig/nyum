@@ -1,8 +1,8 @@
 ---
-title: Pork Chopes
+title: Pork Chops
 original_title: The Best Juicy Skillet Pork Chops
 description: Say goodbye to dry and flavorless pork chops. With a few simple tricks, you can make juicy and tender pork chops with very little fuss. I love how juicy these are!
-image: images/pork-chopes.jpg
+image: images/pork-chops.jpg
 size: 4 servings
 time: 45 minutes
 source: https://www.inspiredtaste.net/37062/juicy-skillet-pork-chops/

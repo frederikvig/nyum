@@ -1,6 +1,6 @@
 ---
 title: Kringle
-description: Norwegian Kringle 
+description: Norwegian Kringle
 image: images/kringle.jpg
 size: 18 servings
 time: 3 hours
@@ -21,7 +21,7 @@ vegan: ✓
 * `125 g` butter at room temperature in cubes
 
 
-> Place everything except the butter in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes. 
+> Place everything except the butter in a stand mixer with the dough hook on low (speed 2 on KitchenAid) for 10 minutes.
 
 ---
 

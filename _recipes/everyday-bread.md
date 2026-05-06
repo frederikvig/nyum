@@ -1,6 +1,6 @@
 ---
 title: Everyday Bread
-description: This whole wheat sandwich bread has all the heartiness of whole wheat flour but without any density or bitterness. It’s tender and yielding, flavorful and versatile; slice it up for peanut butter and jelly sandwiches or grilled cheese, or simply smear a piece with butter. 
+description: This whole wheat sandwich bread has all the heartiness of whole wheat flour but without any density or bitterness. It’s tender and yielding, flavorful and versatile; slice it up for peanut butter and jelly sandwiches or grilled cheese, or simply smear a piece with butter.
 image: images/everyday-bread.webp
 size: 12 servings
 time: 6 hours
@@ -15,14 +15,14 @@ vegan: ✓
 * `2¼ tsp (7g)` instant yeast
 * `2 tbsp (42g)` honey
 * `2 tbsp (28g)` unsalted butter, at room temperature
-* `1¼ cups (284g)` whole milk, warm (110°F) 
+* `1¼ cups (284g)` whole milk, warm (110°F)
 * `¼ cup (28g)` wheat germ, for coating
 
 > Weigh your flour; or measure it by gently spooning it into a cup, then sweeping off any excess.
 
 ---
 
-> In a large bowl or the bowl of a stand mixer fit with the dough hook, combine the flours, salt, and yeast. Add the honey, butter, and milk, mixing until no dry patches of flour remain and a soft dough forms. If mixing by hand, cover and rest for 15 minutes. If using a mixer, proceed to the next step. 
+> In a large bowl or the bowl of a stand mixer fit with the dough hook, combine the flours, salt, and yeast. Add the honey, butter, and milk, mixing until no dry patches of flour remain and a soft dough forms. If mixing by hand, cover and rest for 15 minutes. If using a mixer, proceed to the next step.
 
 ---
 
@@ -30,7 +30,7 @@ vegan: ✓
 
 ---
 
-> Return the dough to the bowl, cover, and let it rise until puffy but not necessarily doubled in volume, 2-2½ hours.  
+> Return the dough to the bowl, cover, and let it rise until puffy but not necessarily doubled in volume, 2-2½ hours.
 
 ---
 

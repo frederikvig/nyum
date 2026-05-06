@@ -1,5 +1,5 @@
 ---
-title: Pizza dough and tomato sauce
+title: Pizza Dough and Tomato Sauce
 image: images/pizza.jpg
 size: 6 servings
 time: 1 hour
@@ -19,7 +19,7 @@ vegan: ✓
 
 ---
 
-> Knead the dough for 5 minutes with the mixer by continuing  to let it run. Sprinkle the sugar and salt on top of the dough and continue to knead vigorously for 1 minute, or until the dough comes together.
+> Knead the dough for 5 minutes with the mixer by continuing to let it run. Sprinkle the sugar and salt on top of the dough and continue to knead vigorously for 1 minute, or until the dough comes together.
 
 ---
 
@@ -28,7 +28,7 @@ vegan: ✓
 ---
 
 * `1 (14 ounce)` can crushed tomatoes
-* `1 glove` garlic, grated
+* `1 clove` garlic, grated
 * `1 tsp` kosher salt (or to taste)
 
 > In a small bowl, combine the tomatoes, garlic, and salt. You can make this ahead and let it sit at room temperature for a day or store in fridge for up to 1 week or freeze for up to 2 months.
