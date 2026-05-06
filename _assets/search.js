@@ -17,24 +17,41 @@ fetch("search.json")
         searchOutput.innerHTML = `<span class="error">${error}</span>`
     });
 
+// filler words dropped from queries so e.g. "almond recipe" doesn't fail to match Almond Crescent Cookies just because no recipe contains the literal word "recipe"
+const SEARCH_STOP_WORDS = new Set(["recipe", "recipes", "with", "and", "or", "the", "a", "an", "for", "of"]);
+
 // search the "index" for a query string while assigning different weights depending on which parts of the json value the query appears in
 function search(query) {
-    const matches = (haystack, needle) => (haystack || "").toLowerCase().includes(needle.toLowerCase());
-    const matchesStart = (haystack, needle) => (haystack || "").toLowerCase().startsWith(needle.toLowerCase());
+    // tokenize: lowercase, split on whitespace/commas, drop empties and stop words
+    let tokens = query.toLowerCase().split(/[\s,]+/).filter(t => t && !SEARCH_STOP_WORDS.has(t));
+
+    // if every word the user typed was a stop word, fall back to the raw query so they still get something
+    if (tokens.length === 0) {
+        const fallback = query.toLowerCase().trim();
+        if (!fallback) return [];
+        tokens = [fallback];
+    }
+
+    // a field "matches" iff every token appears somewhere in it (in any order)
+    const matchesEvery = haystack => {
+        const h = (haystack || "").toLowerCase();
+        return tokens.every(t => h.includes(t));
+    };
+    const matchesStart = haystack => (haystack || "").toLowerCase().startsWith(query.toLowerCase());
 
     let results = [];
     searchIndex.forEach(e => {
         let score = 0;
-        if (matches(e["title"], query)) score += 20;
-        if (matches(e["original_title"], query)) score += 10;
-        if (matches(e["category"], query)) score += 5;
-        if (matches(e["author"], query)) score += 5;
-        if (matches(e["description"], query)) score += 2;
-        if (matches(e["htmlfile"], query)) score += 1;
+        if (matchesEvery(e["title"])) score += 20;
+        if (matchesEvery(e["original_title"])) score += 10;
+        if (matchesEvery(e["category"])) score += 5;
+        if (matchesEvery(e["author"])) score += 5;
+        if (matchesEvery(e["description"])) score += 2;
+        if (matchesEvery(e["htmlfile"])) score += 1;
 
-        // significantly increase score if the query occurs right at the start of the (original) title
-        if (matchesStart(e["title"], query)) score += 10;
-        if (matchesStart(e["original_title"], query)) score += 5;
+        // significantly increase score if the full original query occurs right at the start of the (original) title
+        if (matchesStart(e["title"])) score += 10;
+        if (matchesStart(e["original_title"])) score += 5;
 
         // boost favorites a little
         if (score > 0 && e["favorite"]) score += 2;
