@@ -19,7 +19,7 @@ favorite: ✓
 * `1-2 cups` whole green olives stuffed w/ pimentos
 * `½ cup` raisins
 * `¼ cup` capers, drained
-* `30 oz (2x15oz cans)` tomato sauce
+* `30 oz` tomato sauce (2× 15 oz cans)
 * `1` lemon
 * Salt and pepper to taste
 

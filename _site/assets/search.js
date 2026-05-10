@@ -8,11 +8,11 @@ let searchIndex;
 let searchResultsCount = 0;
 let searchSelection = -1;
 
-// reuse the cache-busting version embedded in this script's URL so search.json refreshes in lockstep
-const ASSET_VERSION = (document.currentScript?.src.match(/[?&]v=([^&]+)/) || [])[1] || "";
+// search.json's content hash is supplied by the page on the script tag (see data-search-version) — keeps search.json cache-busted independently of this file
+const SEARCH_JSON_VERSION = document.currentScript?.dataset.searchVersion || "";
 
 // asynchronously load search "index" (the search box will remain disabled until then)
-fetch("search.json" + (ASSET_VERSION ? "?v=" + ASSET_VERSION : ""))
+fetch("search.json" + (SEARCH_JSON_VERSION ? "?v=" + SEARCH_JSON_VERSION : ""))
     .then(response => response.json())
     .then(data => {
         searchIndex = data;

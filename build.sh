@@ -27,9 +27,17 @@ done
 
 # parallelism for the per-recipe pandoc loops; overridable via BUILD_JOBS env var
 JOBS="${BUILD_JOBS:-$(nproc 2>/dev/null || echo 4)}"
-# cache-busting version stamp for static assets (CSS/JS/search.json), shared across all pandoc invocations
-ASSET_VERSION="$TIME_START"
-export QUIET ASSET_VERSION
+
+# short content hash used as cache-busting version stamp; sha1sum on Linux/Git Bash, shasum on macOS
+asset_hash() {
+    { sha1sum "$1" 2>/dev/null || shasum "$1"; } | cut -c1-8
+}
+ASSET_VERSION_CSS=$(asset_hash _assets/style.css)
+ASSET_VERSION_SEARCH_JS=$(asset_hash _assets/search.js)
+ASSET_VERSION_FEATURED_JS=$(asset_hash _assets/featured.js)
+# ASSET_VERSION_SEARCH_JSON is computed later, after the search index is assembled
+
+export QUIET ASSET_VERSION_CSS ASSET_VERSION_SEARCH_JS ASSET_VERSION_FEATURED_JS
 
 function status {
     $QUIET && return
@@ -80,7 +88,7 @@ render_recipe() {
         --metadata category_faux_urlencoded="$SLUG" \
         --metadata category_display="$CATEGORY_DISPLAY" \
         --metadata updatedtime="$(date -r "$FILE" "+%Y-%m-%d")" \
-        --metadata asset_version="$ASSET_VERSION" \
+        --metadata asset_version_css="$ASSET_VERSION_CSS" \
         --template _templates/recipe.template.html \
         -o "_site/$BASE.html"
 }
@@ -111,6 +119,11 @@ printf '%s\n' _recipes/*.md | xargs -n 1 -P "$JOBS" bash -c 'extract_metadata "$
 status "Grouping metadata by category..."
 x awk -f _templates/technical/group_by_category.awk _temp/*.category.txt
 
+status "Assembling search index..."
+x awk 'BEGIN { printf "[" } FNR == 1 && NR > 1 { printf "," } { sub(/\r$/, ""); print } END { printf "]\n" }' _temp/*.metadata.json > _temp/search.json
+x cp _temp/search.json _site/
+ASSET_VERSION_SEARCH_JSON=$(asset_hash _temp/search.json)
+
 status "Building recipe pages (parallel, -P $JOBS)..."
 printf '%s\n' _recipes/*.md | xargs -n 1 -P "$JOBS" bash -c 'render_recipe "$1"' _
 
@@ -120,7 +133,7 @@ for FILE in _temp/*.category.json; do
         --metadata-file config.yaml \
         --metadata title="dummy" \
         --metadata updatedtime="$(date "+%Y-%m-%d")" \
-        --metadata asset_version="$ASSET_VERSION" \
+        --metadata asset_version_css="$ASSET_VERSION_CSS" \
         --metadata-file "$FILE" \
         --template _templates/category.template.html \
         -o "_site/$(basename "$FILE" .category.json).html"
@@ -131,7 +144,10 @@ x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
-    --metadata asset_version="$ASSET_VERSION" \
+    --metadata asset_version_css="$ASSET_VERSION_CSS" \
+    --metadata asset_version_search_js="$ASSET_VERSION_SEARCH_JS" \
+    --metadata asset_version_featured_js="$ASSET_VERSION_FEATURED_JS" \
+    --metadata asset_version_search_json="$ASSET_VERSION_SEARCH_JSON" \
     --metadata-file _temp/index.json \
     --template _templates/index.template.html \
     -o _site/index.html
@@ -141,13 +157,11 @@ x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
-    --metadata asset_version="$ASSET_VERSION" \
+    --metadata asset_version_css="$ASSET_VERSION_CSS" \
+    --metadata asset_version_search_js="$ASSET_VERSION_SEARCH_JS" \
+    --metadata asset_version_search_json="$ASSET_VERSION_SEARCH_JSON" \
     --template _templates/search.template.html \
     -o _site/search.html
-
-status "Assembling search index..."
-x awk 'BEGIN { printf "[" } FNR == 1 && NR > 1 { printf "," } { sub(/\r$/, ""); print } END { printf "]\n" }' _temp/*.metadata.json > _temp/search.json
-x cp _temp/search.json _site/
 
 TIME_END=$(date +%s)
 TIME_TOTAL=$((TIME_END-TIME_START))

@@ -7,6 +7,8 @@ image: images/nokneadbread.jpg
 size: 1 loaf
 time: 24 hours
 source: https://www.nigella.com/recipes/guests/jim-laheys-basic-no-knead-bread
+favorite: ✓
+vegan: ✓
 ---
 
 * `3¼ cups (400g)` white bread flour, plus more for dusting
