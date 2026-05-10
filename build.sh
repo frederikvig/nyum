@@ -27,7 +27,9 @@ done
 
 # parallelism for the per-recipe pandoc loops; overridable via BUILD_JOBS env var
 JOBS="${BUILD_JOBS:-$(nproc 2>/dev/null || echo 4)}"
-export QUIET
+# cache-busting version stamp for static assets (CSS/JS/search.json), shared across all pandoc invocations
+ASSET_VERSION="$TIME_START"
+export QUIET ASSET_VERSION
 
 function status {
     $QUIET && return
@@ -78,6 +80,7 @@ render_recipe() {
         --metadata category_faux_urlencoded="$SLUG" \
         --metadata category_display="$CATEGORY_DISPLAY" \
         --metadata updatedtime="$(date -r "$FILE" "+%Y-%m-%d")" \
+        --metadata asset_version="$ASSET_VERSION" \
         --template _templates/recipe.template.html \
         -o "_site/$BASE.html"
 }
@@ -117,6 +120,7 @@ for FILE in _temp/*.category.json; do
         --metadata-file config.yaml \
         --metadata title="dummy" \
         --metadata updatedtime="$(date "+%Y-%m-%d")" \
+        --metadata asset_version="$ASSET_VERSION" \
         --metadata-file "$FILE" \
         --template _templates/category.template.html \
         -o "_site/$(basename "$FILE" .category.json).html"
@@ -127,6 +131,7 @@ x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
+    --metadata asset_version="$ASSET_VERSION" \
     --metadata-file _temp/index.json \
     --template _templates/index.template.html \
     -o _site/index.html
@@ -136,6 +141,7 @@ x pandoc _templates/technical/empty.md \
     --metadata-file config.yaml \
     --metadata title="dummy" \
     --metadata updatedtime="$(date "+%Y-%m-%d")" \
+    --metadata asset_version="$ASSET_VERSION" \
     --template _templates/search.template.html \
     -o _site/search.html
 

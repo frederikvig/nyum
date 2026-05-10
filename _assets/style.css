@@ -463,8 +463,6 @@ hr {
     font-variation-settings: 'opsz' 72, 'wght' 320, 'SOFT' 100;
     font-variant-numeric: oldstyle-nums;
     line-height: 1;
-    border-bottom: 1px solid var(--link);
-    padding-bottom: 0.1em;
     min-width: 1.4em;
     text-align: center;
     margin-top: 1rem;

@@ -2,7 +2,9 @@
 // Reads search.json (already loaded by the search bar), filters for favorites, and
 // rotates daily. Falls back to silently hiding the block if anything goes wrong.
 
-fetch("search.json")
+const ASSET_VERSION = (document.currentScript?.src.match(/[?&]v=([^&]+)/) || [])[1] || "";
+
+fetch("search.json" + (ASSET_VERSION ? "?v=" + ASSET_VERSION : ""))
     .then(r => r.json())
     .then(all => {
         const favorites = all.filter(r => r.favorite);

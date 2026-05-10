@@ -16,7 +16,7 @@
         <aside class="search">
             <input type="text" placeholder="$strings.search_placeholder$" id="search_input" disabled>
             <div class="results" id="search_output"></div>
-            <script src="assets/search.js"></script>
+            <script src="assets/search.js?v=$asset_version$"></script>
         </aside>
 
         <div class="featured" id="featured" hidden>
@@ -51,6 +51,6 @@
         ${endfor}
         ${footer.partial.html()}
     </main>
-    <script src="assets/featured.js"></script>
+    <script src="assets/featured.js?v=$asset_version$"></script>
 </body>
 </html>
