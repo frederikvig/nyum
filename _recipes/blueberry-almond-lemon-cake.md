@@ -16,7 +16,7 @@ source: https://cooking.nytimes.com/recipes/1018821-blueberry-almond-and-lemon-c
 * `1¼ tsp` baking powder
 * `⅛ tsp` salt
 * `1 cup / 110g` almond flour
-* `1½ cups / 200g` fresh blueberries
+* `1½ cups / 200g` blueberries, washed, drained and picked over
 * `⅔ cup / 70g` confectioners' sugar
 
 > Heat oven to 350°F. Grease an 8" loaf pan with butter, line it with a parchment paper sling and butter the paper. Set the pan aside.
@@ -27,7 +27,11 @@ source: https://cooking.nytimes.com/recipes/1018821-blueberry-almond-and-lemon-c
 
 ---
 
-> In a separate bowl, whisk together flour, baking powder, salt and almond flour. With the stand mixer on low, add the dry ingredients in three additions, mixing just until no white specks remain. Fold in all of the blueberries by hand, then scoop batter into the prepared loaf pan.
+> In a separate bowl, whisk together flour, baking powder, salt and almond flour. With the stand mixer on low, add the dry ingredients in three additions, mixing just until no white specks remain.
+
+---
+
+> Crush ⅔ cup blueberries with a fork, and mix into the batter. Fold by hand in the remaining whole berries, then scoop batter into the prepared loaf pan.
 
 ---
 
