@@ -113,6 +113,7 @@ Formatting rules:
 - Always use abbreviations for units: tbsp, tsp, oz, lbs, cups — never spell out "tablespoons", "teaspoons", etc.
 - Always use unicode fraction symbols: ½, ¼, ¾, ⅓, ⅔, ⅛ — never use `1/2`, `1/4` etc.
   - Examples: `½ cup`, `1½ tsp`, `¼ tsp`, `⅓ cup`
+- **Include metric measurements when the source recipe provides them.** Put both inside the same backticks, separated by `/`: `` `⅔ cup / 90g` ``, `` `1 scant cup / 190g` ``, `` `1½ cups / 200g` ``. Omit metric for units that don't usefully convert (tsp, tbsp of small ingredients, whole eggs).
 - Keep the ingredient description after the quantity natural and readable
 
 ### Instructions
