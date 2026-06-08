@@ -1,5 +1,6 @@
 ---
 title: Blueberry, Almond and Lemon Cake
+category: Dessert
 description: A berry-dotted loaf cake from Yotam Ottolenghi, perfect for afternoon tea or after dinner with coffee.
 image: images/blueberry-almond-lemon-cake.jpeg
 size: 8 servings
@@ -9,7 +10,7 @@ source: https://cooking.nytimes.com/recipes/1018821-blueberry-almond-and-lemon-c
 
 * `⅔ cup plus 3 tbsp / 150g` unsalted butter, at room temperature, plus extra for greasing the pan
 * `1 scant cup / 190g` granulated sugar
-* `1 tsp` lemon zest, plus `1 tbsp` lemon juice (or more juice as needed)
+* `1 tbsp` lemon zest, plus `1½ tbsp` lemon juice (or more juice as needed)
 * `1 tsp` vanilla extract
 * `3` large eggs, beaten
 * `⅔ cup / 90g` all-purpose flour, sifted

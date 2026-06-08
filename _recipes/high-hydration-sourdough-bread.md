@@ -5,14 +5,14 @@ description: A loaf with a glossy and custar-like interior with mild lactic sour
 image: images/high-hydration-sourdough-bread.jpg
 size: 24 servings
 time: 25 hours
-source: https://www.theperfectloaf.com/high-hydration-sourdough-bread/
+source: https://www.theperfectloaf.com/best-sourdough-recipe/
 favorite: ✓
 vegan: ✓
 ---
 
 * `30g` white flour (~11.5% protein)
 * `30g` whole wheat flour
-* `61g` water
+* `60g` water
 * `30g` ripe sourdough starter, 100% hydration
 
 > Mix the levain, cover, and leave for about 5 hours at warm room temperature.
@@ -23,13 +23,13 @@ vegan: ✓
 * `64g` whole wheat flour
 * `640g` water
 
-> Create the autolyse 1½ hours before the levain is done, by mixing the flour with the water until no dry bits remain. Cover and rest at warm room temperature for 1½ hours.
+> Create the autolyse 2 hours before the levain is done, by mixing the flour with the water until no dry bits remain. Cover and rest at warm room temperature for 2 hours.
 
 ---
 
 * `95g` water
 * `17g` fine sea salt
-* `151g` levain
+* `150g` levain
 
 > Mix the dough by adding the salt, the ripe levain, to the autolyse. Mix and add water as needed. It should feel firm, but sticky. Then strengthen the dough for 5-6 minutes. The dough should smooth out a little and gain some elasticity, but still be quite shaggy.
 
