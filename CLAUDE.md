@@ -42,6 +42,8 @@ The build is a multi-stage Pandoc pipeline orchestrated by `build.sh`. Understan
 
 Recipes live in `_recipes/*.md`. Images go in `_recipes/images/` and are referenced from front matter as `images/foo.jpg`. Each recipe has YAML front matter (only `title` is required; full list in README.md) and a body of horizontal-rule-separated steps, where each step is an unordered list of ingredients (amounts wrapped in backticks to enable the three-column layout) followed by a `>` blockquote with the instruction. See `_recipes/bolognese.md` for a canonical example.
 
+For volume-to-weight conversions (cups/tablespoons → grams), use the King Arthur Baking ingredient weight chart: https://www.kingarthurbaking.com/learn/ingredient-weight-chart
+
 ## Configuration
 
 `config.yaml` controls site-wide labels, language, the optional `github_url` (which enables the per-recipe "Edit" link), and `deploy_remote`. It is loaded as a Pandoc metadata file in every Pandoc invocation, so any key added there becomes available in every template as `$key$`.

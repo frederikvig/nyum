@@ -8,7 +8,7 @@ time: 1 hour 25 minutes
 source: https://www.onceuponachef.com/recipes/summer-strawberry-cake.html
 ---
 
-* `1½ cups / 190g` all-purpose flour, spooned into measuring cup and leveled off
+* `1½ cups / 180g` all-purpose flour, spooned into measuring cup and leveled off
 * `1½ tsp` baking powder
 * `½ tsp` salt
 * `6 tbsp / 85g` unsalted butter, softened, plus more for greasing the pan
