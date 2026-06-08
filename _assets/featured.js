@@ -2,6 +2,11 @@
 // Reads search.json (already loaded by the search bar), filters for favorites, and
 // rotates daily. Falls back to silently hiding the block if anything goes wrong.
 
+// Wrapped in an IIFE so its top-level bindings don't collide with search.js,
+// which shares the same global scope on the index page and also declares a
+// SEARCH_JSON_VERSION const. (A duplicate top-level `const` is a SyntaxError
+// that aborts the whole file, silently killing the featured block.)
+(function () {
 const SEARCH_JSON_VERSION = document.currentScript?.dataset.searchVersion || "";
 
 fetch("search.json" + (SEARCH_JSON_VERSION ? "?v=" + SEARCH_JSON_VERSION : ""))
@@ -61,3 +66,4 @@ fetch("search.json" + (SEARCH_JSON_VERSION ? "?v=" + SEARCH_JSON_VERSION : ""))
     .catch(e => {
         console.warn("featured: failed to load", e);
     });
+})();

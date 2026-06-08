@@ -45,9 +45,11 @@
         </div>
 
         <div class="recipe-tags">
-            $if(veggie)$$else$$if(vegan)$$else$
+            $if(meat)$
                 <span class="tag"><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</span>
-            $endif$$endif$
+            $else$$if(veggie)$$else$$if(vegan)$$else$$if(sweet)$$else$
+                <span class="tag"><img src="assets/tabler-icons/tabler-icon-meat.svg"> $strings.meat_label$</span>
+            $endif$$endif$$endif$$endif$
             $if(vegan)$<span class="tag veg"><img src="assets/tabler-icons/tabler-icon-leaf.svg"> $strings.vegan_label$</span>$endif$
             $if(spicy)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-pepper.svg"> $strings.spicy_label$</span>$endif$
             $if(sweet)$<span class="tag"><img src="assets/tabler-icons/tabler-icon-candy.svg"> $strings.sweet_label$</span>$endif$

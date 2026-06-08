@@ -6,6 +6,8 @@ image: images/fresh-strawberry-cake.jpg
 size: 8 servings
 time: 1 hour 25 minutes
 source: https://www.onceuponachef.com/recipes/summer-strawberry-cake.html
+favorite: ✓
+sweet: ✓
 ---
 
 * `1½ cups / 180g` all-purpose flour, spooned into measuring cup and leveled off
