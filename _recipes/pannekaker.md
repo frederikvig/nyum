@@ -7,6 +7,7 @@ size: 8 servings
 time: 45 minutes
 source: https://www.matprat.no/oppskrifter/familien/pannekaker/
 favorite: ✓
+vegan: ✓
 ---
 
 * `180 g` all-purpose flour
