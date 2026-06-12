@@ -11,7 +11,7 @@ sweet: ✓
 
 * `⅔ cup plus 3 tbsp / 150g` unsalted butter, at room temperature, plus extra for greasing the pan
 * `1 scant cup / 190g` granulated sugar
-* `1 tbsp` lemon zest, plus `1½ tbsp` lemon juice (or more juice as needed)
+* `1 tbsp` lemon zest
 * `1 tsp` vanilla extract
 * `3` large eggs, beaten
 * `⅔ cup / 90g` all-purpose flour, sifted
@@ -19,6 +19,7 @@ sweet: ✓
 * `⅛ tsp` salt
 * `1 cup / 110g` almond flour
 * `1½ cups / 200g` blueberries, washed, drained and picked over
+* `1½ tbsp` lemon juice (or more juice as needed)
 * `⅔ cup / 70g` confectioners' sugar
 
 > Heat oven to 350°F. Grease an 8" loaf pan with butter, line it with a parchment paper sling and butter the paper. Set the pan aside.
