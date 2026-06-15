@@ -1,8 +1,8 @@
 ---
-title: Skillet Chicken Thighs with Cherry Tomatoes
+title: Chicken Thighs with Cherry Tomatoes
 category: [Dinner, Chicken]
 description: One-pan za'atar chicken thighs with a fresh cherry tomato and lemon sauce — a Mediterranean weeknight dream.
-image: images/skillet-chicken-thighs-with-cherry-tomatoes.jpg
+image: images/chicken-thighs-with-cherry-tomatoes.jpg
 size: 4 servings
 time: 25 minutes
 source: https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-tomatoes/
