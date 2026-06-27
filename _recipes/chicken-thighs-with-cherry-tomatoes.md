@@ -4,7 +4,7 @@ category: [Dinner, Chicken]
 description: One-pan za'atar chicken thighs with a fresh cherry tomato and lemon sauce — a Mediterranean weeknight dream.
 image: images/chicken-thighs-with-cherry-tomatoes.jpg
 size: 4 servings
-time: 25 minutes
+time: 30 minutes
 source: https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-tomatoes/
 ---
 
@@ -18,6 +18,7 @@ source: https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-
 * `1` medium yellow onion, halved and thinly sliced
 * `2` medium garlic cloves, thinly sliced
 * `3 cups` fresh cherry tomatoes
+* `1 cup` pitted Kalamata olives
 * `1` large lemon, zested and juiced
 * `¼ cup` chopped fresh parsley, for garnish
 
@@ -37,7 +38,7 @@ source: https://www.themediterraneandish.com/skillet-chicken-thighs-with-cherry-
 
 ---
 
-> Cook the cherry tomato sauce. Add the cherry tomatoes, lemon juice, the remainder of the za'atar, and another pinch of kosher salt and black pepper. Cover and cook for about 5 to 10 minutes or until the cherry tomatoes have fully collapsed into a sauce. You can help them along by gently crushing them with the back of a spoon. Taste and adjust seasoning to your liking.
+> Cook the cherry tomato sauce. Add the cherry tomatoes, lemon juice, the remainder of the za'atar, and 1 teaspoon of kosher salt and a pinch of black pepper. Cover and cook for about 5 minutes, add the olives and cook covered for another 5 minutes or until the cherry tomatoes have fully collapsed into a sauce. You can help them along by gently crushing them with the back of a spoon. Taste and adjust seasoning to your liking.
 
 ---
 

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="assets/style.css?v=1d42229b">    <title>Cucumber
+Salad – Recipes</title>
+    <meta property="og:title" content="Cucumber Salad" />
+    <meta property="og:image" content="https://recipes.frederikvig.com/images/cucumber-salad.jpg" />
+</head>
+<body>
+    <main class="recipe">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+                <a href="sides.html">Sides</a> <i>⟩</i>
+            </nav>
+            <div class="meta-top">Sides</div>
+            <h1>Cucumber Salad</h1>
+            
+        </header>
+
+                    <figure class="hero">
+                
+                    <img src="images/cucumber-salad.jpg" alt="Cucumber
+Salad">
+                
+                
+            </figure>
+        
+        <div class="meta-strip">
+                            <div class="item"><div class="label">Yields</div><div class="value">4
+servings</div></div>
+                                        <div class="item"><div class="label">Total Time</div><div class="value">35
+minutes</div></div>
+                                        <div class="item"><div class="label">Source</div><div class="value"><a href="https://cooking.nytimes.com/recipes/1025369-cucumber-salad" data-source="https://cooking.nytimes.com/recipes/1025369-cucumber-salad">Source</a></div></div>
+                        <div class="item"><div class="label">Updated</div><div class="value">2026-06-27</div></div>
+        </div>
+
+        <div class="recipe-tags">
+            
+                <span class="tag"><img src="assets/tabler-icons/tabler-icon-meat.svg"> Meat</span>
+                        
+            
+            
+            
+            
+            
+            
+        </div>
+
+        
+        <p class="descr">A quick, refreshing salad that cools rich,
+crispy or spicy dishes — peeled in alternating strips and salted to
+drain for maximum flavor.</p>
+
+        <div class="section-marker">·  ·  ·  Method  ·  ·  ·</div>
+
+        <section>
+            <hr>
+            <ul>
+            <li><code>1 lb</code> cucumbers (about 6 Persian or mini
+            seedless, or 1 English)</li>
+            <li><code>3 tbsp</code> vinegar (red or white wine, rice or
+            Sherry)</li>
+            <li><code>1½ tsp</code> honey or granulated sugar</li>
+            <li><code>½</code> small red onion, thinly sliced and rinsed
+            under cold water</li>
+            <li><code>2 tbsp</code> chopped dill</li>
+            <li>salt and black pepper</li>
+            </ul>
+            <blockquote>
+            <p>Peel the cucumbers in alternating strips and trim ends.
+            If desired, halve lengthwise and scoop out the seeds. Thinly
+            slice, then transfer to a colander set in the sink. Toss
+            with 1 tsp Diamond Crystal kosher salt or ½ tsp fine sea
+            salt and set aside to drain at least 5 minutes or up to
+            30.</p>
+            </blockquote>
+            <hr />
+            <blockquote>
+            <p>In a medium bowl, stir together the vinegar and honey
+            until the honey is dissolved. Shake the cucumbers in the
+            colander to get rid of any moisture, then transfer the
+            cucumbers, red onion and dill to the bowl. Stir to combine,
+            then season to taste with salt and pepper.</p>
+            </blockquote>
+        </section>
+        <footer>
+            <p></p>
+            <p class="updatededit">
+                Updated on 2026-06-27
+                                            ·
+                        <a href="https://github.com/frederikvig/nyum/edit/main/_recipes/cucumber-salad.md">Edit</a>
+                                </p>
+        </footer>    </main>
+    <script>
+    // For source links: replace the displayed text with a clean hostname when the value is a URL
+    // (otherwise leave the existing label/author text alone, but unlink it for non-URLs).
+    document.querySelectorAll('a[data-source]').forEach(a => {
+        const src = a.dataset.source;
+        try {
+            const url = new URL(src);
+            if (a.textContent.trim().toLowerCase() === 'source') {
+                a.textContent = url.host.replace(/^www\./, '');
+            }
+        } catch (e) {
+            a.replaceWith(document.createTextNode(src));
+        }
+    });
+
+    // Suppress the drop cap when the description begins with what looks like a proper-noun
+    // pair (two consecutive Capitalized words, e.g. "Julia Child's…", "Helen Rennie's…").
+    // The heuristic isn't perfect but it catches the most jarring cases without manual tagging.
+    document.querySelectorAll('.recipe .descr').forEach(p => {
+        const m = p.textContent.trim().match(/^([A-Z][a-zà-ÿ'’]*)\s+([A-Z])/);
+        if (m) p.classList.add('no-dropcap');
+    });
+    </script>
+</body>
+</html>
