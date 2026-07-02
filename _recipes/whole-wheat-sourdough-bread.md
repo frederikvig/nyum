@@ -6,6 +6,7 @@ image: images/whole-wheat-sourdough-bread.jpg
 size: 2 loaves
 time: 25 hours
 source: https://www.theperfectloaf.com/100-whole-wheat-sourdough/
+vegan: ✓
 ---
 
 * `64g` whole wheat flour
@@ -19,7 +20,7 @@ source: https://www.theperfectloaf.com/100-whole-wheat-sourdough/
 * `857g` whole wheat flour
 * `705g` water
 
-> Create the autolyse 1 hour before the levain is done, by mixing the autolyse ingredients until no dry bits remain. Cover and rest at warm room temperature for 2 hours.
+> Create the autolyse 1 hour before the levain is done, by mixing the autolyse ingredients until no dry bits remain. Cover and rest at warm room temperature for 1 hours.
 
 ---
 
@@ -27,7 +28,7 @@ source: https://www.theperfectloaf.com/100-whole-wheat-sourdough/
 * `18g` fine sea salt
 * `128g` levain
 
-> Add the salt, ripe levain, and water to the autolyse. Mix by hand or with a dough whisk and strengthen the dough for 5 minutes until it becomes smoother and slightly elastic. Transfer to a bulk fermentation container and cover.
+> Add the salt, ripe levain, and half the water to the autolyse. Mix by hand or with a dough whisk and strengthen the dough for 5 minutes until it becomes smoother and slightly elastic, add more water as needed. Transfer to a bulk fermentation container and cover.
 
 ---
 
