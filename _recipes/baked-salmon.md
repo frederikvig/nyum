@@ -10,7 +10,7 @@ favorite: ✓
 vegan: ✓
 ---
 
-> Heat the oven to 425 F degrees.
+> Heat the oven to 425 °F degrees.
 
 ---
 
@@ -31,4 +31,4 @@ vegan: ✓
 
 ---
 
-> Bake for 12 minutes until salmon is opaque and flaky when pulled apart with a fork. Tip: 350 F for 18-20 minutes, lower and longer makes it softer inside while still nice a crispy texture outside.
+> Bake for 12 minutes until salmon is opaque and flaky when pulled apart with a fork (125–130°F / 52–54°C in the thickest part for medium). Tip: 350 °F for 18-20 minutes, lower and longer makes it softer inside while still nice a crispy texture outside.
