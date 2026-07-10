@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="assets/style.css?v=1d42229b">    <title>Tahini
+Sauce – Recipes</title>
+    <meta property="og:title" content="Tahini Sauce" />
+    <meta property="og:image" content="https://recipes.frederikvig.com/images/tahini-sauce.jpg" />
+</head>
+<body>
+    <main class="recipe">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+                <a href="sides.html">Sides</a> <i>⟩</i>
+            </nav>
+            <div class="meta-top">Sides</div>
+            <h1>Tahini Sauce</h1>
+            
+        </header>
+
+                    <figure class="hero">
+                
+                    <img src="images/tahini-sauce.jpg" alt="Tahini
+Sauce">
+                
+                
+            </figure>
+        
+        <div class="meta-strip">
+                            <div class="item"><div class="label">Yields</div><div class="value">12
+tbsp (serves 5)</div></div>
+                                        <div class="item"><div class="label">Total Time</div><div class="value">10
+minutes</div></div>
+                                        <div class="item"><div class="label">Source</div><div class="value"><a href="https://www.themediterraneandish.com/tahini-sauce-recipe-how-to-make-tahini/" data-source="https://www.themediterraneandish.com/tahini-sauce-recipe-how-to-make-tahini/">Source</a></div></div>
+                        <div class="item"><div class="label">Updated</div><div class="value">2026-07-10</div></div>
+        </div>
+
+        <div class="recipe-tags">
+            
+                <span class="tag"><img src="assets/tabler-icons/tabler-icon-meat.svg"> Meat</span>
+                        
+            
+            
+            
+            
+            
+            
+        </div>
+
+        
+        <p class="descr">A creamy, tangy tahini sauce with a fresh
+parsley twist — great on sandwiches, wraps, bowls, falafel, and mezze
+platters.</p>
+
+        <div class="section-marker">·  ·  ·  Method  ·  ·  ·</div>
+
+        <section>
+            <hr>
+            <ul>
+            <li><code>1-2</code> garlic cloves, peeled</li>
+            <li><code>½ tsp</code> salt</li>
+            <li><code>¾ cup</code> tahini paste</li>
+            <li><code>½ cup</code> fresh lime or lemon juice</li>
+            <li><code>¼ cup</code> cold water, about</li>
+            <li><code>1 cup</code> chopped parsley (optional)</li>
+            </ul>
+            <blockquote>
+            <p>Make a garlic paste. Using a mortar and pestle, crush the
+            garlic cloves with the salt into a paste (or mince or finely
+            grate the garlic and season with salt).</p>
+            </blockquote>
+            <hr />
+            <blockquote>
+            <p>Add the crushed garlic, tahini paste, and lime juice to
+            the bowl of a food processor and blend (it will be thick as
+            it emulsifies). Add the water, a little bit at a time, until
+            you reach your desired consistency.</p>
+            </blockquote>
+            <hr />
+            <blockquote>
+            <p>Transfer to a serving bowl and stir in the parsley, if
+            using. Enjoy!</p>
+            </blockquote>
+        </section>
+        <footer>
+            <p></p>
+            <p class="updatededit">
+                Updated on 2026-07-10
+                                            ·
+                        <a href="https://github.com/frederikvig/nyum/edit/main/_recipes/tahini-sauce.md">Edit</a>
+                                </p>
+        </footer>    </main>
+    <script>
+    // For source links: replace the displayed text with a clean hostname when the value is a URL
+    // (otherwise leave the existing label/author text alone, but unlink it for non-URLs).
+    document.querySelectorAll('a[data-source]').forEach(a => {
+        const src = a.dataset.source;
+        try {
+            const url = new URL(src);
+            if (a.textContent.trim().toLowerCase() === 'source') {
+                a.textContent = url.host.replace(/^www\./, '');
+            }
+        } catch (e) {
+            a.replaceWith(document.createTextNode(src));
+        }
+    });
+
+    // Suppress the drop cap when the description begins with what looks like a proper-noun
+    // pair (two consecutive Capitalized words, e.g. "Julia Child's…", "Helen Rennie's…").
+    // The heuristic isn't perfect but it catches the most jarring cases without manual tagging.
+    document.querySelectorAll('.recipe .descr').forEach(p => {
+        const m = p.textContent.trim().match(/^([A-Z][a-zà-ÿ'’]*)\s+([A-Z])/);
+        if (m) p.classList.add('no-dropcap');
+    });
+    </script>
+</body>
+</html>

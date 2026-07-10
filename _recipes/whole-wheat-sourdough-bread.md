@@ -36,15 +36,15 @@ vegan: ✓
 
 ---
 
-> Lightly flour your work surface and scrape out the dough. Divide in half with a bench knife and lightly shape each half into a round. Rest uncovered for 25 minutes.
+> Wet your hands and using a bowl scraper gently transfer the dough to a clean work surface. Use a bench knife to divide in half.
 
 ---
 
-> Shape each piece into a boule or bâtard and transfer to a lightly floured proofing basket.
+> Preshape the dough and leave uncovered for 25 minutes.
 
 ---
 
-> Cover the proofing baskets, seal shut, and proof in the refrigerator overnight.
+> Lightly flour your hands and work surface, and shape into a boule or bâtard, transfer to a proofing basket (that's lightly floured), cover and keep in fridge overnight.
 
 ---
 
@@ -56,4 +56,4 @@ vegan: ✓
 
 ---
 
-> When done the loaf should have an internal temperature of around 208°F (97°C). Cool on a wire rack for 2 hours before slicing. Return the pot to the oven for 15 minutes before repeating the baking process with the second loaf.
+> When done the loaf should have an internal temperature of 206°F-210°F. Place the loaf on a cooling rack and let it cool for 2 hours. Return the pot to the oven for 15 minutes before repeating the baking process with the second loaf.

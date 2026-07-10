@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="assets/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon-180.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=DM+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="assets/style.css?v=1d42229b">    <title>Mediterranean
+Cucumber Tomato Salad – Recipes</title>
+    <meta property="og:title" content="Mediterranean Cucumber Tomato
+Salad" />
+    <meta property="og:image" content="https://recipes.frederikvig.com/images/mediterranean-salad.jpg" />
+</head>
+<body>
+    <main class="recipe">
+        <header class="recipe-head">
+            <nav class="recipe-breadcrumb">
+                <a href="index.html">Recipes</a>
+                <i>⟩</i>
+                <a href="sides.html">Sides</a> <i>⟩</i>
+            </nav>
+            <div class="meta-top">Sides</div>
+            <h1>Mediterranean Cucumber Tomato Salad</h1>
+            
+        </header>
+
+                    <figure class="hero">
+                
+                    <img src="images/mediterranean-salad.jpg" alt="Mediterranean
+Cucumber Tomato Salad">
+                
+                
+            </figure>
+        
+        <div class="meta-strip">
+                            <div class="item"><div class="label">Yields</div><div class="value">6
+servings</div></div>
+                                        <div class="item"><div class="label">Total Time</div><div class="value">10
+minutes</div></div>
+                                        <div class="item"><div class="label">Source</div><div class="value"><a href="https://www.themediterraneandish.com/3-ingredient-mediterranean-salad/" data-source="https://www.themediterraneandish.com/3-ingredient-mediterranean-salad/">Source</a></div></div>
+                        <div class="item"><div class="label">Updated</div><div class="value">2026-07-10</div></div>
+        </div>
+
+        <div class="recipe-tags">
+            
+                <span class="tag"><img src="assets/tabler-icons/tabler-icon-meat.svg"> Meat</span>
+                        
+            
+            
+            
+            
+            
+            
+        </div>
+
+        
+        <p class="descr">An everyday cucumber and tomato salad with just
+a handful of ingredients and no cooking involved.</p>
+
+        <div class="section-marker">·  ·  ·  Method  ·  ·  ·</div>
+
+        <section>
+            <hr>
+            <ul>
+            <li><code>6</code> Roma tomatoes, diced (about 3 cups)</li>
+            <li><code>1</code> large English or hot-house cucumber,
+            diced</li>
+            <li><code>½</code> small red onion, thinly sliced
+            (optional)</li>
+            <li><code>¾ bunch</code> parsley, leaves and tender stems
+            chopped (about ½–¾ cup)</li>
+            <li>kosher salt, to taste</li>
+            <li><code>½ tsp</code> black pepper</li>
+            <li><code>1 tsp</code> ground sumac</li>
+            <li><code>2 tbsp</code> extra virgin olive oil</li>
+            <li><code>2 tsp</code> freshly squeezed lemon juice, plus
+            more to taste</li>
+            </ul>
+            <blockquote>
+            <p>In a large mixing bowl, gently combine the tomatoes,
+            cucumbers, red onion, and parsley. Season with kosher salt
+            and toss. Set aside for 5 minutes or so.</p>
+            </blockquote>
+            <hr />
+            <blockquote>
+            <p>Add the sumac, olive oil, and lemon juice. Give the salad
+            a gentle toss. Taste and adjust the seasoning to your
+            liking. Enjoy!</p>
+            </blockquote>
+        </section>
+        <footer>
+            <p></p>
+            <p class="updatededit">
+                Updated on 2026-07-10
+                                            ·
+                        <a href="https://github.com/frederikvig/nyum/edit/main/_recipes/mediterranean-salad.md">Edit</a>
+                                </p>
+        </footer>    </main>
+    <script>
+    // For source links: replace the displayed text with a clean hostname when the value is a URL
+    // (otherwise leave the existing label/author text alone, but unlink it for non-URLs).
+    document.querySelectorAll('a[data-source]').forEach(a => {
+        const src = a.dataset.source;
+        try {
+            const url = new URL(src);
+            if (a.textContent.trim().toLowerCase() === 'source') {
+                a.textContent = url.host.replace(/^www\./, '');
+            }
+        } catch (e) {
+            a.replaceWith(document.createTextNode(src));
+        }
+    });
+
+    // Suppress the drop cap when the description begins with what looks like a proper-noun
+    // pair (two consecutive Capitalized words, e.g. "Julia Child's…", "Helen Rennie's…").
+    // The heuristic isn't perfect but it catches the most jarring cases without manual tagging.
+    document.querySelectorAll('.recipe .descr').forEach(p => {
+        const m = p.textContent.trim().match(/^([A-Z][a-zà-ÿ'’]*)\s+([A-Z])/);
+        if (m) p.classList.add('no-dropcap');
+    });
+    </script>
+</body>
+</html>

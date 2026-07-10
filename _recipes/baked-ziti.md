@@ -29,11 +29,19 @@ source: https://www.onceuponachef.com/recipes/baked-ziti-with-sausage.html
 
 ---
 
-> Heat a large nonstick sauté pan over medium-high heat. Crumble the sausage into the pan and cook, breaking it apart with a wooden spoon, until lightly browned and just cooked through, 5 to 6 minutes. Use a slotted spoon to transfer the cooked sausage to a plate. Drain all but 1 tablespoon of the fat from the pan and set over low heat (if you don't have enough fat in the pan, add a tablespoon of olive oil). Add the garlic and cook, stirring constantly with a wooden spoon, until soft but not browned, about 1 minute. Add the crushed tomatoes, 1 tsp salt, sugar, and red pepper flakes and simmer, uncovered, for 10 minutes.
+> Heat a large nonstick sauté pan over medium-high heat. Crumble the sausage into the pan and cook, breaking it apart with a wooden spoon, until lightly browned and just cooked through, 8 to 10 minutes. Use a slotted spoon to transfer the cooked sausage to a plate.
 
 ---
 
-> Add the cream, ⅓ cup (33 g) of the pecorino Romano, the cooked sausage, and the basil, if using, to the pan; stir until evenly combined. Carefully pour the contents of the sauté pan into the pot with the pasta and gently stir to combine. Spoon half the mixture into a 9 x 13-inch (23 x 33 cm) baking dish. Sprinkle with half the shredded mozzarella and half the remaining pecorino Romano. Spoon the remaining pasta mixture on top and sprinkle with the remaining mozzarella and pecorino Romano.
+> Drain all but 1 tablespoon of the fat from the pan and set over low heat (if you don't have enough fat in the pan, add a tablespoon of olive oil). Add the garlic and cook, stirring constantly with a wooden spoon, until soft but not browned, about 1 minute. Add the crushed tomatoes, 1 tsp salt, back pepper, sugar, and red pepper flakes and simmer, uncovered, for 10 minutes.
+
+---
+
+> Add the cream, ⅓ cup (33 g) of the pecorino Romano, the cooked sausage, and the basil, if using, to the pan; stir until evenly combined.
+
+---
+
+> Carefully pour the contents of the sauté pan into the pot with the pasta and gently stir to combine. Spoon half the mixture into a 9 x 13-inch (23 x 33 cm) baking dish. Sprinkle with half the shredded mozzarella and half the remaining pecorino Romano. Spoon the remaining pasta mixture on top and sprinkle with the remaining mozzarella and pecorino Romano.
 
 ---
 
