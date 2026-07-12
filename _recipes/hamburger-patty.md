@@ -1,6 +1,6 @@
 ---
 title: Hamburger Patties
-category: [Dinner, Beef]
+category: [Dinner, Beef, Grill/BBQ]
 original_title: Best Hamburger Patty Recipe
 description: Thick or thin, made on the grill or stovetop, this is the best and easiest all-purpose recipe for perfect hamburger patties every time! These juicy, delicious homemade hamburgers are ready in less than 30 minutes and are a must-make for your next cookout..
 image: images/hamburger-patty.webp

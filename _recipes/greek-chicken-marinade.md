@@ -1,6 +1,6 @@
 ---
 title: Greek Chicken Marinade
-category: [Dinner, Chicken]
+category: [Dinner, Chicken, Grill/BBQ]
 description: A bold and vibrant Greek-style marinade with garlic, oregano, lemon, and olive oil that works for any cut of chicken - grilled or baked.
 image: images/greek-chicken-marinade.jpg
 size: 4 servings

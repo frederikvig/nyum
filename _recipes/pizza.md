@@ -9,14 +9,14 @@ vegan: ✓
 ---
 
 * `2¼ tsp` active dry yeast (one 1¼ ounce pack)
-* `440 gram` all-purpose flour
-* `345 gram` flour (antimo caputo pasta 00 flour)
-* `¼ cup` extra-virgin olive oil
-* `2½ cups` water
-* `1⅓ tbsp` sugar
+* `450 gram` all-purpose flour
+* `350 gram` flour (antimo caputo pasta 00 flour)
+* `50 gram` extra-virgin olive oil
+* `510 gram` water
+* `1 tbsp` sugar
 * `1 tbsp` kosher salt (or to taste)
 
-> In the bowl of a stand mixer fitted with the dough hook attachment, combine the yeast and flours. With the mixer running on low speed, slowly pour in the oil. Add the water and mix until combined. The dough will be quite wet.
+> In the bowl of a stand mixer fitted with the paddle attachment, combine the yeast and flours. With the mixer running on low speed, slowly pour in the oil. Add the water and mix until combined. The dough will be quite wet.
 
 ---
 
