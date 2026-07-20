@@ -4,7 +4,6 @@ category: Dinner
 image: images/pizza.jpg
 size: 6 servings
 time: 1 hour
-source: Cooking for a good time (book)
 vegan: ✓
 ---
 
@@ -12,7 +11,7 @@ vegan: ✓
 * `450 gram` all-purpose flour
 * `350 gram` flour (antimo caputo pasta 00 flour)
 * `50 gram` extra-virgin olive oil
-* `510 gram` water
+* `560 gram` water
 * `1 tbsp` sugar
 * `1 tbsp` kosher salt (or to taste)
 
